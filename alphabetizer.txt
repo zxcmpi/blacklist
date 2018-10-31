@@ -4626,6 +4626,7 @@ ws*://video.docfilms.info^
 ||analyticapi.pho.fm^
 ||analyticapi.piri.net^
 ||analyticcdn.globalmailer.com^
+
 ||analytics*.carambo.la^
 ||analytics-api-samples.googlecode.com^
 ||analytics-beacon-*.amazonaws.com^
@@ -4641,6 +4642,7 @@ ws*://video.docfilms.info^
 ||analytics-static.unister-gmbh.de^
 ||analytics-tracker.thescore.com^
 ||analytics-v2.anvato.com^
+||analytics.*
 ||analytics.163.com^
 ||analytics.1and1.com^
 ||analytics.21cn.com^
