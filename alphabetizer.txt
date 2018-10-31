@@ -7254,7 +7254,6 @@ ws*://video.docfilms.info^
 ||cdn.hdat.xyz^
 ||cdn.herezera.com^
 ||cdn.hgdat.com^
-||cdn.hiido.cn
 ||cdn.hiido.cn^
 ||cdn.hiperadverts.com^
 ||cdn.hyperpromote.com^
@@ -11411,12 +11410,7 @@ ws*://video.docfilms.info^
 ||freebiesurveys.com^
 ||freebloghitcounter.com^
 ||freecelebvideo.net^
-||freecontent.date
-||freecontent.loan^
-||freecontent.racing
-||freecontent.racing^
-||freecontent.stream
-||freecontent.win^
+||freecontent.*
 ||freecounter.it^
 ||freecountercode.com^
 ||freecountersnow.com^
