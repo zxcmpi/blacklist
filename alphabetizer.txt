@@ -29,8 +29,8 @@
 ://*.1sexxx.com
 ://*.a-akamaihd.com^
 ://*.anime-free.net^
-://*.channelintelligence.com^
 ://*.bobfilm1.co^
+://*.channelintelligence.com^
 ://*.dorgroup.com^
 ://*.drampic.info^
 ://*.free-tor.com^
@@ -50,8 +50,8 @@
 ://*.propix.info^
 ://*.protopix.info^
 ://*.sexpornophoto.com^
-://*.suntimes.com^
 ://*.speedbit.com^
+://*.suntimes.com^
 ://*.uniondht.org^
 ://*.vpptechnologies.com^
 ://kma.biz^
@@ -1409,8 +1409,8 @@ ws*://video.docfilms.info^
 ||ad.mwork.vn^
 ||ad.myinstashot.com^
 ||ad.mylinea.com^
-||ad.net-tool.jp^
 ||ad.net-activities.com^
+||ad.net-tool.jp^
 ||ad.networkcpm.com^
 ||ad.netzquadrat.de^
 ||ad.newsnow.net^
@@ -1771,10 +1771,10 @@ ws*://video.docfilms.info^
 ||addoor.net^
 ||addroid.com^
 ||addroplet.com^
-||addtoany.com^
 ||adds.weatherology.com^
 ||addstats.com^
 ||addthis.com^
+||addtoany.com^
 ||addupp.com^
 ||addynamics.eu^
 ||addynamix.com^
@@ -1970,9 +1970,9 @@ ws*://video.docfilms.info^
 ||adjuggler.net^
 ||adjuggler.yourdictionary.com^
 ||adjungle.com^
-||adjust.com^
 ||adjust-net.jp^
 ||adjust-sp.jp^
+||adjust.com^
 ||adk2.co^
 ||adk2.com^
 ||adk2.net^
@@ -4485,7 +4485,6 @@ ws*://video.docfilms.info^
 ||analyticapi.pho.fm^
 ||analyticapi.piri.net^
 ||analyticcdn.globalmailer.com^
-
 ||analytics*.carambo.la^
 ||analytics-api-samples.googlecode.com^
 ||analytics-beacon-*.amazonaws.com^
@@ -6390,6 +6389,7 @@ ws*://video.docfilms.info^
 ||budgetedbauer.com^
 ||budsinc.com^
 ||budurl.com^
+||buff.ly
 ||bufupacamo.com^
 ||bugaga.tut.by^
 ||bugherd.com^
@@ -8127,6 +8127,7 @@ ws*://video.docfilms.info^
 ||counter-kostenlos.net^
 ||counter-pagerank.de^
 ||counter-treff.de^
+||counter.*
 ||counter.1i.kz^
 ||counter.24log.es^
 ||counter.24smi.info^
@@ -8134,7 +8135,6 @@ ws*://video.docfilms.info^
 ||counter.all.biz^
 ||counter.bizland.com^
 ||counter.blogoscoop.net^
-||counter.*
 ||counter160.com^
 ||counter2.blog.livedoor.com^
 ||counter2.condenast.it^
@@ -12748,7 +12748,6 @@ ws*://video.docfilms.info^
 ||image.masterstats.com^
 ||image.nsk-sys.com^
 ||image.pathfinder.com^
-||image.providesupport.com^
 ||image.safe-sender.co.uk
 ||image.versiontracker.com^
 ||imageadnet.com^
@@ -13255,6 +13254,7 @@ ws*://video.docfilms.info^
 ||ipgettraff.info^
 ||ipify.org^
 ||ipinfo.info^
+||ipinfo.io
 ||ipinfodb.com^
 ||ipinyou.com.cn^
 ||ipinyou.com^
@@ -13619,6 +13619,7 @@ ws*://video.docfilms.info^
 ||judicated.com^
 ||juiceadv.com^
 ||juiceadv.net^
+||juicer.io
 ||juicyads.com^
 ||jujuads.com^
 ||jujzh9va.com^
@@ -14315,6 +14316,7 @@ ws*://video.docfilms.info^
 ||liveburst.com^
 ||livecams.nl
 ||livechat.s3.amazonaws.com^
+||livechatinc.com
 ||liveclix.net^
 ||livecount.fr^
 ||livecounter.dk^
@@ -15274,9 +15276,9 @@ ws*://video.docfilms.info^
 ||metric.nwsource.com^
 ||metric.timewarnercable.com^
 ||metrica.yandex.by^
-||metrica.yandex.com^
 ||metrica.yandex.com.tr^
 ||metrica.yandex.com.ua^
+||metrica.yandex.com^
 ||metrica.yandex.kz^
 ||metrica.yandex.ua^
 ||metricfast.com^
@@ -15339,9 +15341,9 @@ ws*://video.docfilms.info^
 ||metrigo.zalan.do^
 ||metrika-informer.com^
 ||metrika.yandex.by
-||metrika.yandex.com^
 ||metrika.yandex.com.tr^
 ||metrika.yandex.com.ua^
+||metrika.yandex.com^
 ||metrika.yandex.kz^
 ||metrika.yandex.ua^
 ||metriweb.be^
@@ -17613,6 +17615,7 @@ ws*://video.docfilms.info^
 ||ping.xlmc.sandai.net^
 ||pingagenow.com^
 ||pingback.sogou.com^
+||pingdom.com^
 ||pinger.macromedia.com^
 ||pingil.com^
 ||pingjs.qq.com^
@@ -18306,6 +18309,7 @@ ws*://video.docfilms.info^
 ||provenpixel.com^
 ||providence.voxmedia.com^
 ||provider-direct.com^
+||providesupport.com^
 ||proxad.net^
 ||proximic.com^
 ||proxy.ladot.com^
@@ -19899,7 +19903,6 @@ ws*://video.docfilms.info^
 ||secure.ifbyphone.com^
 ||secure.iqmining.com^
 ||secure.medleyads.com^
-||secure.providesupport.com^
 ||secure.redirectportal.com^
 ||secure.testoxl.com^
 ||secure.webconnect.net^
@@ -20776,8 +20779,11 @@ ws*://video.docfilms.info^
 ||spurioussteam.com^
 ||spycash.biz
 ||spycounter.net^
+||spyfone.com
+||spyhuman.com
 ||spyhunter-download.s3.amazonaws.com^
 ||spylog.com^
+||spymasterpro.com
 ||spynet2.microsoft.com^
 ||spyware.homestead.com^
 ||spywarelabs.com^
