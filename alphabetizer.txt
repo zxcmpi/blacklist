@@ -14379,9 +14379,7 @@ ws*://video.docfilms.info^
 ||lockscalecompare.com^
 ||lockview.cn^
 ||locotrack.net^
-||log-*.previewnetworks.com^
-||log-live.direct.ly^
-||log-player.arte.tv^
+||log-*.*
 ||log.*
 ||log000.goo.ne.jp^
 ||log1.24liveplus.com^
