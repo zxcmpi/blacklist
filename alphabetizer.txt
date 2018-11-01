@@ -1275,7 +1275,6 @@ ws*://video.docfilms.info^
 ||ad.antventure.com^
 ||ad.api.kaffnet.com^
 ||ad.api.yyapi.net^
-||ad.app-authority.com^
 ||ad.apps.fm^
 ||ad.aquamediadirect.com^
 ||ad.arklm.com^
@@ -2371,8 +2370,7 @@ ws*://video.docfilms.info^
 ||ads.amateurmatch.com^
 ||ads.amdmb.com^
 ||ads.amusive.com^
-||ads.apn.co.nz
-||ads.app-authority.com^
+||ads.apn.co.nz^
 ||ads.appia.com^
 ||ads.applelinks.com^
 ||ads.appsgeyser.com^
@@ -4682,7 +4680,6 @@ ws*://video.docfilms.info^
 ||api.triver.jp^
 ||api.tweetmeme.com^
 ||api.uca.cloud.unity3d.com^
-||api.umbel.com^
 ||api.unthem.com^
 ||api.usebutton.com^
 ||api.usersnap.com^
@@ -4716,7 +4713,6 @@ ws*://video.docfilms.info^
 ||app-trackings.com^
 ||app.adjust.io
 ||app.adjust.io^
-||app.app-authority.com^
 ||app.cocolog-nifty.com^
 ||app.cookieassistant.com^
 ||app.crossengage.io^
@@ -7974,8 +7970,6 @@ ws*://video.docfilms.info^
 ||content.ad^
 ||content.adprofile.net^
 ||content.adscension.com^
-||content.app-authority.com^
-||content.applift.com^
 ||content.bitsontherun.com^
 ||content.complex.com^
 ||content.cpxinteractive.com^
@@ -15687,7 +15681,6 @@ ws*://video.docfilms.info^
 ||monetisetrk5.co.uk
 ||monetisetrk6.co.uk
 ||monetisevideo.com^
-||monetize.applift.com^
 ||monetizemore.com^
 ||monetizer101.com^
 ||money-cpm.fr^
@@ -15714,7 +15707,6 @@ ws*://video.docfilms.info^
 ||monu.delivery^
 ||monxserver.com^
 ||mookie1.com^
-||mookiel.com^
 ||mooncklick.com^
 ||moonsade.com^
 ||mootermedia.com^
@@ -15834,11 +15826,10 @@ ws*://video.docfilms.info^
 ||mtagmonetizationb.com^
 ||mtagmonetizationc.com^
 ||mtburn.com^
-||mtburn.jp
 ||mtburn.jp^
 ||mtcount.channeladvisor.com^
 ||mtdatahaba.rocks^
-||mtkzz.survey7.adsservingtwig.xyz
+||mtkzz.survey7.adsservingtwig.xyz^
 ||mtlog.droid4x.cn^
 ||mto.mediatakeout.com^
 ||mtrack.nl^
@@ -15915,7 +15906,7 @@ ws*://video.docfilms.info^
 ||my.hellobar.com^
 ||my.plexapp.com^
 ||my.top100.photo^
-||myad.no
+||myad.no^
 ||myad.vn^
 ||myad24.de^
 ||myadcash.com^
@@ -15942,7 +15933,6 @@ ws*://video.docfilms.info^
 ||myclickbankads.com^
 ||mycooliframe.net^
 ||mycounter.com.ua^
-||mycounter.com^.ua
 ||mycounter.ua^
 ||mycoupons.com^
 ||mycrypto.company^
@@ -16079,7 +16069,6 @@ ws*://video.docfilms.info^
 ||namitol.com^
 ||nanigans.com^
 ||nanoadexchange.com^
-||nanostats.nanopress.it
 ||nanostats.nanopress.it^
 ||nanovisor.io^
 ||nanuyalailai.com^
@@ -16144,7 +16133,7 @@ ws*://video.docfilms.info^
 ||nebabrop.com^
 ||neblotech.com^
 ||ned.itv.com^
-||nedstat.co.uk
+||nedstat.co.uk^
 ||nedstat.com^
 ||nedstat.net^
 ||nedstat.nl^
@@ -16215,7 +16204,7 @@ ws*://video.docfilms.info^
 ||netperception.com^
 ||netperceptions.com^
 ||netpondads.com^
-||netpool.net^bookia.net^
+||netpool.netbookia.net^
 ||netprefs.com^
 ||netratings.com^
 ||netreflector.com^
@@ -16596,7 +16585,7 @@ ws*://video.docfilms.info^
 ||oascentral.advanstar.com^
 ||oascentral.businessweek.com^
 ||oascentral.chicagobusiness.com^
-||oascentral.com^cast.net^
+||oascentral.comcast.net^
 ||oascentral.construction.com^
 ||oascentral.crainsdetroit.com^
 ||oascentral.dailybreeze.com^
@@ -21620,9 +21609,7 @@ ws*://video.docfilms.info^
 ||tagjunction.com^
 ||tagmanager.cn^
 ||tagon.co^
-||tags-cdn.deployads.com^
 ||tags-eu.tiqcdn.com^
-||tags.api.umbel.com^
 ||tags.chitika.net^
 ||tags.compuhot.com^
 ||tags.expo9.exponential.com^
