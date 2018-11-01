@@ -27,6 +27,7 @@
 ://*.1acpix.xyz^
 ://*.1alivs.xyz^
 ://*.1sexxx.com
+://*.lycos.com^
 ://*.a-akamaihd.com^
 ://*.anime-free.net^
 ://*.bobfilm1.co^
@@ -1352,7 +1353,7 @@ ws*://video.docfilms.info^
 ||ad.hodomobile.com^
 ||ad.html.it^
 ||ad.hyena.cz^
-||ad.ibest.com^.br
+||ad.ibest.com.br^
 ||ad.iconadserver.com^
 ||ad.iii.co.uk^
 ||ad.iinfo.cz^
@@ -1532,7 +1533,7 @@ ws*://video.docfilms.info^
 ||ad01.adonspot.com^
 ||ad01.mediacorpsingapore.com^
 ||ad1.dada.it^
-||ad1.hpg.com^.br
+||ad1.hpg.com.br^
 ||ad1.icorp.net^
 ||ad1.kde.cz
 ||ad1.nend.net^
@@ -1668,8 +1669,6 @@ ws*://video.docfilms.info^
 ||adbutler.us^
 ||adbutton.net^
 ||adbuyer.com^
-||adbuyer2.lycos.com^
-||adbuyer3.lycos.com^
 ||adbuzz.com.tr^
 ||adc-serv.net^
 ||adc.9news.com.au^
@@ -2418,7 +2417,6 @@ ws*://video.docfilms.info^
 ||ads.bitservices.no^
 ||ads.blogdrive.com^
 ||ads.bloomberg.com^
-||ads.blueadvertise.com^
 ||ads.bluefishnetwork.com^
 ||ads.bluelithium.com^
 ||ads.bluemongoose.com^
@@ -2492,8 +2490,7 @@ ws*://video.docfilms.info^
 ||ads.democratandchronicle.com^
 ||ads.dennisnet.co.uk
 ||ads.denverbroncos.com^
-||ads.depositfiles.com^
-||ads.depositfiles.org^
+||ads.depositfiles.*
 ||ads.desktopdollars.com^
 ||ads.desmoinesregister.com^
 ||ads.detelefoongids.nl
@@ -2527,7 +2524,7 @@ ws*://video.docfilms.info^
 ||ads.ebihoreanul.ro
 ||ads.ecircles.com^
 ||ads.economist.com^
-||ads.egrana.com^.br
+||ads.egrana.com.br^
 ||ads.elementodigital.org^
 ||ads.eltiempo.com^
 ||ads.emg-network.com^
@@ -3893,7 +3890,6 @@ ws*://video.docfilms.info^
 ||advertising.hardwarezone.com^
 ||advertising.hiasys.com^
 ||advertising.ie^
-||advertising.lycos.com^
 ||advertising.microsoft.com^
 ||advertising.net^
 ||advertising.paltalk.com^
@@ -5393,7 +5389,7 @@ ws*://video.docfilms.info^
 ||banner.cdpoker.com^
 ||banner.celebrity-fakes.net^
 ||banner.cityclubcasino.com^
-||banner.clickme.com^.br
+||banner.clickme.com.br^
 ||banner.clubdicecasino.com^
 ||banner.com^
 ||banner.com^missionpartner.com^
@@ -5422,10 +5418,10 @@ ws*://video.docfilms.info^
 ||banner.galacasino.com^
 ||banner.gasuki.com^
 ||banner.goldenpalace.com^
-||banner.grupos.com^.br
+||banner.grupos.com.br^
 ||banner.img.co.za
 ||banner.indiocasino.com^
-||banner.intermega.com^.br
+||banner.intermega.com.br^
 ||banner.inyourpocket.com^
 ||banner.itweb.co.za
 ||banner.kanald.com.tr^
@@ -5446,7 +5442,7 @@ ws*://video.docfilms.info^
 ||banner.oddcast.com^
 ||banner.ool.ua
 ||banner.orizzontescuola.it
-||banner.paodeacucar.com^.br
+||banner.paodeacucar.com.br^
 ||banner.penguin.cz
 ||banner.pethobbyist.com^
 ||banner.poker.williamhill.com^
@@ -5572,7 +5568,7 @@ ws*://video.docfilms.info^
 ||banners.galiciae.com^
 ||banners.getiton.com^
 ||banners.images.streamray.com^
-||banners.img.uol.com^.br
+||banners.img.uol.com.br^
 ||banners.impactfive.com^
 ||banners.ims.nl
 ||banners.inetfast.com^
@@ -5589,7 +5585,7 @@ ws*://video.docfilms.info^
 ||banners.ksl.com^
 ||banners.largecash.com^
 ||banners.leadingedgecash.com^
-||banners.ligbr.com^.br
+||banners.ligbr.com.br^
 ||banners.linkbuddies.com^
 ||banners.lovercloud.com^
 ||banners.mobile.yandex.net^
@@ -5749,7 +5745,6 @@ ws*://video.docfilms.info^
 ||beacon.indieclicktv.com^
 ||beacon.kmi-us.com^
 ||beacon.livefyre.com^
-||beacon.lycos.com^
 ||beacon.mtgx.tv
 ||beacon.netflix.com^
 ||beacon.nuskin.com^
@@ -15190,7 +15185,7 @@ ws*://video.docfilms.info^
 ||megabanners.cf^
 ||megabc.info^
 ||megabestnews.net^
-||megacash.warpnet.com^.br
+||megacash.warpnet.com.br^
 ||megacpm.com^
 ||megafingroup.com^
 ||megafriends.com^
@@ -15907,7 +15902,6 @@ ws*://video.docfilms.info^
 ||my-linker.com^
 ||my-ranking.de^
 ||my-stats.info^
-||my.blueadvertise.com^
 ||my.electricbalance.com^
 ||my.hellobar.com^
 ||my.plexapp.com^
@@ -19797,12 +19791,10 @@ ws*://video.docfilms.info^
 ||scripts.affiliatefuture.com^
 ||scripts.affilired.com^
 ||scripts.amateurpin.com^
-||scripts.blueadvertise.com^
 ||scripts.cgispy.com^
 ||scripts.chitika.net^
 ||scripts.hellobar.com^
 ||scripts.insite.com.br^
-||scripts.lycos.com^
 ||scripts.psyma.com^
 ||scripts.speedshiftmedia.com^
 ||scripts21.com^
@@ -20359,7 +20351,7 @@ ws*://video.docfilms.info^
 ||slontube.net^
 ||slopeac.com^
 ||slopeaota.com^
-||sm.banner-link.com^.br
+||sm.banner-link.com.br^
 ||sm.domob.cn
 ||smaato.net^
 ||smaclick.com^
@@ -22262,7 +22254,7 @@ ws*://video.docfilms.info^
 ||tr.suedkurier.de^
 ||tr.webantenna.info^
 ||tr1.mailperformance.com^
-||tr2.vttrack.com^.br^
+||tr2.vttrack.com.br^^
 ||tr563.com^
 ||tra.pmdstatic.net^
 ||trabro.com^
@@ -23183,7 +23175,7 @@ ws*://video.docfilms.info^
 ||tubetrafficcash.com^
 ||tubogomifo.com^
 ||tucows.orangesoda.com^
-||tufosex.com^.br
+||tufosex.com.br^
 ||tulip18.com^
 ||tulula.biz^
 ||tumabeni.com^
@@ -23581,7 +23573,7 @@ ws*://video.docfilms.info^
 ||utubeconverter.com^
 ||uuaoy.com^
 ||uur.at
-||uv.terra.com^.br
+||uv.terra.com.br^
 ||uvcwj.com^
 ||uwsxz.com^
 ||uwuyn.us^
@@ -24334,7 +24326,7 @@ ws*://video.docfilms.info^
 ||webstatistika.lt^
 ||webstatistika.lv^
 ||webstats.com^
-||webstats.com^.br
+||webstats.com.br^
 ||webstats.motigo.com^
 ||webstats.perfectworld.com^
 ||webstats.sapo.pt
@@ -24464,7 +24456,7 @@ ws*://video.docfilms.info^
 ||widget.breakingburner.com^
 ||widget.cheki.com^.ng
 ||widget.convertiser.com^
-||widget.dihitt.com^.br
+||widget.dihitt.com.br^
 ||widget.dimsum.my^
 ||widget.embedarticle.com^
 ||widget.getsatisfaction.com^
