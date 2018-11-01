@@ -8078,6 +8078,7 @@ ws*://video.docfilms.info^
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||corrosif.science^
 ||corruptcy.com^
+||cortana.ai^
 ||cortoonnetwork.com^
 ||corwrite.com^
 ||cosmi.io^
@@ -15820,6 +15821,7 @@ ws*://video.docfilms.info^
 ||msnhomepage.com^
 ||msnnetwork.com^
 ||msparktrk.com^
+||mspy.com^
 ||msrv.su^
 ||mstat.acestream.net^
 ||mstracker.net^
@@ -16077,6 +16079,7 @@ ws*://video.docfilms.info^
 ||nanovisor.io^
 ||nanuyalailai.com^
 ||narrangel.com^
+||narvar.com^
 ||nasdak.in^
 ||nasdfg.com^
 ||nastoverewess.pro^
@@ -24677,7 +24680,6 @@ ws*://video.docfilms.info^
 ||wvzhj.com^
 ||ww1.contaprime.com^
 ||ww2.instafinder.com^
-||ww2.lostwebtracker.com^
 ||wwbn.com^
 ||wwclickgo.com^
 ||wwm24.de^
@@ -25030,11 +25032,8 @@ ws*://video.docfilms.info^
 ||youbora.com^
 ||youboranqs01.com^
 ||youcandoitwithroi.com^
-||youcanoptin.com^
-||youcanoptin.org^
-||youcanoptout.com^
-||youcanoptout.net^
-||youcanoptout.org^
+||youcanoptin.*
+||youcanoptout.*
 ||youlamedia.com^
 ||youle55.com^
 ||youlouk.com^
