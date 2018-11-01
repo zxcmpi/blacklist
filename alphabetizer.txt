@@ -1760,6 +1760,7 @@ ws*://video.docfilms.info^
 ||addeluxe.jp^
 ||addeppo.com^
 ||addesigner.com^
+||addevent.com^
 ||addfreestats.com^
 ||addie.verticalnetwork.de^
 ||addiply.com^
@@ -2262,6 +2263,7 @@ ws*://video.docfilms.info^
 ||adrecover.com^
 ||adrecreate.com^
 ||adrelayer.com^
+||adrelevantis.com^
 ||adrent.net^
 ||adrepo.singlehop.com^
 ||adreport.de^
@@ -3163,9 +3165,8 @@ ws*://video.docfilms.info^
 ||adserver.ad4link.com^
 ||adserver.adbunker.com^
 ||adserver.adreactor.com^
-||adserver.ads.com^.ph
+||adserver.ads.com.ph^
 ||adserver.ads360.com^
-||adserver.adtechus.com^
 ||adserver.advertist.com^
 ||adserver.affiliatemg.com^
 ||adserver.airmiles.ca
@@ -3561,12 +3562,13 @@ ws*://video.docfilms.info^
 ||adsoogle.com^
 ||adsoptimal.com^
 ||adsopx.com^
+||adsorb.com^
 ||adsota.com^
 ||adsovo.com^
 ||adsp.ciner.com.tr^
 ||adsp.com^
 ||adsp.haberturk.com^
-||adsp.ilse.nl
+||adsp.ilse.nl^
 ||adspace.ro
 ||adspaper.org^
 ||adsparc.net^
@@ -3682,6 +3684,7 @@ ws*://video.docfilms.info^
 ||adtecc.com^
 ||adtech.com^
 ||adtech.de^
+||adtechus.com^
 ||adtegrity.com^
 ||adtegrity.net^
 ||adtegrity.spinbox.net^
@@ -3716,6 +3719,7 @@ ws*://video.docfilms.info^
 ||adtomafusion.net^
 ||adtoox.com^
 ||adtotal.pl^
+||adtouchlabs.com^
 ||adtpix.com^
 ||adtrace.org^
 ||adtrack.adleadevent.com^
@@ -3742,6 +3746,7 @@ ws*://video.docfilms.info^
 ||adtruth.com^
 ||adtwbjs.com^
 ||adtwirl.com^
+||adtz.com^
 ||aduacni.com^
 ||aducash.com^
 ||adult-adv.com^
@@ -3833,7 +3838,7 @@ ws*://video.docfilms.info^
 ||advenueplatform.com^
 ||adverity.com^
 ||adverline.com^
-||adverline.fr
+||adverline.fr^
 ||adverpub.com^
 ||adversal.com^
 ||adversaldisplay.com^
@@ -3895,6 +3900,7 @@ ws*://video.docfilms.info^
 ||advertising.spreadomat.net^
 ||advertising.yahoo.com^
 ||advertising365.com^
+||advertisingbox.com^
 ||advertisingiq.com^
 ||advertisingpath.net^
 ||advertisingsex.com^
@@ -4295,8 +4301,6 @@ ws*://video.docfilms.info^
 ||ak.webfetti.com^
 ||ak0gsh40.com^
 ||ak1.imgaft.com^
-||aka-cdn-ns.adtechus.com^
-||aka-cdn.adtechus.com^
 ||aka.p80.net^
 ||akaads-abc.starwave.com^
 ||akaads-espn.starwave.com^
@@ -5558,7 +5562,6 @@ ws*://video.docfilms.info^
 ||banners.easydns.nl
 ||banners.emol.com^
 ||banners.empoweredcomms.com.au^
-||banners.eroadvertising.com^
 ||banners.espiasadictos.com^
 ||banners.etermax.com^
 ||banners.fastcupid.com^
@@ -8962,7 +8965,6 @@ ws*://video.docfilms.info^
 ||data-analytics.jp^
 ||data-collector.wefi.com^
 ||data-data-vac.com^
-||data-eroadvertising.com^
 ||data-slimspots.com^
 ||data.24smi.net^$third-party
 ||data.adaptiveaudience.com^
@@ -10758,7 +10760,6 @@ ws*://video.docfilms.info^
 ||flashteaser.com^
 ||flashvortex.com^
 ||flatad.de^
-||flatdee.ero-advertising.com^
 ||flcounter.com^
 ||fleconomnipuer.com^
 ||fleshlight-russia.com^
@@ -14442,7 +14443,7 @@ ws*://video.docfilms.info^
 ||log.mappy.net^
 ||log.mmstat.com^
 ||log.musical.ly^
-||log.net^geography.net^
+||log.netgeography.net^
 ||log.news.zing.vn^
 ||log.newsvine.com^
 ||log.nexgen.neustar.biz
@@ -17671,10 +17672,7 @@ ws*://video.docfilms.info^
 ||pixel.4players.de
 ||pixel.ad.mlnadvertising.com^
 ||pixel.ad^
-||pixel.adcrowd.com^
 ||pixel.admobclick.com^
-||pixel.alephd.com^
-||pixel.alexametrics.com^
 ||pixel.anyclip.com^
 ||pixel.autoaffiliatenetwork.com^
 ||pixel.bild.de^
@@ -19284,9 +19282,7 @@ ws*://video.docfilms.info^
 ||rlcdn.com^
 ||rleeden.myby.co.uk
 ||rlinks.one.in^
-||rlog-api.under9.co
 ||rlog-api.under9.co^
-||rm2.adtilt.com^
 ||rmads.eu.msn.com^
 ||rmads.msn.com^
 ||rmawm7mw.top^
@@ -22367,8 +22363,8 @@ ws*://video.docfilms.info^
 ||track.mypcbackup.com^
 ||track.mysavingsmedia.net^
 ||track.net^
-||track.net^shelter.net^
-||track.net^zero.net^
+||track.netshelter.net^
+||track.netzero.net^
 ||track.netzero.net^
 ||track.ning.com^
 ||track.noz.de^
@@ -22389,7 +22385,7 @@ ws*://video.docfilms.info^
 ||track.qcri.org
 ||track.qcri.org^
 ||track.qoof.com^
-||track.ra.icast.cn
+||track.ra.icast.cn^
 ||track.radins.com^
 ||track.realwhiznews.com^
 ||track.reasonablespread.com^
@@ -22425,7 +22421,7 @@ ws*://video.docfilms.info^
 ||track.tiara.daum.net^
 ||track.tooplay.com^
 ||track.tracking85.com^
-||track.trademail.fr
+||track.trademail.fr^
 ||track.uc.cn^
 ||track.ugamezone.com^
 ||track.ultimate-guitar.com^
@@ -22483,7 +22479,7 @@ ws*://video.docfilms.info^
 ||tracker.brainsins.com^
 ||tracker.brokeragecapital.com^
 ||tracker.bt.uol.com.br^
-||tracker.btarena.org
+||tracker.btarena.org^
 ||tracker.buscape.com.br^
 ||tracker.calameo.com^
 ||tracker.cartprotector.com^
@@ -22975,7 +22971,6 @@ ws*://video.docfilms.info^
 ||travidia.com^
 ||traviilo.com^
 ||traviously.pro^
-||trax-ad.jp
 ||trax-ad.jp^
 ||trax.dirxion.com^
 ||trax.gamespot.com^
@@ -23344,7 +23339,6 @@ ws*://video.docfilms.info^
 ||ulock.it
 ||ulogs.umengcloud.com^
 ||ulosmuynstes.ml^
-||ultimategracelessness.info
 ||ultimategracelessness.info^
 ||ultimatelyreveal.com^
 ||ultraadserver.com^
@@ -23787,15 +23781,12 @@ ws*://video.docfilms.info^
 ||videoprtl.com^
 ||videoroll.net^
 ||videorot.com^
-||videos.oms.eu
 ||videos.oms.eu^
 ||videoseed.by^
 ||videoselfer.com^
 ||videosmor.com^
-||videostat-new.index.hu
 ||videostat-new.index.hu^
 ||videostat.com^
-||videostat.index.hu
 ||videostat.index.hu^
 ||videostrip.com^
 ||videotracker.washingtonpost.com^
@@ -24240,11 +24231,10 @@ ws*://video.docfilms.info^
 ||webforensics.co.uk^
 ||webgains.com^
 ||webgekeniuos.com^
-||webglobaltraffic.info
+||webglobaltraffic.info^
 ||webglstats.com^
 ||webgozar.com^
 ||webgozar.ir^
-||webhit.snd.no
 ||webhit.snd.no^
 ||webhitcounter.com^
 ||webhits.de^
@@ -24307,7 +24297,6 @@ ws*://video.docfilms.info^
 ||webservices.ecn5.com^
 ||webservices.sub2tech.com^
 ||webservices.websitepros.com^
-||webservis.gen.tr
 ||webservis.gen.tr^
 ||websexy.mobi^
 ||website-designs.com^
@@ -24331,7 +24320,7 @@ ws*://video.docfilms.info^
 ||webstat.net^
 ||webstat.no^
 ||webstatistic.ml^
-||webstatistieken.xs4all.nl
+||webstatistieken.xs4all.nl^
 ||webstatistik.odav.de^
 ||webstatistika.lt^
 ||webstatistika.lv^
@@ -24386,9 +24375,9 @@ ws*://video.docfilms.info^
 ||wecount4u.com^
 ||wedgeac.com^
 ||wedtor.com^
-||wee.co.il
+||wee.co.il^
 ||weecia.7173.clicksurecpa.com^
-||weedoit.fr
+||weedoit.fr^
 ||weeklyad.target.com^
 ||weesh.co.uk^
 ||wefbjdsbvksdbvkv.com^
