@@ -1518,7 +1518,7 @@ ws*://video.docfilms.info^
 ||ad.xertive.com^
 ||ad.xplusone.com^
 ||ad.yahoo.com^
-||ad.yam.com^.tw
+||ad.yam.com.tw^
 ||ad.yemeksepeti.com^
 ||ad.yieldlab.net^
 ||ad.yieldpartners.com^
@@ -7427,7 +7427,7 @@ ws*://video.docfilms.info^
 ||clickice.com^
 ||clickigniter.io^
 ||clickinc.com^
-||clicking.com^.tw
+||clicking.com.tw^
 ||clickintext.com^
 ||clickintext.net^
 ||clickit.com^
@@ -9592,7 +9592,7 @@ ws*://video.docfilms.info^
 ||dragout.de^
 ||dramatical.online^
 ||drawbrid.ge
-||drd.hauchi.com^.tw
+||drd.hauchi.com.tw^
 ||dream-sponsor.de^
 ||dreamaquarium.com^
 ||dreamcounter.de^
