@@ -1770,6 +1770,7 @@ ws*://video.docfilms.info^
 ||addoor.net^
 ||addroid.com^
 ||addroplet.com^
+||addtoany.com^
 ||adds.weatherology.com^
 ||addstats.com^
 ||addthis.com^
@@ -1968,6 +1969,7 @@ ws*://video.docfilms.info^
 ||adjuggler.net^
 ||adjuggler.yourdictionary.com^
 ||adjungle.com^
+||adjust.com^
 ||adjust-net.jp^
 ||adjust-sp.jp^
 ||adk2.co^
@@ -5197,7 +5199,6 @@ ws*://video.docfilms.info^
 ||b-aws.aol.com^
 ||b-aws.huffingtonpost.com^
 ||b-click.net^
-||b.admedia.com^
 ||b.ads1.msn.com^
 ||b.aklamio.com^
 ||b.aol.com^
@@ -17919,7 +17920,6 @@ ws*://video.docfilms.info^
 ||pongoresume.com^
 ||pontiflex.com^
 ||pontypriddcrick.com^
-||pool.admedo.com^
 ||pool.ads.net^log.com^
 ||pool.etn.spacepools.org^
 ||pool5.info^
