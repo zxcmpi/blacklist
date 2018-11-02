@@ -11592,6 +11592,7 @@ ws*://video.docfilms.info^
 ||googleadapis.l.google.com^
 ||googleadservicepixel.com^
 ||googleadservices.com^
+||googleadservices.com/*
 ||googlerank.info^
 ||googlesyndicatiion.com^
 ||googlesyndication.com^
