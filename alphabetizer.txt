@@ -50,6 +50,7 @@
 ://*.pornogig.com^
 ://*.propix.info^
 ://*.protopix.info^
+://*.rmgserving.com^
 ://*.sexpornophoto.com^
 ://*.speedbit.com^
 ://*.suntimes.com^
@@ -59,9 +60,7 @@
 ://r.i.ua^
 ://r.reklam*.com^
 ://say.ac^
-@@||5471782.fls.doubleclick.net^|
 @@||ads.tdbank.com^
-@@||h-sdk.online-metrix.net^|
 @@||href.li^|
 @@||omniture.walmart.com^|
 estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { return; } });
@@ -921,7 +920,6 @@ ws*://video.docfilms.info^
 ||a.optnmnstr.com^
 ||a.plapre.no^
 ||a.raasnet.com^
-||a.rmgserving.com^
 ||a.ruporn.me^
 ||a.sc.freepornvs.com^
 ||a.solarmovie.is^
@@ -2484,7 +2482,7 @@ ws*://video.docfilms.info^
 ||ads.datais.com^
 ||ads.date.com^
 ||ads.dealhelper.com^
-||ads.delfi.ee
+||ads.delfi.ee^
 ||ads.deliads.com^
 ||ads.democratandchronicle.com^
 ||ads.dennisnet.co.uk
@@ -5018,7 +5016,6 @@ ws*://video.docfilms.info^
 ||b.photobucket.com^
 ||b.portalnet.cl^
 ||b.positive-technology.co.uk^
-||b.rmgserving.com^
 ||b.sli-spark.com^
 ||b.sweet-hd.com^
 ||b.the-nextlevel.com^
@@ -6329,7 +6326,7 @@ ws*://video.docfilms.info^
 ||c.msnbc.com^
 ||c.munmedtrflow.com^
 ||c.nakanohito.jp^
-||c.net^u.tv
+||c.netu.tv
 ||c.newsinc.com^
 ||c.ns.inbox.lv
 ||c.opinion.com.ua^
@@ -6338,7 +6335,6 @@ ws*://video.docfilms.info^
 ||c.pebblemedia.be
 ||c.popunderz.com^
 ||c.rhapsody.com^
-||c.rmgserving.com^
 ||c.sahcdn.com^
 ||c.smartclick.net^
 ||c.t-online.de^
@@ -8327,8 +8323,6 @@ ws*://video.docfilms.info^
 ||d.moreover.com^
 ||d.p-td.com^
 ||d.rapsio.com^
-||d.rmgserving.com^
-||d.shareaholic.com^
 ||d.socdm.com^
 ||d.yimg.com^
 ||d00.sina.com.cn^
@@ -8789,6 +8783,7 @@ ws*://video.docfilms.info^
 ||datalabusa.com^
 ||datam.com^
 ||datam8.co.nz^
+||datamark.net^
 ||datamaster.com.cn^
 ||datametrical.com^
 ||dataperforma.com^
@@ -9158,8 +9153,7 @@ ws*://video.docfilms.info^
 ||distiltag.com^
 ||distralytics.com^
 ||distribeo.com^
-||districtm.ca^
-||districtm.io^
+||districtm.*
 ||disy2s34euyqm.cloudfront.net^
 ||dit-dit-dot.com^
 ||ditabu.pro^
@@ -9540,7 +9534,6 @@ ws*://video.docfilms.info^
 ||e.ofuda.cc^
 ||e.qq.com^
 ||e.reddit.com^
-||e.rmgserving.com^
 ||e.tdmagroup.com^
 ||e.tw.cx^
 ||e.yieldmanager.net^
@@ -9684,7 +9677,6 @@ ws*://video.docfilms.info^
 ||edge.bredg.com^
 ||edge.jeetyetmedia.com^
 ||edge.mb.gammae.com^
-||edge.sharethis.com^
 ||edge.sqweb.com^
 ||edgead.woomedya.com^
 ||edgeads.org^
@@ -10243,7 +10235,6 @@ ws*://video.docfilms.info^
 ||f.iaftjs.info^
 ||f.mol.im
 ||f.pinid.com^
-||f.rmgserving.com^
 ||f.staticlp.com^
 ||f08253c9a45a7c723.trade^
 ||f1.ilivlite.com^
@@ -10855,6 +10846,7 @@ ws*://video.docfilms.info^
 ||fvbaffiliate.com^
 ||fwbntw.com^
 ||fwdservice.com^
+||fwmrm.net^
 ||fx-trend.com^
 ||fxcast.com^
 ||fxdepo.com^
@@ -11294,7 +11286,6 @@ ws*://video.docfilms.info^
 ||go.qb.by^
 ||go.quantcast.com^
 ||go.redirectingat.com^
-||go.shareaholic.com^
 ||go.theadsnet.com^
 ||go.toutapp.com^
 ||go.trackgold.net^
@@ -11575,7 +11566,6 @@ ws*://video.docfilms.info^
 ||h.cliphunter.com^
 ||h.imedia.cz^
 ||h.live.com^
-||h.online-metrix.net^
 ||h1.flashvortex.com^
 ||h12-media.com^
 ||h166g9ej.download^
@@ -13710,8 +13700,6 @@ ws*://video.docfilms.info^
 ||l.myxcz.com^
 ||l.ooyala.com^
 ||l.player.ooyala.com^
-||l.popin.cc
-||l.sharethis.com^
 ||l0-secure.videohub.tv^
 ||l2.visiblemeasures.com^
 ||l33tsite.info^
@@ -16498,6 +16486,7 @@ ws*://video.docfilms.info^
 ||onefeed.co.uk
 ||onefeed.co.uk^
 ||onefontapi91283.com^
+||online-metrix.net^
 ||onelink-translations.com^
 ||onelouder.com^
 ||onenetworkdirect.com^
@@ -18500,7 +18489,6 @@ ws*://video.docfilms.info^
 ||recognified.net^
 ||recomendedsite.com^
 ||recommendation.24.com^
-||recommendations.shareaholic.com^
 ||recommendedpreview.com^
 ||recommender.jp^
 ||record.com^missionlounge.com^
@@ -18728,7 +18716,6 @@ ws*://video.docfilms.info^
 ||respond-adserver.cloudapp.net^
 ||respondhq.com^
 ||responsetap.com^
-||rest.sharethis.com^
 ||result.wired.com^
 ||resultlinks.com^
 ||resultonline.com^
@@ -18754,6 +18741,7 @@ ws*://video.docfilms.info^
 ||retrayan.com^
 ||retrostats.com^
 ||return.to^
+||returnpath.net^
 ||returso.com^
 ||reundcwkqvctq.com^
 ||reussissonsensemble.fr^
@@ -19144,7 +19132,6 @@ ws*://video.docfilms.info^
 ||s.rankdirectory.org^
 ||s.renren.com^
 ||s.rev2pub.com^
-||s.sharethis.com^
 ||s.sniphub.com^
 ||s.ssacdn.com^
 ||s.tagsrvcs.com^
@@ -19395,8 +19382,7 @@ ws*://video.docfilms.info^
 ||scrubswim.com^
 ||scubajournal.com^
 ||scupio.com^
-||sd.domob.cn
-||sd.sharethis.com^
+||sd.domob.cn^
 ||sda.groupspaces.com^
 ||sdc.ca.com^
 ||sdc.hns.com^
@@ -19514,7 +19500,6 @@ ws*://video.docfilms.info^
 ||seevolution.com^
 ||seewhy.com^
 ||sefortme.pro^
-||seg.sharethis.com^
 ||segment-analytics.com^
 ||segment.com^
 ||segment.io^
@@ -19702,6 +19687,7 @@ ws*://video.docfilms.info^
 ||share-server.com^
 ||share.9cdn.net^
 ||share.loginradius.com^
+||shareaholic^
 ||shareasale.com^
 ||sharecash.org^
 ||shared.65twenty.com^
@@ -19709,6 +19695,7 @@ ws*://video.docfilms.info^
 ||sharegods.com^
 ||shareifyoulike.com^
 ||shareresults.com^
+||sharethis.*
 ||sharethrough.com^
 ||sharppatch.com^
 ||sharpspring.com^
@@ -20553,7 +20540,6 @@ ws*://video.docfilms.info^
 ||static.clmbtech.com^
 ||static.contactme.com^
 ||static.crakbanner.com^
-||static.criteo.net^
 ||static.csbew.com^
 ||static.dcoengine.com^
 ||static.digidip.net^
@@ -20651,7 +20637,6 @@ ws*://video.docfilms.info^
 ||stats-newyork1.bloxcms.com^
 ||stats.*
 ||stats1.clicktracks.com^
-||stats1.tune.pk
 ||stats1.tune.pk^
 ||stats1x1.kapaza.be
 ||stats2.*.fdnames.com^
@@ -20709,7 +20694,6 @@ ws*://video.docfilms.info^
 ||stcllctrs.com^
 ||stcollection.moneysupermarket.com^
 ||stcounter.com^
-||steakafka.pro
 ||steakafka.pro^
 ||stealth.nl^
 ||stealthlockers.com^
@@ -20732,8 +20716,7 @@ ws*://video.docfilms.info^
 ||stirshakead.com^
 ||stocker.bonnint.net^
 ||stonecalcom.com^
-||stopphoulplay.com^
-||stopphoulplay.net^
+||stopphoulplay.*
 ||storage.cloud.kargo.com^
 ||storage.conduit.com^
 ||storage.creative-mobile.com^
@@ -21052,7 +21035,6 @@ ws*://video.docfilms.info^
 ||t.sexycontent.net^
 ||t.sf14g.com^
 ||t.sgc.io^
-||t.sharethis.com^
 ||t.smile.eu^
 ||t.theoutplay.com^
 ||t.trackalyzer.com^
@@ -21125,7 +21107,6 @@ ws*://video.docfilms.info^
 ||tags-eu.tiqcdn.com^
 ||tags.chitika.net^
 ||tags.compuhot.com^
-||tags.expo9.exponential.com^
 ||tags.grajteraz.pl^
 ||tags.liveperson.net^
 ||tags.master-perf-tools.com^
@@ -21926,7 +21907,6 @@ ws*://video.docfilms.info^
 ||traffic.index.hu
 ||traffic.moportals.com^
 ||traffic.prod.cobaltgroup.com^
-||traffic.shareaholic.com^
 ||traffic.tc-clicks.com^
 ||traffic.trafficcompany.com^
 ||traffic.trafficposse.com^
@@ -22297,7 +22277,6 @@ ws*://video.docfilms.info^
 ||twitter-badges.s3.amazonaws.com^
 ||twodrive.su^
 ||twopointo.io^
-||twsg21x6-22dcca05c0915aa0dad0a07273e7a3c5015ddc6d-am1.d.aa.online-metrix.net^
 ||twtad.com^
 ||txel.snmmd.nl^
 ||txjdgm53.win^
@@ -22668,8 +22647,7 @@ ws*://video.docfilms.info^
 ||v1n7c.com^
 ||v2.adsbookie.com^
 ||v2.ipopup.ir
-||v2.popupsky.ir
-||v2.shareaholic.com^
+||v2.popupsky.ir^
 ||v2.visualwebsiteoptimizer.com^
 ||v2cigs.com^
 ||v2mlamber.com^
@@ -23121,7 +23099,6 @@ ws*://video.docfilms.info^
 ||w.hypercomments.com^
 ||w.mlv-cdn.com^
 ||w.oix.net^
-||w.sharethis.com^
 ||w.shoopadoo.com^
 ||w.uptolike.com^
 ||w.zenback.jp^
@@ -23233,8 +23210,6 @@ ws*://video.docfilms.info^
 ||wcpanalytics.com^
 ||wct.click^
 ||wct.link
-||wd-edge.sharethis.com^
-||wd.sharethis.com^
 ||wda.com^
 ||wdaxvjr9dc.com^
 ||wdc.mediation.nexage.com^
@@ -23703,7 +23678,6 @@ ws*://video.docfilms.info^
 ||ws-gateway.com^
 ||ws.amazon.com^
 ||ws.ksmobile.net^
-||ws.sharethis.com^
 ||wsb.aracert.com^
 ||wsback*.presage.io^
 ||wsc.ehost-services.com^
@@ -23819,7 +23793,7 @@ ws*://video.docfilms.info^
 ||xbasfbno.info^
 ||xbfk51p7.review^
 ||xbmhm.xyz^
-||xbox.visits.lt
+||xbox.visits.lt^
 ||xbt0izlb.faith^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
