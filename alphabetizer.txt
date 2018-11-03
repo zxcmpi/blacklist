@@ -12055,8 +12055,7 @@ ws*://video.docfilms.info^
 ||iaheyftbsn.review^
 ||iam-agof-app.irquest.com^
 ||iamediaserve.com^
-||iapref.orange.fr
-||iapref.wanadoo.fr
+||iapref.*.fr^
 ||ias.rakuten.co.jp^
 ||iasbetaffiliates.com^
 ||iaspromotes.com^
@@ -12176,9 +12175,7 @@ ws*://video.docfilms.info^
 ||ijquery11.com^
 ||ijrah.top^
 ||ikiif.com^
-||iklan-indo.org^
-||iklan-laris.com^
-||iklan-sukses.com^
+||iklan-*.*
 ||iklanads.com^
 ||iklanbarisgratis.co.uk^
 ||iklanbarisgratispasang.com^
@@ -12283,7 +12280,7 @@ ws*://video.docfilms.info^
 ||images.mrskincash.com^
 ||images.myareaguide.com^
 ||images.mylot.com^
-||images.net^radio.nl
+||images.netradio.nl
 ||images.paypal.com^
 ||images.people2people.com^
 ||images.performgroup.com^
@@ -12360,7 +12357,7 @@ ws*://video.docfilms.info^
 ||img1461.r.worldssl.net^
 ||img2.freeze.com^
 ||img3.giardinelli.com^
-||img3.giardinelli.com^.edgesuite.net^
+||img3.giardinelli.com.edgesuite.net^
 ||imgcache.classesusa.com^
 ||imgclck.com^
 ||imgfarm.com^
@@ -12513,11 +12510,9 @@ ws*://video.docfilms.info^
 ||info-mail.codeguard.com^
 ||info.anmedia.co.uk
 ||info.bororeb.com^
-||info.elba.at
 ||info.elba.at^
 ||info.tm/
 ||info33.info^
-||info4.a7.org
 ||info4.a7.org^
 ||infoclub.info^
 ||infocollect.dk^
