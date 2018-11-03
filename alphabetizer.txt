@@ -19711,7 +19711,6 @@ ws*://video.docfilms.info^
 ||shiltirs.com^
 ||shinasi.info^
 ||shinystat.com^
-||shinystat.it
 ||shinystat.it^
 ||shinystat.lvlar.com^
 ||shinystat.shiny.it
@@ -19819,7 +19818,6 @@ ws*://video.docfilms.info^
 ||site-stats.com^
 ||site-stats.i8.com^
 ||site-submit.com.ua^
-||site-submit.com^.ua
 ||site24x7rum.com^
 ||siteanalyser.yellgroup.com^
 ||siteanalytics.jp^
@@ -19850,9 +19848,7 @@ ws*://video.docfilms.info^
 ||sitestat.com^
 ||sitestat.hetnet.nl
 ||sitestatlog.net^
-||sitestats.com^
-||sitestats.info^
-||sitestats.tiscali.co.uk^
+||sitestats.*
 ||sitestatz.com^
 ||sitetag.us^
 ||sitetagger.co.uk^
@@ -19860,8 +19856,7 @@ ws*://video.docfilms.info^
 ||sitetistik.com^
 ||sitetracker.com^
 ||sitetraq.nl^
-||siteverification.online^
-||siteverification.site^
+||siteverification.*
 ||sitorew.com^
 ||sitti.co.id^
 ||sittiad.com^
@@ -19891,7 +19886,6 @@ ws*://video.docfilms.info^
 ||skyglue.com^
 ||skyhookwireless.com^
 ||skyhorn.com^
-||skyligh.co
 ||skyligh.co^
 ||skylog.kz^
 ||skyscrpr.com^
