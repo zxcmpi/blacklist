@@ -34,6 +34,7 @@
 ://*.channelintelligence.com^
 ://*.dorgroup.com^
 ://*.drampic.info^
+://*.ebayrtm.com^
 ://*.free-tor.com^
 ://*.free-torrents.eu.org^
 ://*.freerutor.com^
@@ -1162,7 +1163,6 @@ ws*://video.docfilms.info^
 ||ad*.nexage.com^
 ||ad*.tmgrup.com.tr^
 ||ad-agent.com^
-||ad-analytics-bootstrap.metaps.com^
 ||ad-arata.com^
 ||ad-arata.s3.amazonaws.com^
 ||ad-back.net^
@@ -1255,7 +1255,7 @@ ws*://video.docfilms.info^
 ||ad.adgile.com^
 ||ad.adintensity.com^
 ||ad.adlantis.jp^
-||ad.adnet.biz
+||ad.adnet.biz^
 ||ad.adnetinteractive.com^
 ||ad.adnetwork.net^
 ||ad.adschemist.com^
@@ -3142,10 +3142,7 @@ ws*://video.docfilms.info^
 ||adserv.usps.com^
 ||adserv8.com^
 ||adserve-nj.1rx.io^
-||adserve.com^
-||adserve.donanimhaber.com^
-||adserve.gogreece.com^
-||adserve.ph^
+||adserve.*
 ||adserve5.nikkeibp.co.jp^
 ||adserver-fx.com^
 ||adserver.*.yahoodns.net^
@@ -3729,6 +3726,7 @@ ws*://video.docfilms.info^
 ||adviator.com^
 ||advice-ads.s3.amazonaws.com^
 ||advideum.com^
+||advidi^
 ||advidi.optimuum.com^
 ||advido.com^
 ||advisorded.com^
@@ -4401,7 +4399,6 @@ ws*://video.docfilms.info^
 ||apextwo.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
-||api-analytics.metaps.com^
 ||api-analytics.rozetka.com.ua^
 ||api-keks.com^
 ||api.140proof.com^
@@ -6661,7 +6658,6 @@ ws*://video.docfilms.info^
 ||cdn.doubleverify.com^
 ||cdn.downloaddabs.com^
 ||cdn.dsultra.com^
-||cdn.dynamicyield.com^
 ||cdn.ebocornac.com^
 ||cdn.elasticad.net^
 ||cdn.engine.trklnks.com^
@@ -8941,7 +8937,6 @@ ws*://video.docfilms.info^
 ||delivery47.com^
 ||delivery49.com^
 ||delivery51.com^
-||deliveryengine.adswizz.com
 ||deliverylizer.com^
 ||deliverymailsysytem.co.uk
 ||deliverymodo.com^
@@ -9079,6 +9074,7 @@ ws*://video.docfilms.info^
 ||digitaldsp.com^
 ||digitalngo.com^
 ||digitaloptout.com^
+||digitalremedy.com^
 ||digitalresponse.de^
 ||digitrevenue.com^
 ||digitru.st^
@@ -9310,12 +9306,9 @@ ws*://video.docfilms.info^
 ||dotomi.com^
 ||double.net^
 ||doubleclick-analytics.com^
-||doubleclick.com^
-||doubleclick.ne.jp^
-||doubleclick.net^
+||doubleclick.*
 ||doubleclick.shockwave.com^
 ||doubleclickbygoogle.com^
-||doubleclicks.me^
 ||doubledeepclick.com^
 ||doublemax.net^
 ||doublepimp.com^
@@ -9373,6 +9366,8 @@ ws*://video.docfilms.info^
 ||dreamsearch.or.kr
 ||dreamsearch.or.kr^
 ||dreyeli.info^
+||drift.com^
+||driftt.com^
 ||drinkmy.com^
 ||drippler.helpshift.com^
 ||drivenetwork.online^
@@ -9495,6 +9490,7 @@ ws*://video.docfilms.info^
 ||dynamicdn.com^
 ||dynamicoxygen.com^
 ||dynamitedata.com^
+||dynamicyield.com^
 ||dynatrace.com^
 ||dynatracesaas.com^
 ||dyndns-blog.com^
@@ -14849,6 +14845,7 @@ ws*://video.docfilms.info^
 ||metal.ovh
 ||metalyzer.com^
 ||metamx.com^
+||metaps.com^
 ||metaprofit.net^
 ||metartmoney.met-art.com^
 ||metavertising.com^
@@ -17227,7 +17224,6 @@ ws*://video.docfilms.info^
 ||pixazza.com^
 ||pixel-xpanama.netdna-ssl.com^
 ||pixel.1und1.de^
-||pixel.33across.com^
 ||pixel.4players.de
 ||pixel.ad.mlnadvertising.com^
 ||pixel.ad^
@@ -17291,7 +17287,6 @@ ws*://video.docfilms.info^
 ||pixelcounter.expansion.com^
 ||pixelcounter.telva.com^
 ||pixeleze.com^
-||pixelg.adswizz.com^
 ||pixelhere.com^
 ||pixelinteractivemedia.com^
 ||pixelrevenue.com^
@@ -18045,7 +18040,6 @@ ws*://video.docfilms.info^
 ||pwrads.net^
 ||pwzn9ze.com^
 ||px.247inc.net^
-||px.dynamicyield.com^
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
 ||px.owneriq.net^
@@ -19698,7 +19692,6 @@ ws*://video.docfilms.info^
 ||si1.default-homepage-network.com^
 ||siamzone.com^
 ||sibulla.com^
-||sic-akamai.33across.com^
 ||sictalk.com^
 ||sidebar.angelfire.com^
 ||sidebar.issuu.com^
@@ -20293,7 +20286,6 @@ ws*://video.docfilms.info^
 ||srs.targetpoint.com^
 ||srtk.net^
 ||srv-2015-01-12-10.pixel.parsely.com^
-||srv.dynamicyield.com^
 ||srv.tonefuse.com^
 ||srv.tyroodr.com^
 ||srv.yavli.com^
@@ -20305,29 +20297,11 @@ ws*://video.docfilms.info^
 ||srv6.mobpedia.com^
 ||srvpub.com^
 ||srvtrck.com^
-||srx.at.ebayrtm.com^
-||srx.au.ebayrtm.com^
-||srx.befr.ebayrtm.com^
-||srx.benl.ebayrtm.com^
-||srx.ca.ebayrtm.com^
-||srx.cafr.ebayrtm.com^
-||srx.ch.ebayrtm.com^
 ||srx.com.sg^
-||srx.es.ebayrtm.com^
-||srx.fr.ebayrtm.com^
-||srx.ie.ebayrtm.com^
-||srx.in.ebayrtm.com^
-||srx.it.ebayrtm.com^
-||srx.main.ebayrtm.com^
-||srx.nl.ebayrtm.com^
-||srx.pl.ebayrtm.com^
-||srx.sg.ebayrtm.com^
-||srx.uk.ebayrtm.com^
 ||ss.musthird.com^
-||ss.tiscali.it
+||ss.tiscali.it^
 ||ss.xxxnavy.com^
-||ssangyong.co.il
-||sscdn.banners.advidi.com^
+||ssangyong.co.il^
 ||sscefsol.com^
 ||ssdphmfduwcl.com^
 ||ssl-google-analytics.l.google.com^
@@ -20369,7 +20343,6 @@ ws*://video.docfilms.info^
 ||st.bebi.com^
 ||st.blogads.com^
 ||st.cdnco.us^
-||st.dynamicyield.com^
 ||st.listrak.com^
 ||st.madisonlogic.com^
 ||st.magnify.net^
@@ -20642,7 +20615,6 @@ ws*://video.docfilms.info^
 ||stocker.bonnint.net^
 ||stonecalcom.com^
 ||stopphoulplay.*
-||storage.cloud.kargo.com^
 ||storage.conduit.com^
 ||storage.creative-mobile.com^
 ||storage.psstgccint.com^
@@ -22157,7 +22129,6 @@ ws*://video.docfilms.info^
 ||tumabeni.com^
 ||tummiarunzpf.com^
 ||tumri.net^
-||tunein.adswizz.com^
 ||tunituttybanner.com^
 ||tunnl.com^
 ||tupho.info^
