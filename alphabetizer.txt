@@ -1263,9 +1263,8 @@ ws*://video.docfilms.info^
 ||ad.adslim.com^
 ||ad.adsmart.net^
 ||ad.adsonpop.com^
-||ad.adtracking.me
+||ad.adtracking.me^
 ||ad.adver.com.tw^
-||ad.adworx.at^
 ||ad.alldanzradio.com^
 ||ad.allstar.cz^
 ||ad.aloodo.com^
@@ -7185,7 +7184,6 @@ ws*://video.docfilms.info^
 ||clickening.com^
 ||clickequations.net^
 ||clicker.com^*pageurl
-||clickeu.tractionize.com^
 ||clickexa.com^
 ||clickexperts.net^
 ||clickey.com^
@@ -7304,7 +7302,6 @@ ws*://video.docfilms.info^
 ||clickunderad.com^
 ||clickupto.com^
 ||clickus.reimsrvcm.com^
-||clickus.tractionize.com^
 ||clickv.com^
 ||clickwinks.com^
 ||clickxchange.com^
@@ -8053,7 +8050,6 @@ ws*://video.docfilms.info^
 ||cquotient.com^
 ||cr-nielsen.com^
 ||cr.loszona.com^
-||cr.tractionize.com^
 ||crack44.com^
 ||crackac.com^
 ||craftkeys.com^
@@ -10127,7 +10123,6 @@ ws*://video.docfilms.info^
 ||exchange.automoc.net^
 ||exchange.bg
 ||exchange.informer.ua^$third-party
-||exchange.tractionize.com^
 ||exchange4media.com^
 ||exchangead.com^
 ||exchangebanner.com^
@@ -12667,7 +12662,6 @@ ws*://video.docfilms.info^
 ||interupload.com^
 ||intervigil.com^
 ||interwebads.de^
-||interworksmedia.co.kr
 ||interworksmedia.co.kr^
 ||intext.billboard.cz
 ||intext.intextdirect.com^
@@ -12800,8 +12794,7 @@ ws*://video.docfilms.info^
 ||istanaimpian2.me^
 ||istanaimpian3.net^
 ||istat24.com^
-||istatic.datafastguru.info
-||istats.nl
+||istatic.datafastguru.info^
 ||istats.nl^
 ||istcs.top^
 ||istrack.com^
@@ -12815,11 +12808,9 @@ ws*://video.docfilms.info^
 ||itdise.info^
 ||itempana.site^
 ||itgear.jp^
-||itop.cz
 ||itop.cz^
 ||itpaystolearn.com^
 ||itrac.it^
-||itrack.it
 ||itrack.it^
 ||itracker360.com^
 ||itrackerpro.com^
@@ -12934,7 +12925,6 @@ ws*://video.docfilms.info^
 ||jdoqocy.com^
 ||jdproject.net^
 ||jdzw3frs.com^
-||je.revolvermaps.com/
 ||je.revolvermaps.com^
 ||jebadu.com^
 ||jebtrack.com^
@@ -13590,7 +13580,6 @@ ws*://video.docfilms.info^
 ||lengthi.net^
 ||lenta-novostei.com^
 ||lentainform.com^
-||lentainform.com^$third-party
 ||leokross.com^
 ||leon08.tk^
 ||lepinsar.com^
@@ -13843,8 +13832,7 @@ ws*://video.docfilms.info^
 ||lkqd.net^
 ||llgerege.com^
 ||lli.org
-||llladiez.click^
-||llladiez.org^
+||llladiez.*
 ||lloogg.com^
 ||llqd75c56i.com^
 ||lm.visualware.com^
@@ -14021,7 +14009,6 @@ ws*://video.docfilms.info^
 ||lslmetrics.djlmgdigital.com^
 ||lslpv80k.download^
 ||lt*.tritondigital.com^
-||lt.tritondigital.com^
 ||ltassrv.com.s3.amazonaws.com^
 ||lucidel.com^
 ||lucidmedia.com^
@@ -14190,7 +14177,6 @@ ws*://video.docfilms.info^
 ||mail-to-a-friend.com^
 ||mailer.p1ne.com^
 ||mailmarketingmachine.com^
-||mailserver.247media.net^
 ||mailstat.us^
 ||mailtrack.io
 ||mailtrack.me
@@ -14259,20 +14245,8 @@ ws*://video.docfilms.info^
 ||marketgid.com^
 ||marketgid.info^
 ||markethealth.com^
-||marketing-guerilla.de^
-||marketing-issue.com^
-||marketing-page.de^
-||marketing-profis.net^
-||marketing.888.com^
-||marketing.com^
-||marketing.external.xerox.com^
-||marketing.ghosterymktg.com^
-||marketing.kalahari.net^
-||marketing.modalife.com^
-||marketing.nyi.com^
-||marketing.nyi.net^
-||marketing.openoffice.org
-||marketing.vistaprint.com^
+||marketing-*
+||marketing.*
 ||marketingautomation.services^
 ||marketingenhanced.com^
 ||marketinghub.hp.com^
@@ -14284,8 +14258,7 @@ ws*://video.docfilms.info^
 ||marketizator.com^
 ||marketleverage.com^
 ||marketnetwork.com^
-||marketo.com^
-||marketo.net^
+||marketo.*
 ||marketoring.com^
 ||marketplace-ios-*.hyprmx.com^
 ||marketshot.com^
@@ -18815,7 +18788,6 @@ ws*://video.docfilms.info^
 ||ryushare.com^
 ||rzekbhnk.top^
 ||rzhujam.com^
-||rzr.tractionize.com^
 ||rztrkr.com^
 ||s*.adduplex.com^
 ||s*.site^.flashx.cc^
@@ -22055,7 +22027,6 @@ ws*://video.docfilms.info^
 ||ughus.com^
 ||uglactons.com^
 ||uglyst.com^
-||ugo.tractionize.com^
 ||uh.nakanohito.jp^
 ||uhappine.com^
 ||uharded.com^
