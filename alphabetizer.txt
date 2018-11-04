@@ -15936,10 +15936,7 @@ ws*://video.docfilms.info^
 ||populis.com^
 ||populisengage.com^
 ||populr.me^
-||popunder.
-||popunder.jacquieetmichel.net^
-||popunder.loading-delivery1.com^
-||popunder.net^
+||popunder.*
 ||popundertotal.com^
 ||popunderz.com^
 ||popunderzone.com^
@@ -15949,8 +15946,8 @@ ws*://video.docfilms.info^
 ||popup.smusic.ir
 ||popup.wisepops.com^
 ||popupad.net^
-||popupads.ir
-||popupclick.
+||popupads.ir^
+||popupclick.*
 ||popupdomination.com^
 ||popupmoney.com^
 ||popupprofi.de^
@@ -21074,7 +21071,6 @@ ws*://video.docfilms.info^
 ||video.digidip.net^
 ||video.flashiest-vacation.win^
 ||video.market-place.su^
-||video.oms.eu
 ||video.oms.eu^
 ||video.razvratu.net^
 ||video001.com^
