@@ -1061,7 +1061,6 @@ ws*://video.docfilms.info^
 ||absential.info^
 ||absolstats.co.za^
 ||abtest.mistat.xiaomi.com^
-||abtest.swrve.com^
 ||abtracker.us^
 ||abtrcking.com^
 ||abusieux.com^
@@ -3843,6 +3842,7 @@ ws*://video.docfilms.info^
 ||backlogtop.xyz^
 ||backromy.com^
 ||backstage.funnelenvy.com^
+||backtrace.io^
 ||backtype.com^
 ||bacontent.de^
 ||badge.stumbleupon.com^
@@ -7763,6 +7763,7 @@ ws*://video.docfilms.info^
 ||distralytics.com^
 ||distribeo.com^
 ||districtm.*
+||districtm.io^
 ||disy2s34euyqm.cloudfront.net^
 ||dit-dit-dot.com^
 ||ditabu.pro^
@@ -9235,6 +9236,7 @@ ws*://video.docfilms.info^
 ||foreinate.com^
 ||forelook.com^
 ||forensics1000.com^
+||foresee.com^
 ||foreseeresults.com^
 ||forestbrowser.com^
 ||forex-affiliate.com^
@@ -9290,6 +9292,7 @@ ws*://video.docfilms.info^
 ||frailoffer.com^
 ||frameptp.com^
 ||franecki.net^
+||franklyinc.com^
 ||frantic.com^
 ||fraudmetrix.cn^
 ||freddyman.com^
@@ -9485,6 +9488,7 @@ ws*://video.docfilms.info^
 ||gacela.eu^
 ||gadcreatives.glam.com^
 ||gae.caspion.com^
+||gaeadata.com^
 ||gag.admulti.com^
 ||gagacon.com^
 ||gagenez.com^
@@ -9647,6 +9651,7 @@ ws*://video.docfilms.info^
 ||get2buynow.com^
 ||get35.com^
 ||getabadmate.com^
+||getambassador.com^
 ||getbackstory.com^
 ||getbarometer.s3.amazonaws.com^
 ||getbeacon.io^
@@ -17066,6 +17071,7 @@ ws*://video.docfilms.info^
 ||retrayan.com^
 ||retrostats.com^
 ||return.to^
+||returnpath.com^
 ||returnpath.net^
 ||returso.com^
 ||reundcwkqvctq.com^
@@ -18736,7 +18742,6 @@ ws*://video.docfilms.info^
 ||st.bebi.com^
 ||st.blogads.com^
 ||st.cdnco.us^
-||st.extole.io^
 ||st.listrak.com^
 ||st.madisonlogic.com^
 ||st.magnify.net^
@@ -19134,6 +19139,7 @@ ws*://video.docfilms.info^
 ||superloofy.com^
 ||superpromo24.de^
 ||supersitetime.com^
+||supersonic.com^
 ||supersonicads-a.akamaihd.net^
 ||supersonicads.com^
 ||superstat.info^
@@ -19210,6 +19216,7 @@ ws*://video.docfilms.info^
 ||swoop.com^
 ||swoopgrid.com^
 ||sworatio.co^
+||swrve.com^
 ||swww.sc.pages02.net^
 ||swx.domob.cn^
 ||sx.thrnt.com^
@@ -19580,6 +19587,7 @@ ws*://video.docfilms.info^
 ||template.aebn.net^
 ||tempobanners.com^
 ||tendatta.com^
+||tenjin.com^
 ||tenlokif.com^
 ||tenmax.io^
 ||tennerlist.com^
@@ -19600,6 +19608,7 @@ ws*://video.docfilms.info^
 ||terra.fp.oix.net^
 ||terraclicks.com^
 ||terrapush.com^
+||terratracker.com^
 ||terratraf.com^
 ||terrazzo.bnex.com^
 ||terren.cntv.cn^
@@ -19664,6 +19673,7 @@ ws*://video.docfilms.info^
 ||theaffiliateprogram.com^
 ||theagency.com^
 ||theanswerto.com^
+||theappgrader.com^
 ||theappwarrior.com^
 ||thebannerexchange.com^
 ||thebestlinks.com^
