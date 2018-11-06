@@ -10891,7 +10891,6 @@ ws*://video.docfilms.info^
 ||imaginemedia.net^
 ||imanginatium.com^
 ||imanisfan.com^
-||imasdk.googleapis.com^
 ||imatmobile.com^
 ||imazicusez.com^
 ||imbetan.info^
