@@ -19,6 +19,7 @@
 .work-proxy.info^
 .yourbesttraf.info^
 /cdn-cgi/pe/bag2?r[]=*eth-pocket.de
+://*-adnow.com^
 ://*.012345b.xyz^
 ://*.10pix.xyz^
 ://*.111ae.xyz^
@@ -1159,7 +1160,9 @@ ws*://video.docfilms.info^
 ||acxtrk.com^
 ||ad*.nexage.com^
 ||ad*.tmgrup.com.tr^
+||ad*m.com^
 ||ad-*^
+||ad-solutions.com^
 ||ad.*^
 ||ad0.haynet.com^
 ||ad01.adonspot.com^
@@ -1175,7 +1178,6 @@ ws*://video.docfilms.info^
 ||ad1.udn.com^
 ||ad1.virtualave.com^
 ||ad1.yourmedia.com^
-||ad*m.com^
 ||ad1data.com^
 ||ad1m.adk
 ||ad1rtb.com^
@@ -1919,7 +1921,6 @@ ws*://video.docfilms.info^
 ||ads-*^
 ||ads.*^
 ||ads01.com^
-||ads1-adnow.com^
 ||ads1.ami-admin.com^
 ||ads1.canoe.ca
 ||ads1.condenet.com^
@@ -1931,7 +1932,6 @@ ws*://video.docfilms.info^
 ||ads1.themobileindian.net^
 ||ads1.tripod.com^
 ||ads16811.hotwords.es^
-||ads2-adnow.com^
 ||ads2.adverline.com^
 ||ads2.backads.com^
 ||ads2.brazzers.com^
@@ -1951,7 +1951,6 @@ ws*://video.docfilms.info^
 ||ads2.zeusclicks.com^
 ||ads2ads.net^
 ||ads2srv.com^
-||ads3-adnow.com^
 ||ads3.condenet.com^
 ||ads4.clearchannel.com^
 ||ads4.condenet.com^
@@ -1960,7 +1959,6 @@ ws*://video.docfilms.info^
 ||ads4finies.de^
 ||ads4homes.com^
 ||ads4links.com^
-||ads5-adnow.com^
 ||ads5.canoe.ca^
 ||ads5.sabah.com.tr^
 ||ads7.inet1.com^
@@ -2406,6 +2404,7 @@ ws*://video.docfilms.info^
 ||advertbox.us^
 ||advertclickme.com^
 ||adverteerdirect.nl^
+||advertfast.com^
 ||advertica-cdn.com^
 ||advertica.ae^
 ||adverticum.com^
@@ -4489,7 +4488,6 @@ ws*://video.docfilms.info^
 ||blog-stat.com^
 ||blog-webkatalog.de^
 ||blog.livelog.biz^
-||blog.mobpartner.com^
 ||blog104.com^
 ||blogads.com^
 ||blogads.de^
@@ -8051,13 +8049,11 @@ ws*://video.docfilms.info^
 ||e.domob.cn^
 ||e.funnymel.com^
 ||e.lndjj.com^
-||e.nexac.com^
 ||e.ofuda.cc^
 ||e.qq.com^
 ||e.reddit.com^
 ||e.tdmagroup.com^
 ||e.tw.cx^
-||e.yieldmanager.net^
 ||e0663490cca0296f7.com^
 ||e0a42e1a21669b.com^
 ||e0e0e4195bb7.racing^
@@ -8433,6 +8429,7 @@ ws*://video.docfilms.info^
 ||erkaseriilan.com.tr^
 ||erniphiq.com^
 ||ero-advertising.*^
+||ero-advertising.com^
 ||ero2you.com^
 ||eroadvertising.*^
 ||eroanalysis.com^
@@ -12504,7 +12501,6 @@ ws*://video.docfilms.info^
 ||lostelephants.xyz^
 ||lostwebtracker.com^
 ||lotame.com^
-||lotame.nexac.com^
 ||lotteryaffiliates.com^
 ||lotus-4d.com^
 ||loudgames.com^
@@ -13544,7 +13540,6 @@ ws*://video.docfilms.info^
 ||mobtrks.com^
 ||mobula.ssl2.duapps.com^
 ||mobvid.mobi^
-||mobwall.mobpartner.com^
 ||mobylog.jp^
 ||mobyt.com^
 ||mobytrks.com^
@@ -13921,8 +13916,9 @@ ws*://video.docfilms.info^
 ||mywebstats.org^
 ||mywidget.mobi^
 ||mz28ismn.com^
+||n*adserv.com^
+||n*adserv.xyz^
 ||n.bodybuilding.com^
-||n.fclick-adnow.com^
 ||n.gemini.yahoo.com^
 ||n.mailfire.io^
 ||n.targetdtracker.com^
@@ -13930,26 +13926,12 @@ ws*://video.docfilms.info^
 ||n.yunshipei.com^
 ||n0cgi.distributed.net^
 ||n1.nedstatbasic.net^
-||n1219adserv.xyz^
 ||n123loi.com^
-||n1307adserv.xyz^
-||n130adserv.com^
-||n131adserv.com^
-||n152adserv.com^
-||n156adserv.com^
-||n161adserv.com^
 ||n2s.co.kr^
 ||n388hkxg.com^
-||n60adserv.com^
-||n63adserv.com^
-||n64adserv.com^
-||n65adserv.com^
 ||n673oum.com^
 ||n69.com^
-||n69adserv.com^
-||n72adserv.com^
 ||n74s9.com^
-||n79adserv.com^
 ||n8jofwjp.date^
 ||n99adshostnet.com^
 ||naayna.com^
@@ -13961,7 +13943,6 @@ ws*://video.docfilms.info^
 ||naganaga.lol^
 ||nagrande.com^
 ||nahnoji.cz^
-||naj.sk
 ||naj.sk^
 ||najsiejfnc.win^
 ||nakanohito.jp^
@@ -14009,7 +13990,6 @@ ws*://video.docfilms.info^
 ||navigator.io^
 ||navilytics.com^
 ||navlog.channel4.com^
-||navrcholu.cz
 ||navrcholu.cz^
 ||navteq.com^
 ||naytev.com^
@@ -14037,10 +14017,7 @@ ws*://video.docfilms.info^
 ||nebabrop.com^
 ||neblotech.com^
 ||ned.itv.com^
-||nedstat.co.uk^
-||nedstat.com^
-||nedstat.net^
-||nedstat.nl^
+||nedstat.*^
 ||nedstatbasic.com^
 ||nedstatbasic.net^
 ||nedstatpro.net^
@@ -14086,13 +14063,13 @@ ws*://video.docfilms.info^
 ||netcounter.de^
 ||netcustos.com^
 ||netdebit-counter.de^
-||netdirect.nl
+||netdirect.nl^
 ||netflame.cc^
 ||netflixalternative.net^
 ||netfuerza.com^
 ||netgeo.com^
 ||netgraviton.net^
-||nethit-free.nl
+||nethit-free.nl^
 ||netidentity.com^
 ||netinsight.co.kr^
 ||netliker.com^
@@ -14140,7 +14117,7 @@ ws*://video.docfilms.info^
 ||network.bazaarvoice.com^
 ||network.bemyapp.com^
 ||network.nocreditcard.net^
-||network.sofeminine.co.uk
+||network.sofeminine.co.uk^
 ||network2.aufeminin.com^
 ||network22.com^
 ||networkad.net^
@@ -14168,7 +14145,7 @@ ws*://video.docfilms.info^
 ||new17write.com^
 ||new4.me^
 ||newads.bangbros.com^
-||newadserver.interfree.it
+||newadserver.interfree.it^
 ||newbe122.homestead.com^
 ||newdosug.eu^
 ||neweggstats.com^
@@ -14286,7 +14263,7 @@ ws*://video.docfilms.info^
 ||nlbanner.nl
 ||nlog.droid4x.cn^
 ||nlserver.xyz^
-||nm.net^mng.com^
+||nm.netmng.com^
 ||nm7xq628.click^
 ||nmcdn.us^
 ||nmpmgmldzvrmra.com^
@@ -14784,7 +14761,6 @@ ws*://video.docfilms.info^
 ||opap.co.kr^
 ||opbandit.com^
 ||open-hive-server-1.pp.ua^
-||open.ad.yieldmanager.net^
 ||open.delivery.net^
 ||open.mkt1397.com^
 ||open.oneplus.net^
@@ -15071,7 +15047,6 @@ ws*://video.docfilms.info^
 ||p.l.qq.com^
 ||p.l1v.ly^
 ||p.medialytics.com^
-||p.nexac.com^
 ||p.pagesjaunes.fr^
 ||p.po.st^*&pub=
 ||p.po.st^*&vguid=
@@ -15079,7 +15054,7 @@ ws*://video.docfilms.info^
 ||p.raasnet.com^
 ||p.smartertravel.com^
 ||p.srv2trkk.com^
-||p.txtsrving.info
+||p.txtsrving.info^
 ||p.typekit.net^
 ||p.univide.com^
 ||p.vtracy.de^
@@ -15119,11 +15094,7 @@ ws*://video.docfilms.info^
 ||page-hit.de^
 ||pagecount.com^
 ||pagefair.*^
-||pagerank-backlink.eu^
-||pagerank-hamburg.de^
-||pagerank-linkverzeichnis.de^
-||pagerank-online.eu^
-||pagerank-suchmaschine.de^
+||pagerank-*^
 ||pagerank.fr^
 ||pagerank.g-easy.hu^
 ||pagerank4you.eu^
@@ -15197,7 +15168,7 @@ ws*://video.docfilms.info^
 ||parlaka.com^
 ||parrable.com^
 ||parradoodle.bravejournal.com^
-||parse.ly
+||parse.ly^
 ||parsely.com^
 ||parserwords.info^
 ||parship.co.uk
@@ -15224,8 +15195,7 @@ ws*://video.docfilms.info^
 ||pas-rahav.com^
 ||pas.private4.com^
 ||pasangiklan.com^
-||pasangiklangratisbaris.com^
-||pasangiklangratisbaris.net^
+||pasangiklangratisbaris.*^
 ||pasangnomor2.net^
 ||pasarantogel.me^
 ||pasariklanbaris.com^
@@ -15233,7 +15203,6 @@ ws*://video.docfilms.info^
 ||passinst.com^
 ||passionfruitads.com^
 ||passive-earner.com^
-||passport.pfn.bz
 ||passport.pfn.bz^
 ||pasta.dianxinos.com^
 ||pasta.esfile.duapps.com^
@@ -15277,8 +15246,7 @@ ws*://video.docfilms.info^
 ||pc1ads.com^
 ||pc2ads.com^
 ||pcash.imlive.com^
-||pclick.europe.yahoo.com^
-||pclick.internal.yahoo.com^
+||pclick.*.yahoo.com^
 ||pclick.yahoo.com^
 ||pclicks.com^
 ||pcmagazin.digidip.net^
@@ -15670,8 +15638,7 @@ ws*://video.docfilms.info^
 ||ploy.batmobi.net^
 ||pls.webtype.com^
 ||plsdrct*.me^
-||plufdsa.com^
-||plufdsb.com^
+||plufds*.com^
 ||plug.plugerr.com^
 ||plugerr.com^
 ||plugin.2easydroid.com^
@@ -15768,8 +15735,7 @@ ws*://video.docfilms.info^
 ||pool.ads.netlog.com^
 ||pool.etn.spacepools.org^
 ||pool5.info^
-||poolmining.eu^
-||poolmining.net^
+||poolmining.*^
 ||poolnoodle.tech^
 ||pop-parad.
 ||pop-rev.com^
@@ -15846,8 +15812,8 @@ ws*://video.docfilms.info^
 ||popzila.com^
 ||poratav.com^
 ||poredii.com^
-||pornads.biz
-||porner.at
+||pornads.biz^
+||porner.at^
 ||porngraph.com^
 ||pornhub.tardangro.com^
 ||pornhub.yoshatia.com^
@@ -16024,8 +15990,8 @@ ws*://video.docfilms.info^
 ||proccurs.com^
 ||proclivitysystems.com^
 ||prod.untd.com^
-||production-adserver-*.amazonaws.com^
 ||production-*.lvp.llnw.net^
+||production-adserver-*.amazonaws.com^
 ||production-stats-ezpublishing.netdna-ssl.com^
 ||production.mcs.delve.cust.lldns.net^
 ||products-and-services.com^
@@ -16514,6 +16480,7 @@ ws*://video.docfilms.info^
 ||rabilitan.com^
 ||racerchairs.xyz^
 ||rack.bauermedia.co.uk^
+||rackcdn.com^
 ||radar.cedexis.swiftserve.com^
 ||radar11ab.co.uk
 ||radarstats.com^
@@ -19019,7 +18986,6 @@ ws*://video.docfilms.info^
 ||superwebs.pro^
 ||supply.upjers.com^
 ||supplyframe.com^
-||support.mobpartner.com^
 ||support.publicrand.org^
 ||supportxmr.com^
 ||supprent.com^
@@ -21375,7 +21341,6 @@ ws*://video.docfilms.info^
 ||web-t.9gag.com^
 ||web-visor.*^
 ||web.blogads.com^
-||web.mobpartner.com^
 ||web.mxradon.com^
 ||web.softonic-analytics.net^
 ||web1.51.la^
