@@ -72,7 +72,6 @@ sportstream365.com,justintvizletir.tv#%#Object.defineProperty(window, 'Blob', { 
 vkcdnservice.appspot.com^
 ws*://video.docfilms.info^
 ||004b17a0c349157de.com^
-||005.0x1f4b0.com^
 ||006a039c957c142bb.com^
 ||007-gateway.com^
 ||0073dd485d46d930dd9.com^
@@ -1232,8 +1231,8 @@ ws*://video.docfilms.info^
 ||adb.nikkei.co.jp^
 ||adback.tango.me^
 ||adbana.adultcity.tv^
-||adbanner.cz
 ||adbanner.*^
+||adbanner.cz
 ||adbanners.bizland.com^
 ||adbard.net^
 ||adbasket.net^
@@ -1422,6 +1421,7 @@ ws*://video.docfilms.info^
 ||adforgames.com^
 ||adforgeinc.com^
 ||adform.*^
+||adform.com^
 ||adfornepal.com^
 ||adframesrc.com^
 ||adfrika.com^
@@ -2945,10 +2945,10 @@ ws*://video.docfilms.info^
 ||analyticapi.pho.fm^
 ||analyticapi.piri.net^
 ||analyticcdn.globalmailer.com^
+||analytics*.*^
 ||analytics*.carambo.la^
 ||analytics-*^
 ||analytics.*^
-||analytics*.*^
 ||analytk.com^
 ||analyze.full-marke.com^
 ||analyze.yahooapis.com^
@@ -5865,8 +5865,7 @@ ws*://video.docfilms.info^
 ||clifftopper.com^
 ||clixco.in^
 ||clixcount.com^
-||clixgalore.co.uk
-||clixgalore.com^
+||clixgalore.*^
 ||cliximages.com^
 ||clixpy.com^
 ||clixsense.com^
@@ -5904,7 +5903,6 @@ ws*://video.docfilms.info^
 ||clmbtech.com^
 ||clmbtrk.com^
 ||clme.biz^
-||clnk.me
 ||clnk.me^
 ||clobucks.com^
 ||clog.go.com^
@@ -5918,9 +5916,7 @@ ws*://video.docfilms.info^
 ||cloud.insightera.com^
 ||cloud.roistat.com^
 ||cloudcdn.gdn^
-||cloudcdn376125.com^
-||cloudcdn376126.com^
-||cloudcdn376127.com^
+||cloudcdn37612*.com^
 ||cloudcoins.co^
 ||cloudflane.com^
 ||cloudflare.solutions^
@@ -5971,7 +5967,6 @@ ws*://video.docfilms.info^
 ||cmsbetconstruct.com^
 ||cmsmodnews.com^
 ||cmstrendslog.indiatimes.com^
-||cmstrendslog.timesnow.tv
 ||cmstrendslog.timesnow.tv^
 ||cmt.setrowid.com^
 ||cn.clickable.net^
@@ -5990,7 +5985,6 @@ ws*://video.docfilms.info^
 ||cnt.inforotor.net^
 ||cnt.likealaugh.org^
 ||cnt.mastorage.net^
-||cnt.my
 ||cnt.my^
 ||cnt.nicemix.com^
 ||cnt.nuvid.com^
@@ -6100,11 +6094,7 @@ ws*://video.docfilms.info^
 ||collection.theaa.com^
 ||collective-media.net^
 ||collector-*.tvsquared.com^
-||collector-analytics.efigence.com^
-||collector-axa.cloud.ca.com^
-||collector-cdn.github.com^
-||collector-medium.lightstep.com^
-||collector-test.staging.mb-internal.com^
+||collector-*^
 ||collector.*^
 ||collector1.xhamster.com^
 ||colledin.com^
@@ -6120,7 +6110,7 @@ ws*://video.docfilms.info^
 ||com.econa.com^
 ||comads.de^
 ||combotag.com^
-||comclick.com^
+||comclick.*^
 ||comclick.net^
 ||comeadvertisewithus.com^
 ||comegarage.com^
@@ -6194,17 +6184,7 @@ ws*://video.docfilms.info^
 ||connectignite.com^
 ||connection36.com^
 ||connectionads.com^
-||connectlinking1.com^
-||connectlinking10.com^
-||connectlinking12.com^
-||connectlinking2.com^
-||connectlinking3.com^
-||connectlinking4.com^
-||connectlinking5.com^
-||connectlinking6.com^
-||connectlinking7.com^
-||connectlinking8.com^
-||connectlinking9.com^
+||connectlinking*.com^
 ||connexionsafe.com^
 ||connexionsecure.com^
 ||connexity.net^
@@ -6232,8 +6212,7 @@ ws*://video.docfilms.info^
 ||contadd.com^
 ||contador-de-visitas.com^
 ||contadordevisitas.es^
-||contadores.miarroba.com^
-||contadores.miarroba.es^
+||contadores.miarroba.*^
 ||contadorgratis.com^
 ||contadorgratis.es^
 ||contadorgratis.web-kit.org^
@@ -7770,7 +7749,6 @@ ws*://video.docfilms.info^
 ||double.net^
 ||doubleclick-analytics.com^
 ||doubleclick.*^
-||doubleclick.shockwave.com^
 ||doubleclickbygoogle.com^
 ||doubledeepclick.com^
 ||doublemax.net^
@@ -21248,6 +21226,7 @@ ws*://video.docfilms.info^
 ||wbtrk.net^
 ||wcfbc.net^
 ||wcmcs.net^
+||wcomhost.com^
 ||wcpanalytics.com^
 ||wct.click^
 ||wct.link^
@@ -22020,6 +21999,7 @@ ws*://video.docfilms.info^
 ||yesup.net^
 ||yesupmicro.com^
 ||yesupseo.com^
+||yext.com^
 ||yfkha.xyz^
 ||ygfbto.com^
 ||ygsm.com^
