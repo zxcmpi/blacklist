@@ -9565,13 +9565,8 @@ ws*://video.docfilms.info^
 ||go.madmimi.com^
 ||go.mobilix.eu^
 ||go.mobilix.mobi^
-||go.mobisla.com^
 ||go.mobstitial.com^
-||go.mobstitialtag.com^
-||go.mobtrks.com^
-||go.mobytrks.com^
 ||go.myimgt.com^
-||go.oclaserver.com^
 ||go.optifuze.com^
 ||go.playmmogames.com^
 ||go.qb.by^
