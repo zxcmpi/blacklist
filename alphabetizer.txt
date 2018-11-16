@@ -5143,6 +5143,7 @@ ws*://video.docfilms.info^
 ||cd8iw9mh.cricket^
 ||cda.0-shiny.com^
 ||cdcwn.xyz^
+||cdn*now.com^
 ||cdn-0.pics.dvdcdn.com^
 ||cdn-analytics.ladmedia.fr^
 ||cdn-analytics.pl^
@@ -5233,7 +5234,6 @@ ws*://video.docfilms.info^
 ||cdn1.flash.shareadult.com^
 ||cdn1.psdvault.com^
 ||cdn1b.adspace.porntube.com^
-||cdn*now.com^
 ||cdn2-ref.landing.comcontent.net^
 ||cdn2.ad-center.com^
 ||cdn2.bad-credit-cdn.com^
@@ -9664,6 +9664,9 @@ ws*://video.docfilms.info^
 ||google-pagerank.net^
 ||google-pr7.de^
 ||google-rank.org^
+||google.^
+||google.co.^
+||google.com.^
 ||googleadapis.l.google.com^
 ||googleadservicepixel.com^
 ||googleadservices.com/*^
