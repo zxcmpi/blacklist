@@ -3219,8 +3219,8 @@ ws*://video.docfilms.info^
 ||appsfire.com^
 ||appsflybeta.biz^
 ||appsflyer.com^
-||appsha2.ctnetload2.com^
 ||appsha*.space^
+||appsha2.ctnetload2.com^
 ||appshelf.ttpsdk.info^
 ||appsnack.com^
 ||apptap.com^
@@ -5131,18 +5131,13 @@ ws*://video.docfilms.info^
 ||cdn-0.pics.dvdcdn.com^
 ||cdn-analytics.ladmedia.fr^
 ||cdn-analytics.pl^
-||cdn-cf.postitial.com^
 ||cdn-highwinds.unityads.unity3d.com^
 ||cdn-i.dmdentertainment.com^
 ||cdn-image.com^
 ||cdn-jquery.host^
 ||cdn-net.com^
 ||cdn-qc.coccoc.com^
-||cdn-www.madblast.com^
-||cdn-wx.rainbowtgx.com^
-||cdn.2app.lk
-||cdn.2xbpub.com^
-||cdn.actiflex.org^
+||cdn.2app.lk^
 ||cdn.adbert.info^
 ||cdn.addnow.com^
 ||cdn.adengine.org^
@@ -14131,6 +14126,7 @@ ws*://video.docfilms.info^
 ||nuclersoncanthinger.info^
 ||nuconomy.com^
 ||nudatasecurity.com^
+||nuffnang.*^
 ||nuggad.net^
 ||nui.media^
 ||nullenabler.com^
@@ -18783,9 +18779,6 @@ ws*://video.docfilms.info^
 ||sxtracking.com^
 ||sxtut.org^
 ||symbiosting.com^
-||synad.nuffnang.com.my^
-||synad2.nuffnang.com.my^
-||synad2.nuffnang.com.ph^
 ||synapsys.us^*.gif?
 ||sync.1dmp.io^
 ||sync.mobojoy.baidu.com^
@@ -19661,6 +19654,7 @@ ws*://video.docfilms.info^
 ||trackfreundlich.de^
 ||trackicollect.ibase.fr^
 ||trackimpression.com^
+||tracking*.com^
 ||tracking*.euroads.fi^
 ||tracking-*^
 ||tracking.*^
@@ -19668,7 +19662,6 @@ ws*://video.docfilms.info^
 ||tracking1.aleadpay.com^
 ||tracking1.euroads.no
 ||tracking100.com^
-||tracking*.com^
 ||tracking2.channeladvisor.com^
 ||tracking2.interweave.com^
 ||trackingapi.*^
@@ -19981,9 +19974,9 @@ ws*://video.docfilms.info^
 ||truconversion.com^
 ||truefalsetalk.com^
 ||truefilen32.com^
+||truehits*.gits.net.th^
 ||truehits.in.th^
 ||truehits.net^
-||truehits*.gits.net.th^
 ||truesecurejump.com^
 ||truex.com^
 ||trugaze.io^
@@ -20331,6 +20324,7 @@ ws*://video.docfilms.info^
 ||urmilan.info^
 ||urstats.de^
 ||urtracker.q-sis.de^
+||us*widget.nimblecommerce.com^
 ||us-east-1.profile-api.ads.linkedin.com^
 ||us-nj-e*.traffictradinghub.com^
 ||us.3zs0.date^
@@ -20342,7 +20336,6 @@ ws*://video.docfilms.info^
 ||us.webprodcdn.com^
 ||us.winninganswers.net^
 ||us.yimg.com^
-||us*widget.nimblecommerce.com^
 ||us5.campaign-archive1.com^
 ||us5.forward-to-friend*.com^
 ||usa-media.net^
@@ -21531,8 +21524,7 @@ ws*://video.docfilms.info^
 ||wzor.web-serf.info^
 ||wzrk.co^
 ||wzrkt.com^
-||x-ads.biz^
-||x-ads.in^
+||x-ads.*^
 ||x-busty.org^
 ||x-nomer.com^
 ||x-stat.de^
@@ -21571,7 +21563,7 @@ ws*://video.docfilms.info^
 ||xaxaxa.ovh^
 ||xaxoro.com^
 ||xb11776.com^
-||xban.walla.co.il
+||xban.walla.co.il^
 ||xbasfbno.info^
 ||xbfk51p7.review^
 ||xbmhm.xyz^
@@ -22084,7 +22076,7 @@ ws*://video.docfilms.info^
 ||zxtrace.com^
 ||zxwiejfbyr.com^
 ||zxxds.net^
-||zxypenguin.people-group.su
+||zxypenguin.people-group.su^
 ||zycvyudt.com^
 ||zyiis.net^
 ||zyngawithfriends.com^
