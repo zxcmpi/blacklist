@@ -1487,7 +1487,6 @@ ws*://video.docfilms.info^
 ||adify.com^
 ||adigniter.org^
 ||adikteev.com^
-||adimage.asia1.com^.sg
 ||adimages.been.com^
 ||adimages.go.com^
 ||adimages.homestore.com^
@@ -1503,7 +1502,7 @@ ws*://video.docfilms.info^
 ||adimg.virgilio.it
 ||adimg.zdnet.com^
 ||adimg1.chosun.*^
-||adimgs.sapo.pt
+||adimgs.sapo.pt^
 ||adimise.com^
 ||adimp.excite.co.jp^
 ||adimpact.com^
@@ -1608,7 +1607,7 @@ ws*://video.docfilms.info^
 ||adlux.com^
 ||adm-vids.info^
 ||adm.fwmrm.net^
-||adm.leju.sina.com^.cn
+||adm.leju.sina.com.cn^
 ||adm.shinobi.jp
 ||admachina.com.s.pstl.live^
 ||admachina.com^
@@ -3071,12 +3070,12 @@ ws*://video.docfilms.info^
 ||api.cloudmobi.net^
 ||api.conduit.com^
 ||api.digitalbees.it^
-||api.domob.cn
+||api.domob.cn^
 ||api.elasticemail.com^
 ||api.exc.mob.com^
 ||api.flicktweets.com^
 ||api.flocktory.com^
-||api.flyertown.ca
+||api.flyertown.ca^
 ||api.fortumo.com^
 ||api.freewebfonts.org^
 ||api.fusepowered.com^
@@ -4075,7 +4074,6 @@ ws*://video.docfilms.info^
 ||beacon.search.yahoo.com^
 ||beacon.shazam.com^
 ||beacon.sina.com.cn^
-||beacon.sina.com.cn^
 ||beacon.sinauda.com^
 ||beacon.sojern.com^
 ||beacon.squixa.net^
@@ -4826,9 +4824,9 @@ ws*://video.docfilms.info^
 ||c.bizjournals.com^
 ||c.cblevt.com^
 ||c.cldlr.com^
-||c.cocacola.co.jp
+||c.cocacola.co.jp^
 ||c.coolshader.com^
-||c.domob.cn
+||c.domob.cn^
 ||c.gdt.qq.com^
 ||c.greystripe.com^
 ||c.hit.ua
@@ -5070,7 +5068,7 @@ ws*://video.docfilms.info^
 ||casinotreasure.com^
 ||caspion.com^
 ||caspionlog.appspot.com^
-||cast.ra.icast.cn
+||cast.ra.icast.cn^
 ||castelein.nu^
 ||casterist.info^
 ||casterpretic.com^
@@ -8286,8 +8284,7 @@ ws*://video.docfilms.info^
 ||etargetnet.com^
 ||etcodes.com^
 ||etgdta.com^
-||eth-pocket.com^
-||eth-pocket.de^
+||eth-pocket.*^
 ||etherealhakai.com^
 ||ethicalads.net^
 ||ethn.io
@@ -8298,13 +8295,11 @@ ws*://video.docfilms.info^
 ||etl.xlmc.sandai.net^
 ||etnhashpool.tk^
 ||etology.com^
-||etonovosti.biz
-||etonovosti.net^
+||etonovosti.*^
 ||etracker.com^
 ||etracker.de^
 ||etracking24.de^
-||etrader.kalahari.com^
-||etrader.kalahari.net^
+||etrader.kalahari.*^
 ||etrafficcounter.com^
 ||etrafficstats.com^
 ||etrase.info^
@@ -8321,9 +8316,7 @@ ws*://video.docfilms.info^
 ||eu.webprodcdn.com^
 ||eu.winninganswers.net^
 ||eu0.content-serve.net^
-||eu1.madsone.com^
-||eu2.madsone.com^
-||eu3.madsone.com^
+||eu*.madsone.com^
 ||euadsapi.manhuaren.com^
 ||euadw.com^
 ||eucsoft.com^
@@ -8999,10 +8992,8 @@ ws*://video.docfilms.info^
 ||fraudmetrix.cn^
 ||freddyman.com^
 ||free-banners.com^
-||free-counter.co.uk^
-||free-counter.com^
-||free-counters.co.uk^
-||free-counters.net^
+||free-counter.*^
+||free-counters.*^
 ||free-domain.net^
 ||free-stats.com^
 ||free-stats.i8.com^
@@ -9624,9 +9615,9 @@ ws*://video.docfilms.info^
 ||gorselcdn.com^
 ||gorselpanel.com^
 ||gortags.com^
-||gosms.3g.cn
-||gosmsdev.3g.cn
-||gosmstheme.3g.cn
+||gosms.3g.cn^
+||gosmsdev.3g.cn^
+||gosmstheme.3g.cn^
 ||gospycash.com^
 ||gosquared.com^
 ||gostats.*^
@@ -15877,14 +15868,10 @@ ws*://video.docfilms.info^
 ||psyma-statistics.com^
 ||pt-trx.com^
 ||pt.crossmediaservices.com^
-||pt000127.unica.com^
-||pt200204.unica.com^
 ||ptadsrv.de^
 ||ptawe.com^
 ||ptchits.com^
-||ptengine.cn^
-||ptengine.com^
-||ptengine.jp^
+||ptengine.*^
 ||ptgiweiu.com^
 ||ptmind.com^
 ||ptmopenclose.click^
@@ -16891,8 +16878,7 @@ ws*://video.docfilms.info^
 ||rt.globo.com^
 ||rt.liftdna.com^
 ||rt.prnewswire.com^
-||rt.rakuten.co.jp
-||rta.dailymail.co.uk
+||rt.rakuten.co.jp^
 ||rta.dailymail.co.uk^
 ||rtapi.abbi.io^
 ||rtb-media.me^
@@ -17142,8 +17128,7 @@ ws*://video.docfilms.info^
 ||salesgenius.com^
 ||salesmanago.pl^
 ||salesnleads.com^
-||salesviewer.com^
-||salesviewer.org^
+||salesviewer.*^
 ||saletrack.co.uk^
 ||saltamendors.com^
 ||salvador24.com^
@@ -17155,7 +17140,7 @@ ws*://video.docfilms.info^
 ||samvaulter.com^
 ||samvinva.info^
 ||sana.newsinc.com^
-||sana.newsinc.com^.s3.amazonaws.com^
+||sana.newsinc.com.s3.amazonaws.com^
 ||sandsoftors.com^
 ||sanglah.com^
 ||saoboo.com^
@@ -17187,7 +17172,6 @@ ws*://video.docfilms.info^
 ||sayyac.com^
 ||sayyac.net^
 ||sb.vevo.com^
-||sba.about.co.kr
 ||sba.about.co.kr^
 ||sbaffiliates.com^
 ||sbcpower.com^
@@ -17245,11 +17229,7 @@ ws*://video.docfilms.info^
 ||script.hqpass.com^
 ||script.leadboxer.com^
 ||script.tailsweep.com^
-||scriptall.cf^
-||scriptall.ga^
-||scriptall.gq^
-||scriptall.ml^
-||scriptall.tk^
+||scriptall.*^
 ||scriptil.com^
 ||scripts.adrcdn.com^
 ||scripts.affiliatefuture.com^
@@ -17321,7 +17301,7 @@ ws*://video.docfilms.info^
 ||search.url.com^
 ||search.us.com^
 ||search.vertoz.com^
-||search123.uk^.com^
+||search123.uk.com^
 ||search2000s.com^
 ||searchesinteractive.com^
 ||searchfeed.com^
@@ -17381,8 +17361,7 @@ ws*://video.docfilms.info^
 ||secursors.com^
 ||sedapqqq.com^
 ||sedoparking.com^
-||sedotracker.com^
-||sedotracker.de^
+||sedotracker.*^
 ||seductionprofits.com^
 ||see-work.info^
 ||seedr.com^
@@ -17402,7 +17381,7 @@ ws*://video.docfilms.info^
 ||seitentipp.com^
 ||seitwert.de^
 ||seiya.work^
-||sekindo.co.il
+||sekindo.co.il^
 ||sekindo.com^
 ||sektorial.com^
 ||sel-sel-fie.com^
@@ -17450,7 +17429,6 @@ ws*://video.docfilms.info^
 ||senseiproducts.com^
 ||sensic.net^
 ||sensive.pro^
-||sensor.org.ua
 ||sensor.org.ua^
 ||sentanapoker.net^
 ||sentemanactri.com^
@@ -17497,8 +17475,7 @@ ws*://video.docfilms.info^
 ||serve.adsxgm.com^
 ||serve.joylandcasino.com^
 ||serve.traffic-orgy.com^
-||serve.williamhill.com^
-||serve.williamhill.it
+||serve.williamhill.*^
 ||servebbs.net^
 ||servebom.com^
 ||servecontent.net^
@@ -19107,7 +19084,6 @@ ws*://video.docfilms.info^
 ||tedobe.com^
 ||tedpasit.com^
 ||tedverspar.com^
-||teen-porn-portal.com
 ||teenrevenue.com^
 ||tek-tek-trek.com^
 ||teknosurf3.com^
@@ -19198,7 +19174,6 @@ ws*://video.docfilms.info^
 ||tgknt.com^
 ||tgmnstr.com^
 ||tgmygw.biz^
-||tgp.pornsponsors.com^
 ||tgsmtdata4.pro
 ||tgtmedia.com^
 ||th700.com^
@@ -19318,8 +19293,6 @@ ws*://video.docfilms.info^
 ||timestrends.indiatimes.com^
 ||timestrends.timesnow.tv
 ||tin-tin-win.com^
-||tin.pornoset.org^
-||tin.xpornoset.com^
 ||tinbuadserv.com^
 ||ting.7eer.net^
 ||tinggalklik.com^
@@ -22059,7 +22032,7 @@ ws*://video.docfilms.info^
 ||zreluo.com^
 ||zroitracker.com^
 ||zs.dhl.de^
-||zs.ffshrine.org
+||zs.ffshrine.org^
 ||zs0s5xfe.com^
 ||zt-dst.com^
 ||ztcadx.com^
@@ -22083,3 +22056,5 @@ ws*://video.docfilms.info^
 ||zypenetwork.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||zzhengre.com^
+||anyclip.com^
+||ggpht.com^
