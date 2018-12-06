@@ -18344,7 +18344,7 @@ ws*://video.docfilms.info^
 ||statdb.pressflex.com^
 ||statecannoticed.com^
 ||statelead.com^
-||stateresolver.link
+||stateresolver.link^
 ||statesol.net^
 ||stathat.com^
 ||stathound.com^
@@ -18604,7 +18604,7 @@ ws*://video.docfilms.info^
 ||stuntoffer.com^
 ||sturdynotwithstandingpersuasive.info^
 ||style-eyes.eu^
-||style2.ad6.fr
+||style2.ad6.fr^
 ||su600.com^
 ||sub2tech.com^
 ||sube.puwangkj.com^
@@ -19064,7 +19064,6 @@ ws*://video.docfilms.info^
 ||teasermall.com^
 ||teasermedia.net^
 ||teasermoney.com^
-||teasernet.
 ||teasernet.com^
 ||teaserrotator.com^
 ||teasersystem.com^
@@ -19181,7 +19180,7 @@ ws*://video.docfilms.info^
 ||th700.com^
 ||thaez4sh.com^
 ||thaidigger.com^
-||thalliformxaujqbsq.website
+||thalliformxaujqbsq.website^
 ||thangasoline.com^
 ||thankswrite.com^
 ||thankyouforadvertising.com^
@@ -19195,7 +19194,7 @@ ws*://video.docfilms.info^
 ||theadex.com^
 ||theadgateway.com^
 ||theads.me^
-||theaffiliate.us
+||theaffiliate.us^
 ||theaffiliatepeople.com^
 ||theaffiliateprogram.com^
 ||theagency.com^
@@ -19240,7 +19239,6 @@ ws*://video.docfilms.info^
 ||thewhizmarketing.com^
 ||thewhizproducts.com^
 ||thewise.com^
-||theylike.org
 ||theylike.org^
 ||thindivide.com^
 ||thing1.infolink.com^
@@ -19255,9 +19253,8 @@ ws*://video.docfilms.info^
 ||thisisacoolthing.com^
 ||thisisanothercoolthing.com^
 ||thisiswaldo.com^
-||thisteddagblad.dk
+||thisteddagblad.dk^
 ||thnqemehtyfe.com^
-||thogethoffic.co
 ||thogethoffic.co^
 ||thomized.co^
 ||thongke.24h.com.vn^
@@ -19278,8 +19275,8 @@ ws*://video.docfilms.info^
 ||ticklesign.com^
 ||ticrite.com^
 ||tidaltv.com^
-||tidbit.co.in
-||tidd.ly
+||tidbit.co.in^
+||tidd.ly^
 ||tigertext.com^
 ||tightexact.net^
 ||tighting.info^
@@ -20080,7 +20077,6 @@ ws*://video.docfilms.info^
 ||u*.takru.com^
 ||u-ad.info^
 ||u-on.eu^
-||u-porn.mp1.mobi^
 ||u.optorb.com^
 ||u1hw38x0.com^
 ||u1trkqf.com^
@@ -21422,7 +21418,6 @@ ws*://video.docfilms.info^
 ||wptag.net^
 ||wpzka4t6.site^
 ||wrating.com^
-||wrb.pornme.com^
 ||wredint.com^
 ||wrhhhtoj.men^
 ||wrierville.com^
@@ -21623,8 +21618,6 @@ ws*://video.docfilms.info^
 ||xpanama.net^
 ||xpicw.top^
 ||xplosion.de^
-||xpornoizlee.com^
-||xpornoizlex.net^
 ||xpostx.com^
 ||xptvk.com^
 ||xqkzsifxgv.com^
