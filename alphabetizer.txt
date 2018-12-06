@@ -3013,6 +3013,7 @@ ws*://video.docfilms.info^
 ||anxiousapples.com^
 ||any.gs^
 ||anyclip-media.com^
+||anyclip.com^
 ||anyday.com^
 ||anymanga.com^
 ||anymedia.lv^
@@ -8308,6 +8309,7 @@ ws*://video.docfilms.info^
 ||ettalhap.com^
 ||etui.fs.ml.com^
 ||etyper.com^
+||eu*.madsone.com^
 ||eu-adcenter.net^
 ||eu-px.steelhousemedia.com^
 ||eu-survey.com^
@@ -8316,7 +8318,6 @@ ws*://video.docfilms.info^
 ||eu.webprodcdn.com^
 ||eu.winninganswers.net^
 ||eu0.content-serve.net^
-||eu*.madsone.com^
 ||euadsapi.manhuaren.com^
 ||euadw.com^
 ||eucsoft.com^
@@ -9384,6 +9385,7 @@ ws*://video.docfilms.info^
 ||gfxa.sheetmusicplus.com^
 ||gg.mob.vendimob.pl^
 ||ggncpm.com^
+||ggpht.com^
 ||ggsaffiliates.com^
 ||ggxt.net^
 ||gh.ffshrine.org^
@@ -17139,8 +17141,8 @@ ws*://video.docfilms.info^
 ||samsungads.com^
 ||samvaulter.com^
 ||samvinva.info^
-||sana.newsinc.com^
 ||sana.newsinc.com.s3.amazonaws.com^
+||sana.newsinc.com^
 ||sandsoftors.com^
 ||sanglah.com^
 ||saoboo.com^
@@ -22056,5 +22058,3 @@ ws*://video.docfilms.info^
 ||zypenetwork.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||zzhengre.com^
-||anyclip.com^
-||ggpht.com^
