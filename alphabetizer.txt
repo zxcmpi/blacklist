@@ -9385,7 +9385,6 @@ ws*://video.docfilms.info^
 ||gfxa.sheetmusicplus.com^
 ||gg.mob.vendimob.pl^
 ||ggncpm.com^
-||ggpht.com^
 ||ggsaffiliates.com^
 ||ggxt.net^
 ||gh.ffshrine.org^
