@@ -6179,6 +6179,7 @@ ws*://video.docfilms.info^
 ||cookie.fuel451.com^
 ||cookie.monster.com^
 ||cookieanalyze.info
+||cookielaw.org^
 ||cookies.cmpnet.com^
 ||cookies.livepartners.com^
 ||cookies.reedbusiness.nl^
@@ -9213,6 +9214,7 @@ ws*://video.docfilms.info^
 ||gan.wavecdn.net^
 ||gandrad.org^
 ||gannett.gcion.com^
+||ganon.yahoo.com^
 ||garlanca.com^
 ||garo-garo-osh.com^
 ||garowrite.com^
@@ -10405,6 +10407,7 @@ ws*://video.docfilms.info^
 ||ideoclick.com^
 ||idexoro.info^
 ||idg.dmdelivery.com^
+||idiagnotics.apple.com^
 ||idigger.qtmojo.com^
 ||idio.co^
 ||idot.cz^
@@ -14212,6 +14215,7 @@ ws*://video.docfilms.info^
 ||oascentralnx.com^cast.net^
 ||oasde.springstreetnetworks.com^
 ||oasis.411affiliates.ca
+||oath.com^
 ||ob1trk.com^
 ||obeisantcloddishprocrustes.com^
 ||obesw.com^
@@ -16150,6 +16154,7 @@ ws*://video.docfilms.info^
 ||quinstreet.com^
 ||quintelligence.com^
 ||quisma.com^
+||quora-prod-ads-vpc-744717911.us-east-1.elb.amazonaws.com^
 ||qwe.qrrgv.space^
 ||qwertize.com^
 ||qwertypay.com^
@@ -21457,6 +21462,7 @@ ws*://video.docfilms.info^
 ||wwm24.de^
 ||wwv4ez0n.com^
 ||www-google-analytics.l.google.com^
+||www-googletagmanager.l.google.com^
 ||www-path.com^
 ||www.adbert.com.tw^
 ||www.facebook.com^
