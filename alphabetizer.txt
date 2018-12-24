@@ -6,7 +6,6 @@
 .ecommtools.com^
 .endplace.info^
 .is.traff-numerical.info^
-.lockscalecompare.com^
 .n.2.1.js^
 .n.2.1.l50.js^
 .n.2.1.l60.js^
@@ -6180,6 +6179,7 @@ ws*://video.docfilms.info^
 ||cookie.fuel451.com^
 ||cookie.monster.com^
 ||cookieanalyze.info
+||cookielaw.org^
 ||cookies.cmpnet.com^
 ||cookies.livepartners.com^
 ||cookies.reedbusiness.nl^
@@ -7084,7 +7084,6 @@ ws*://video.docfilms.info^
 ||data.imakenews.com^
 ||data.initialcontroledge.info^
 ||data.kamcord.com^
-||data.lockscalecompare.com^
 ||data.logentries.com^
 ||data.minute.ly^
 ||data.mistat.intl.xiaomi.com^
@@ -7506,8 +7505,6 @@ ws*://video.docfilms.info^
 ||dkj2m377b0yzw.cloudfront.net^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dl-rms.com^
-||dl.adshooter.com^
-||dl.clicktraffix.com^
 ||dl.qcash.ws
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dl392qndlveq0.cloudfront.net^
@@ -9217,6 +9214,7 @@ ws*://video.docfilms.info^
 ||gan.wavecdn.net^
 ||gandrad.org^
 ||gannett.gcion.com^
+||ganon.yahoo.com^
 ||garlanca.com^
 ||garo-garo-osh.com^
 ||garowrite.com^
@@ -9359,7 +9357,6 @@ ws*://video.docfilms.info^
 ||getpopunder.com^
 ||gets-web.space^
 ||gets.faz.net^
-||gets.lockscalecompare.com^
 ||getscorecash.com^
 ||getsidecar.com^
 ||getsidecar.s3.amazonaws.com^
@@ -9448,7 +9445,7 @@ ws*://video.docfilms.info^
 ||global-success-club.net^
 ||global.ymtrack.com^
 ||globaladmedia.com^
-||globaladmedia.net
+||globaladmedia.net^
 ||globaladsales.com^
 ||globaladv.net^
 ||globalinteractive.com^
@@ -10410,6 +10407,7 @@ ws*://video.docfilms.info^
 ||ideoclick.com^
 ||idexoro.info^
 ||idg.dmdelivery.com^
+||idiagnostics.apple.com^
 ||idigger.qtmojo.com^
 ||idio.co^
 ||idot.cz^
@@ -12212,12 +12210,12 @@ ws*://video.docfilms.info^
 ||lookmy.info^
 ||looksa.com^
 ||looksmart.com^
-||looky.hyves.org
+||looky.hyves.org^
 ||looneyads.com^
 ||looneynetwork.com^
 ||loopfuse.net^
 ||loopmaze.com^
-||loopme.biz
+||loopme.biz^
 ||loopme.me^
 ||lootsie.com^
 ||lopireto.com^
@@ -12365,7 +12363,7 @@ ws*://video.docfilms.info^
 ||m.shopathome.com^
 ||m.trb.com^
 ||m.trk44.mobi^
-||m.tstore.co.kr
+||m.tstore.co.kr^
 ||m.vpadn.com^
 ||m.wankz.com^
 ||m.wrating.com^
@@ -14218,6 +14216,7 @@ ws*://video.docfilms.info^
 ||oascentralnx.com^cast.net^
 ||oasde.springstreetnetworks.com^
 ||oasis.411affiliates.ca
+||oath.com^
 ||ob1trk.com^
 ||obeisantcloddishprocrustes.com^
 ||obesw.com^
@@ -15884,7 +15883,7 @@ ws*://video.docfilms.info^
 ||ptp123.com^
 ||ptp22.com^
 ||ptp24.com^
-||ptp4ever.fr
+||ptp4ever.fr^
 ||ptracker.be2.com^
 ||ptracker.nurturehq.com^
 ||ptrk-wn.com^
@@ -15896,7 +15895,6 @@ ws*://video.docfilms.info^
 ||pub.akinator.com^
 ||pub.aujourdhui.com^
 ||pub.chez.com^
-||pub.clicktraffix.com^
 ||pub.club-internet.fr^
 ||pub.cyberbrain.net^
 ||pub.dreamboxcart.com^
@@ -15904,7 +15902,6 @@ ws*://video.docfilms.info^
 ||pub.hardware.fr^
 ||pub.lavanetwork.net^
 ||pub.network^
-||pub.realmedia.fr^
 ||pub.sapo.pt^
 ||pub.sheknows.com^
 ||pub.sponsorselect.com^
@@ -16158,6 +16155,7 @@ ws*://video.docfilms.info^
 ||quinstreet.com^
 ||quintelligence.com^
 ||quisma.com^
+||quora-prod-ads-vpc-744717911.us-east-1.elb.amazonaws.com^
 ||qwe.qrrgv.space^
 ||qwertize.com^
 ||qwertypay.com^
@@ -16340,7 +16338,6 @@ ws*://video.docfilms.info^
 ||readvasturked.pro^
 ||ready4win.com^
 ||realbig.media^
-||realclick.co.kr
 ||realclick.co.kr^
 ||realclix.com^
 ||realcounter.eu^
@@ -16351,10 +16348,10 @@ ws*://video.docfilms.info^
 ||realmatch.com^
 ||realmedia-a592.d4p.net^
 ||realmedia-a800.d4p.net^
-||realmedia.co.kr
+||realmedia.co.kr^
 ||realmedia.com^
-||realmedia.fr
-||realmedia.ro
+||realmedia.fr^
+||realmedia.ro^
 ||realnetworks.com^
 ||realnetwrk.com^
 ||realsecuredredir.com^
@@ -21466,6 +21463,7 @@ ws*://video.docfilms.info^
 ||wwm24.de^
 ||wwv4ez0n.com^
 ||www-google-analytics.l.google.com^
+||www-googletagmanager.l.google.com^
 ||www-path.com^
 ||www.adbert.com.tw^
 ||www.facebook.com^
