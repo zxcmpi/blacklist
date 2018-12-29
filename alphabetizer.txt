@@ -5666,7 +5666,7 @@ ws*://video.docfilms.info^
 ||click-ice.com^
 ||click-linking.com^
 ||click-url.com^
-||click.a-ads.com^
+||click.*.*^
 ||click.absoluteagency.com^
 ||click.ad.nu-face.jp^
 ||click.advertnative.com^
@@ -5735,13 +5735,9 @@ ws*://video.docfilms.info^
 ||click4assistance.co.uk^
 ||click4click.com^
 ||click4free.info
-||clickability.com^
-||clickability.net^
-||clickability.org^
-||clickable.com^
-||clickable.net^
-||clickad.com.pl^
-||clickad.pl^
+||clickability.*^
+||clickable.*^
+||clickad.*^
 ||clickadin.com^
 ||clickads.name^
 ||clickadscounter.com^
@@ -5834,7 +5830,7 @@ ws*://video.docfilms.info^
 ||clickredirection.com^
 ||clickreport.com^
 ||clickriver.com^
-||clicks.ads.net^log.com^
+||clicks.ads.netlog.com^
 ||clicks.babylon-x.com^
 ||clicks.bannerboxes.com^
 ||clicks.beap.bc.yahoo.com^
@@ -5962,7 +5958,6 @@ ws*://video.docfilms.info^
 ||clmbtech.com^
 ||clmbtrk.com^
 ||clme.biz^
-||clnk.me
 ||clnk.me^
 ||clobucks.com^
 ||clog.go.com^
@@ -6096,10 +6091,10 @@ ws*://video.docfilms.info^
 ||codes.royalad.pl^
 ||codes.wai.it^
 ||codezap.com^
-||codice.shinystat.com^
-||codice.shinystat.it
-||codiceisp.shinystat.it
-||codicepro.shinystat.it
+||codice.shinystat.*^
+@@||codice.shinystat.it^
+||codiceisp.shinystat.it^
+||codicepro.shinystat.it^
 ||codigobarras.net^
 ||coedmediagroup.com^
 ||cogmatch.net^
