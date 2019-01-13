@@ -6,7 +6,6 @@
 .ecommtools.com^
 .endplace.info^
 .is.traff-numerical.info^
-.lockscalecompare.com^
 .n.2.1.js^
 .n.2.1.l50.js^
 .n.2.1.l60.js^
@@ -199,7 +198,6 @@ ws*://video.docfilms.info^
 ||15f3c01c.info^
 ||160tracker.com^
 ||160x600.exad.me
-||163.wrating.com^
 ||164f9d1bd2933.party^
 ||166cd0ac1454aef5c0.com^
 ||1686607364.rsc.cdn77.org^
@@ -1021,7 +1019,6 @@ ws*://video.docfilms.info^
 ||abandonglare.8m.com^
 ||abashedangle.com^
 ||abasourdir.tech^
-||abc.bnex.com^
 ||abc.doublegear.com^
 ||abc.esprit.de^
 ||abc.hearst.co.uk^
@@ -1128,9 +1125,7 @@ ws*://video.docfilms.info^
 ||acronym.com^
 ||acrossiblel.info^
 ||acs86.com^
-||act.webmasterplan.com^
 ||actiflex.org^
-||action.media6degrees.com^
 ||action.metaffiliation.com^
 ||actionallocator.com^
 ||actiondesk.com^
@@ -1883,7 +1878,6 @@ ws*://video.docfilms.info^
 ||adquantix.com^
 ||adquest3d.com^
 ||adquota.com^
-||adr-g3-1.vindicosuite.com^
 ||adrank24.de^
 ||adrazzi.com^
 ||adrcdn.com^
@@ -2911,7 +2905,6 @@ ws*://video.docfilms.info^
 ||alog.umengcloud.com^
 ||alogationa.co^
 ||alogs.umengcloud.com^
-||alpha.bnex.com^
 ||alphabird.com^
 ||alphabirdnetwork.com^
 ||alphacash.biz^
@@ -2941,7 +2934,6 @@ ws*://video.docfilms.info^
 ||amadagasca.com^
 ||amadesa.com^
 ||amateur.amarotic.com^
-||amateur.xxxcounter.com^
 ||amavalet.com^
 ||amazedmag.digidip.net^
 ||amazingcounters.com^
@@ -3147,7 +3139,6 @@ ws*://video.docfilms.info^
 ||api.adintext.net^
 ||api.adlure.net^
 ||api.ads.watchabc.go.com^
-||api.adsymptotic.com^
 ||api.adyoulike.com^
 ||api.airpush.com^
 ||api.ampiri.com^
@@ -4039,7 +4030,6 @@ ws*://video.docfilms.info^
 ||banners.victor.com^
 ||banners.vivilatina.com^
 ||banners.voyeurweb.com^
-||banners.webmasterplan.com^
 ||banners.winfire.com^
 ||banners.wlservices.fr
 ||banners.xmatch.com^
@@ -4354,7 +4344,6 @@ ws*://video.docfilms.info^
 ||biallo*.de^
 ||biberukalap.com^
 ||bid.run^
-||bid.socdm.com^
 ||bidadx.com^
 ||bidclix.com^
 ||bidclix.net^
@@ -4906,7 +4895,6 @@ ws*://video.docfilms.info^
 ||c.am15.net^
 ||c.aol.com^
 ||c.apple.com^
-||c.ato.mx^
 ||c.bing.com^
 ||c.bizjournals.com^
 ||c.cblevt.com^
@@ -4942,21 +4930,14 @@ ws*://video.docfilms.info^
 ||c.orange.fr
 ||c.p-advg.com^
 ||c.pebblemedia.be
-||c.popunderz.com^
 ||c.rhapsody.com^
 ||c.sahcdn.com^
-||c.smartclick.net^
 ||c.t-online.de^
-||c.teromil.com^
-||c.us1.dyntrk.com^
-||c.viewsecure.net^
-||c.vindicosuite.com^
 ||c.vrvm.com^
 ||c.vserv.mobi^
 ||c.webengage.com^
 ||c.woopic.com^
 ||c.wort-suche.com^
-||c.wrating.com^
 ||c.x.oanda.com^
 ||c.xbox.com^
 ||c.ypcdn.com^*&ptid
@@ -4969,8 +4950,6 @@ ws*://video.docfilms.info^
 ||c1.nowlinux.com^
 ||c1.onedmp.com^
 ||c1.outster.com^
-||c1.smartclick.net^
-||c1.xxxcounter.com^
 ||c10ed2b8b417880.com^
 ||c13b2beea116e.com^
 ||c1e1084410050e34ef.com^
@@ -4980,7 +4959,6 @@ ws*://video.docfilms.info^
 ||c2.campartner.com^
 ||c2.clickprotects.com^
 ||c2.outster.com^
-||c2.xxxcounter.com^
 ||c212.net^
 ||c23b97954751a203f9a.com^
 ||c2b5f74fcedd3b.com^
@@ -4988,7 +4966,6 @@ ws*://video.docfilms.info^
 ||c2path.com^
 ||c3.myapkcdn.in^
 ||c3.outster.com^
-||c3.xxxcounter.com^
 ||c3caf79a8df36.party^
 ||c3metrics.com^
 ||c3metrics.medifast1.com^
@@ -5063,7 +5040,6 @@ ws*://video.docfilms.info^
 ||camsiteonline.wiredcircular.com^
 ||camtinolc.com^
 ||camz.tintel.nl
-||can.you.shut.the.fuck.up.at.bnex.com^
 ||canaanita.com^
 ||canadasungam.net^
 ||canalstat.com^
@@ -5718,7 +5694,6 @@ ws*://video.docfilms.info^
 ||click.udimg.com^
 ||click.union.ucweb.com^
 ||click.vgnett.no
-||click.wrating.com^
 ||click1.email.nymagazine.com^
 ||click1.performance-zone.com^
 ||click168.com^
@@ -6064,7 +6039,6 @@ ws*://video.docfilms.info^
 ||cntdy.mobi^
 ||cntrafficpro.com^
 ||cntrck.com^
-||cntv.wrating.com^
 ||cnxweb.com^
 ||cnzz.com^
 ||cnzz.net^
@@ -6258,7 +6232,6 @@ ws*://video.docfilms.info^
 ||consensu.org^
 ||consent-st.truste.com^
 ||consent.truste.com^
-||consent.webmasterplan.com^
 ||consivenu.com^
 ||consoliads.com^
 ||constintptr.com^
@@ -6292,7 +6265,6 @@ ws*://video.docfilms.info^
 ||content.adscension.com^
 ||content.bitsontherun.com^
 ||content.complex.com^
-||content.cpxinteractive.com^
 ||content.livesportmedia.eu^
 ||content.liveuniverse.com^
 ||content.pop6.com^
@@ -6735,7 +6707,6 @@ ws*://video.docfilms.info^
 ||curtisfrierson.com^
 ||cussixia.de^
 ||customad.cnn.com^
-||customer.bnex.com^
 ||customer.heartinternet.co.uk
 ||customer.io^
 ||customerconversio.com^
@@ -6774,7 +6745,6 @@ ws*://video.docfilms.info^
 ||cyonix.to
 ||cypr.com^
 ||cyteks.de^
-||cytk85wu.top
 ||cytk85wu.top^
 ||cytochemistryrecitativewrasse.com^
 ||cytoclause.com^
@@ -6786,11 +6756,8 @@ ws*://video.docfilms.info^
 ||d-agency.net^
 ||d-markets.net^
 ||d-stats.com^
-||d.adcash.com^
-||d.addelive.com^
-||d.adrolays.de^
 ||d.adtriba.com^
-||d.adx.io
+||d.adx.io^
 ||d.afftrx.com^
 ||d.annarbor.com^
 ||d.applvn.com^
@@ -6800,13 +6767,9 @@ ws*://video.docfilms.info^
 ||d.gettvwizard.com^
 ||d.ghostery.com^
 ||d.haberler.com^
-||d.impactradius-event.com^
 ||d.jazzedcdn.com^
 ||d.m3.net^
-||d.moreover.com^
-||d.p-td.com^
 ||d.rapsio.com^
-||d.socdm.com^
 ||d.yimg.com^
 ||d00.sina.com.cn^
 ||d03x2011.com^
@@ -7186,7 +7149,7 @@ ws*://video.docfilms.info^
 ||daghashmal.com^
 ||dagnar.com^
 ||daidalos.twyn.com^
-||daikoku.ebis.ne.jp
+||daikoku.ebis.ne.jp^
 ||daily-traffic.com^
 ||dailycaller-alerts.com^
 ||dailydeals.*
@@ -7206,8 +7169,7 @@ ws*://video.docfilms.info^
 ||dapxl.com^
 ||daq0d0aotgq0f.cloudfront.net^
 ||darersan.co^
-||darking05.tk^
-||darking07.tk^
+||darking0*.tk^
 ||dartimyl.com^
 ||darwarvid.com^
 ||das5ku9q.com^
@@ -7231,14 +7193,11 @@ ws*://video.docfilms.info^
 ||data.adwombat.com^
 ||data.alexa.com^
 ||data.beyond.com^
-||data.captifymedia.com^
 ||data.circulate.com^
-||data.coremetrics.com^
 ||data.econa.com^
 ||data.imakenews.com^
 ||data.initialcontroledge.info^
 ||data.kamcord.com^
-||data.lockscalecompare.com^
 ||data.logentries.com^
 ||data.minute.ly^
 ||data.mistat.intl.xiaomi.com^
@@ -7294,7 +7253,6 @@ ws*://video.docfilms.info^
 ||daylogs.com^
 ||daz.com^
 ||dazhantai.com^
-||db.bnex.com^
 ||db14a56766c5e1a1c2.com^
 ||db52cc91beabf7e8.com^
 ||db8a41d81b8dfe41de2.com^
@@ -7469,7 +7427,6 @@ ws*://video.docfilms.info^
 ||detour.click^
 ||detroposal.com^
 ||dev.ajc.cimedia.com^
-||dev.bnex.com^
 ||dev.mundomediainc.com^
 ||dev.springboardplatform.com^
 ||dev.visualwebsiteoptimizer.com^
@@ -7496,7 +7453,6 @@ ws*://video.docfilms.info^
 ||dexplatform.com^
 ||df-srv.de^
 ||df.mmo001.info^
-||df.telemetry.microsoft.com^
 ||df0pmigc8xs70.cloudfront.net^
 ||df63de4ef399b.com^
 ||df8c5028a1fad1.com^
@@ -7717,7 +7673,6 @@ ws*://video.docfilms.info^
 ||dntx.com^
 ||dnudg.com^
 ||do-not-tracker.org^
-||do.you.uh.yahoo.at.bnex.com^
 ||do09.net^
 ||do67etikr7pwz.cloudfront.net^
 ||dochyedu.info^
@@ -8003,7 +7958,6 @@ ws*://video.docfilms.info^
 ||e.domob.cn^
 ||e.funnymel.com^
 ||e.lndjj.com^
-||e.nexac.com^
 ||e.ofuda.cc^
 ||e.qq.com^
 ||e.reddit.com^
@@ -8090,7 +8044,6 @@ ws*://video.docfilms.info^
 ||ebayclassifiedsgroup.com^
 ||ebayobjects.com.au^
 ||ebayobjects.com^
-||ebayrelevancead.webmasterplan.com^
 ||ebazucebid.com^
 ||ebdr3.com^
 ||ebeda.info^
@@ -8847,7 +8800,6 @@ ws*://video.docfilms.info^
 ||feedperfect.com^
 ||feeds.global-intermedia.com^
 ||feeds.logicbuy.com^
-||feeds.mofos.com^
 ||feeds.tubecontext.com^
 ||feedshare.flipora.com^
 ||feesocrald.com^
@@ -8855,7 +8807,7 @@ ws*://video.docfilms.info^
 ||felitb.rightinthebox.com^
 ||felix.data.tm-awx.com^
 ||feljack.com^
-||fenix-translation.com^.ua
+||fenix-translation.com.ua^
 ||fenixm.com^
 ||fer-ta.com^
 ||feranewsblogone.com^
@@ -8876,9 +8828,6 @@ ws*://video.docfilms.info^
 ||fftf-ips.heroku.com^
 ||ffxcam.fairfax.com.au^
 ||fg18kvv7.date^
-||fhb9n.trackvoluum.com^
-||fhg.iknowthatgirl.com^
-||fhg.mofos.com^
 ||fhg.pervsonpatrol.com^
 ||fhg.realslutparty.com^
 ||fhserve.com^
@@ -9137,7 +9086,6 @@ ws*://video.docfilms.info^
 ||fovs.qkvipgloy.xyz^
 ||foxarmedia.com^
 ||foxy.track4.com^
-||foy4a.trackvoluum.com^
 ||fp.buy.com^
 ||fp.fraudmetrix.cn
 ||fp.gad-network.com^
@@ -9169,7 +9117,6 @@ ws*://video.docfilms.info^
 ||free-stats.i8.com^
 ||free-website-hit-counters.com^
 ||free-website-statistics.com^
-||free.xxxcounter.com^
 ||free2try.com^
 ||freebanner.com^
 ||freebannerswap.co.uk^
@@ -9419,7 +9366,6 @@ ws*://video.docfilms.info^
 ||gaug.es^
 ||gawxf.com^
 ||gay-hotvideo.net^
-||gay.xxxcounter.com^
 ||gayadnetwork.com^
 ||gazzz.survey7.adsservingtwig.xyz
 ||gbkfkofgks.com^
@@ -9540,7 +9486,6 @@ ws*://video.docfilms.info^
 ||getpopunder.com^
 ||gets-web.space^
 ||gets.faz.net^
-||gets.lockscalecompare.com^
 ||getscorecash.com^
 ||getsidecar.com^
 ||getsidecar.s3.amazonaws.com^
@@ -9551,7 +9496,6 @@ ws*://video.docfilms.info^
 ||gettopup.com^
 ||gettraff.com^
 ||getxml.org^
-||gevfh.voluumtrk2.com^
 ||gewrrpygsd.biz^
 ||gez.io^
 ||gezaehlt.de^
@@ -9571,7 +9515,6 @@ ws*://video.docfilms.info^
 ||ggxt.net^
 ||gh.ffshrine.org^
 ||ghfgcdsdfgcg.com^
-||ghost.in.the.shell.at.bnex.com^
 ||ghosthis.review^
 ||ghxadv.com^
 ||gi.sfr.fr^
@@ -9606,8 +9549,6 @@ ws*://video.docfilms.info^
 ||givemefreestuff.com^
 ||givingsol.com^
 ||gixmo.dk^
-||gj.applog.uc.cn^
-||gjapplog.uc.cn^
 ||gjol8ib0.website^
 ||gjslm.com^
 ||gjtrack.uc.cn^
@@ -9628,8 +9569,7 @@ ws*://video.docfilms.info^
 ||global-adsrv.com^
 ||global-success-club.net^
 ||global.ymtrack.com^
-||globaladmedia.com^
-||globaladmedia.net
+||globaladmedia.*^
 ||globaladsales.com^
 ||globaladv.net^
 ||globalinteractive.com^
@@ -9752,9 +9692,6 @@ ws*://video.docfilms.info^
 ||golizoli.com^
 ||gollox.de^
 ||golokavi.com^
-||gomakemerich.com^
-||gomakemerich1.com^
-||gomakemerich2.com^
 ||gomovies.track.clicksure.com^
 ||gomtdatacom.xyz^
 ||gonamic.de^
@@ -9782,7 +9719,7 @@ ws*://video.docfilms.info^
 ||google-rank.org^
 ||googleadapis.l.google.com^
 ||googleadservicepixel.com^
-||googleadservices.com/*
+||googleadservices.com/*^
 ||googleadservices.com^
 ||googlerank.info^
 ||googlesyndicatiion.com^
@@ -9809,7 +9746,7 @@ ws*://video.docfilms.info^
 ||gosmstheme.3g.cn
 ||gospycash.com^
 ||gosquared.com^
-||gostats.*
+||gostats.*^
 ||gotagy.com^
 ||gotarget.su^
 ||gotjs.xyz^
@@ -9825,8 +9762,7 @@ ws*://video.docfilms.info^
 ||govbusi.info^
 ||governmenttrainingexchange.com^
 ||goviral-content.com^
-||goviralnetwork.com^
-||goviralnetwork.net^
+||goviralnetwork.*^
 ||govmetric.com^
 ||goyavelab.com^
 ||gozilla.com^
@@ -9848,7 +9784,6 @@ ws*://video.docfilms.info^
 ||gramovi.info^
 ||grand-casino.com/?
 ||grandslammedia.com^
-||granite.bnex.com^
 ||granodiorite.com^
 ||grapeshot.co.uk^
 ||graph.facebook.com^
@@ -9888,9 +9823,7 @@ ws*://video.docfilms.info^
 ||greentooth.xtgem.com^
 ||greerlies.pro^
 ||greetzebra.com^
-||grenstia.com^
 ||grepdata.com^
-||gretzalz.com^
 ||greview.pro^
 ||grey-eyes.info^
 ||greyinstrument.com^
@@ -9926,7 +9859,7 @@ ws*://video.docfilms.info^
 ||gscontxt.net^
 ||gscsystemwithdarren.com^
 ||gsecondscreen.com^
-||gserv.zdnet.co.uk
+||gserv.zdnet.co.uk^
 ||gsfn.us
 ||gsimedia.net^
 ||gsmtop.net^
@@ -9952,7 +9885,6 @@ ws*://video.docfilms.info^
 ||guid.org
 ||guitaralliance.com^
 ||guitarbelieve.com^
-||gum.dlbooks.to^
 ||gumgum.com^
 ||gunpartners.com^
 ||guppymedia.com^
@@ -9971,21 +9903,15 @@ ws*://video.docfilms.info^
 ||gynax.com^
 ||h-bid.com^
 ||h-images.net^
-||h.cliphunter.com^
-||h.imedia.cz^
 ||h.live.com^
-||h1.flashvortex.com^
 ||h12-media.com^
-||h166g9ej.download^
 ||h2.msn.com^
 ||h4k5.com^
-||h5.wannaplay.cn^
 ||h5tjj3loy2.com^
 ||h6.msn.com^
 ||h6y654wgfdhd.com^
 ||h8vzwpv.com^
 ||ha-api.pushwoosh.com^
-||hab3n.trackvoluum.com^
 ||hadarone.com^
 ||haggilder.com^
 ||hahaha.ovh^
@@ -10056,8 +9982,6 @@ ws*://video.docfilms.info^
 ||hb-247.com^
 ||hbb.concentra.be
 ||hbx.df-srv.de^
-||hc1.humanclick.com^
-||hc2.humanclick.com^
 ||hcg82f2b.com^
 ||hd-plugin.com^
 ||hd100546b.com^
@@ -10189,9 +10113,7 @@ ws*://video.docfilms.info^
 ||hit.stat24.com^
 ||hit.sunnydollars.net^
 ||hit.tripod.lycos.co.uk^
-||hit.tripod.lycos.es^
-||hit.tripod.lycos.it^
-||hit.tripod.lycos.nl^
+||hit.tripod.lycos.*^
 ||hit100.ro^
 ||hit2map.com^
 ||hitadsmedia.com^
@@ -10500,7 +10422,6 @@ ws*://video.docfilms.info^
 ||i.r1-cdn.net^
 ||i.sahcdn.com^
 ||i.simpli.fi
-||i.socdm.com^
 ||i.tapit.com^
 ||i.txtsrving.info^
 ||i.verticalresponse.com^
@@ -11095,7 +11016,6 @@ ws*://video.docfilms.info^
 ||insulling.com^
 ||insupposity.info^
 ||intares.net^
-||intarsia.bnex.com^
 ||integral-marketing.com^
 ||integrate.com^
 ||integritystat.com^
@@ -11165,7 +11085,6 @@ ws*://video.docfilms.info^
 ||intopicmedia.com^
 ||intouchmediagroup.com^
 ||intowow.com^
-||intranet.bnex.com^
 ||intrastats.com^
 ||intredo.com^
 ||intredomedia.com^
@@ -11369,7 +11288,6 @@ ws*://video.docfilms.info^
 ||jacopiler.pro^
 ||jacquarter.com^
 ||jadcenter.com^
-||jade.bnex.com^
 ||jadizayo.com^
 ||jagoanpoker99.com^
 ||jagoiklan.com^
@@ -11537,7 +11455,6 @@ ws*://video.docfilms.info^
 ||js.revsci.net^
 ||js.rutor.net.pl^
 ||js.srcsmrtgs.com^
-||js.stormcontainertag.com^
 ||js.stroeermediabrands.de^
 ||js.textshift.net^
 ||js.users.51.la^
@@ -12109,7 +12026,6 @@ ws*://video.docfilms.info^
 ||lhzbdvm.com^
 ||liadm.com^
 ||librato-collector.genius.com^
-||libs.coremetrics.com^
 ||libs.lavanetwork.net^
 ||libstat.com^
 ||licantrum.com^
@@ -12454,7 +12370,6 @@ ws*://video.docfilms.info^
 ||lostelephants.xyz^
 ||lostwebtracker.com^
 ||lotame.com^
-||lotame.nexac.com^
 ||lotteryaffiliates.com^
 ||lotus-4d.com^
 ||loudgames.com^
@@ -12557,13 +12472,11 @@ ws*://video.docfilms.info^
 ||m.12306media.com^
 ||m.2mdn.net^
 ||m.addthisedge.com^
-||m.adsymptotic.com^
 ||m.adtc.daum.net^
 ||m.adtiming.com^
 ||m.ajxqiongbg.com^
 ||m.astrokolik.com^
 ||m.awesometracker.com^
-||m.benaughty.com^
 ||m.burt.io^
 ||m.czbiw.com^
 ||m.dubcm.com^
@@ -12585,7 +12498,6 @@ ws*://video.docfilms.info^
 ||m.tstore.co.kr^
 ||m.vpadn.com^
 ||m.wankz.com^
-||m.wrating.com^
 ||m.xcams.com^
 ||m.xvideos.fr^
 ||m.yap.yahoo.com^
@@ -12593,7 +12505,6 @@ ws*://video.docfilms.info^
 ||m1.webstats4u.com^
 ||m10s8.com^
 ||m1e.net^
-||m1fzj.trackvoluum.com^
 ||m1ll1c4n0.com^
 ||m2.ai^
 ||m2d.m2.ai
@@ -12687,7 +12598,6 @@ ws*://video.docfilms.info^
 ||makemyvids.com^
 ||makersfile.com^
 ||makroads.net^
-||malachite.bnex.com^
 ||malictuiar.com^
 ||malient.tk^
 ||mallsponsor.com^
@@ -12704,9 +12614,7 @@ ws*://video.docfilms.info^
 ||manuelu.com^
 ||manughl.de^
 ||maokdata.com^
-||map.media6degrees.com^
 ||map.pop6.com^
-||map.popunderz.com^
 ||mapi.tapreason.com^
 ||maple-team.com^
 ||maploco.com^
@@ -12714,7 +12622,6 @@ ws*://video.docfilms.info^
 ||mapstats.blogflux.com^
 ||maraukog.info^
 ||marbil24.co.za^
-||marble.bnex.com^
 ||marcycoin.org^
 ||margadoncat.com^
 ||marginalwoodfernrounddance.com^
@@ -12855,7 +12762,7 @@ ws*://video.docfilms.info^
 ||mcdstorage.com^
 ||mcityadslink.com^
 ||mcljm.top^
-||mcmads.mediacapital.pt
+||mcmads.mediacapital.pt^
 ||mcnt.jp^
 ||mcs.delvenetworks.com^
 ||mcssl.com^
@@ -13056,7 +12963,6 @@ ws*://video.docfilms.info^
 ||megartb.com^
 ||megast.at^
 ||megastat.net^
-||megastore.bnex.com^
 ||megatizer.com^
 ||megatopsites.com^
 ||megatraf.biz^
@@ -13591,7 +13497,6 @@ ws*://video.docfilms.info^
 ||morningdigit.com^
 ||mortantse.info^
 ||mos.com^
-||mosaic.bnex.com^
 ||mosaicolor.website^
 ||mosaiq.io^
 ||moselats.com^
@@ -13641,8 +13546,6 @@ ws*://video.docfilms.info^
 ||mplxtms.com^
 ||mpn-analytics.mokonocdn.com^
 ||mpnrs.com^
-||mpp.vindicosuite.com^
-||mpp2.vindicosuite.com^
 ||mppapi.io^
 ||mpression.net^
 ||mprezchc.com^
@@ -14185,7 +14088,6 @@ ws*://video.docfilms.info^
 ||nextstat.com^
 ||nexttime.ovh^
 ||neyrvru.wmbgc.xyz^
-||nfbal.trackvoluum.com^
 ||nfm.optdiv.net^
 ||nfwebminer.com^
 ||ng.virgul.com^
@@ -14484,7 +14386,6 @@ ws*://video.docfilms.info^
 ||obzatop.info^
 ||oc-track.autonomycloud.com^
 ||oc.umeng.co^
-||oca.telemetry.microsoft.com^
 ||ocatdog.live^
 ||ocatdog.today^
 ||ocdn.adsterra.com^
@@ -14635,9 +14536,8 @@ ws*://video.docfilms.info^
 ||omnistats.jetblue.com^
 ||omnitagjs.com^
 ||omniture.com^
-||omniture.eaeurope.eu
 ||omniture.eaeurope.eu^
-||omniture.mirror.co.uk
+||omniture.mirror.co.uk^
 ||omniture.scotiabank.com^
 ||omns.americanexpress.com^
 ||omoukkkj.stream^
@@ -14733,7 +14633,6 @@ ws*://video.docfilms.info^
 ||onti.rocks^
 ||onvertise.com^
 ||onwsys.net^
-||onyx.bnex.com^
 ||oodode.com^
 ||ooecyaauiz.com^
 ||oofte.com^
@@ -14876,7 +14775,6 @@ ws*://video.docfilms.info^
 ||oriel.io^
 ||orientalpoker.net^
 ||origer.info^
-||orion.bnex.com^
 ||ormeadobess.com^
 ||ortonch.com^
 ||orts.wixawin.com^
@@ -15019,14 +14917,9 @@ ws*://video.docfilms.info^
 ||p-digital-server.com^
 ||p-log.ykimg.com^
 ||p-td.com^
-||p.adpdx.com^
-||p.adsymptotic.com^
-||p.ato.mx
 ||p.aty.sohu.com^
 ||p.biasdo.com^
-||p.cpaoa.org
-||p.cpx.to
-||p.cpxinteractive.com^
+||p.cpaoa.org^
 ||p.delivery.net^
 ||p.errorception.com^
 ||p.imgur.com^
@@ -15129,7 +15022,6 @@ ws*://video.docfilms.info^
 ||pangerantoto1.net^
 ||pangerantoto3.com^
 ||panoll.com^
-||panther1.cpxinteractive.com^
 ||pantherads.com^
 ||panyeri.info^
 ||papayamobile.com^
@@ -15258,7 +15150,6 @@ ws*://video.docfilms.info^
 ||peakcounter.dk^
 ||pearno.com^
 ||pebadu.com^
-||pebble.bnex.com^
 ||pebblemedia.be^
 ||pebed.dm.gg^
 ||pecaning.com^
@@ -15854,7 +15745,6 @@ ws*://video.docfilms.info^
 ||postitial.com^
 ||postitial.iqzone.com^
 ||postmasterbannernet.com^
-||postpixel.vindicosuite.com^
 ||postrelease.com^
 ||potcityzip.com^
 ||potd.onlytease.com^
@@ -15944,7 +15834,6 @@ ws*://video.docfilms.info^
 ||presjots.ga^
 ||prestadsng.com^
 ||prestoris.com^
-||preview.bnex.com^
 ||prexista.com^
 ||prf.hn^
 ||prfct.co^
@@ -16409,7 +16298,6 @@ ws*://video.docfilms.info^
 ||quantummetric.com^
 ||quartermedia.de^
 ||quarterserver.de^
-||quartz.bnex.com^
 ||quaves.info^
 ||quavomi.com^
 ||qubitanalytics.appspot.com^
@@ -16856,7 +16744,6 @@ ws*://video.docfilms.info^
 ||reports.maxperview.com^
 ||reports.pagesuite-professional.co.uk^
 ||reports.tstlabs.co.uk^
-||reports.wes.df.telemetry.microsoft.com^
 ||repressina.com^
 ||republer.com^
 ||republika.onet.pl^
@@ -17283,11 +17170,9 @@ ws*://video.docfilms.info^
 ||s.ad131m.com^
 ||s.ad7m.com^
 ||s.arlime.com^
-||s.ato.mx
 ||s.btstatic.com^
 ||s.click.aliexpress.com^
 ||s.conyak.com^
-||s.cpx.to^
 ||s.getsmartcontent.com^
 ||s.gstat.orange.fr^
 ||s.holder.com.ua^
@@ -17769,7 +17654,6 @@ ws*://video.docfilms.info^
 ||servicegetbook.net^
 ||services.mailermailer.com^
 ||services.webestools.com^
-||services.wes.df.telemetry.microsoft.com^
 ||services.wetek.com^
 ||servicetick.com^
 ||serving-sys.com^
@@ -18486,9 +18370,7 @@ ws*://video.docfilms.info^
 ||spywords.com^
 ||sq2trk2.com^
 ||sqate.io^
-||sqm.df.telemetry.microsoft.com^
 ||sqm.telemetry.microsoft.com.nsatc.net^
-||sqm.telemetry.microsoft.com^
 ||squartedo.info^
 ||squarterun.com^
 ||squeamishscarecrow.com^
@@ -18510,7 +18392,6 @@ ws*://video.docfilms.info^
 ||srvpub.com^
 ||srvtrck.com^
 ||srx.com.sg^
-||ss.musthird.com^
 ||ss.tiscali.it^
 ||ss.xxxnavy.com^
 ||ssangyong.co.il^
@@ -18536,7 +18417,6 @@ ws*://video.docfilms.info^
 ||ssl4stats.de^
 ||ssl4us.cf^
 ||ssl4us.gq^
-||sslad.adcash.com^
 ||sslboost.com^
 ||sslcheckerapi.com^
 ||sslenable.review^
@@ -19107,7 +18987,6 @@ ws*://video.docfilms.info^
 ||t.eharmony.com^
 ||t.etraveli.com^
 ||t.flux.com^
-||t.formalyzer.com^
 ||t.frtyi.com^
 ||t.hypers.com.cn^
 ||t.jobthread.com^
@@ -19134,38 +19013,23 @@ ws*://video.docfilms.info^
 ||t.planvip.fr^
 ||t.powerreviews.com^
 ||t.premii.com^
-||t.proext.com^
 ||t.pswec.com^
 ||t.purch.com^
-||t.qservz.com^
-||t.sexycontent.net^
-||t.sf14g.com^
 ||t.sgc.io^
 ||t.smile.eu^
 ||t.theoutplay.com^
-||t.trackalyzer.com^
-||t.trackedlink.net^
-||t.trafficninjas.co
 ||t.unbounce.com^
 ||t.vimeo.com^
 ||t.wayfair.com^
-||t.wowanalytics.co.uk^
 ||t.wowtrk.com^
 ||t.xtubetv.net^
 ||t.ymlp275.net^
-||t0.formalyzer.com^
-||t0.trackalyzer.com^
 ||t1.clipkit.com^
-||t1.formalyzer.com^
-||t1.musthird.com^
-||t1.stormcontainertag.com^
 ||t2.hulu.com^
 ||t2.huluim.com^
 ||t2.t2b.click^
-||t2y16t3g.download^
 ||t3q7af0z.com^
 ||t4ft.de^
-||t5.wrating.com^
 ||ta.queit.in^
 ||ta.trs.cn^
 ||tabici.com^
@@ -19374,7 +19238,6 @@ ws*://video.docfilms.info^
 ||tek-tek-trek.com^
 ||teknosurf3.com^
 ||tel-tel-fie.com^
-||telecommand.telemetry.microsoft.com^
 ||telemetry.allrecipes.com^
 ||telemetry.appex.bing.net^
 ||telemetry.jivosite.com^
@@ -19422,11 +19285,9 @@ ws*://video.docfilms.info^
 ||terrapush.com^
 ||terratracker.com^
 ||terratraf.com^
-||terrazzo.bnex.com^
 ||terren.cntv.cn^
 ||teschenite.com^
 ||test.ajc.cimedia.com^
-||test.coremetrics.com^
 ||test.p.12cpm.com^
 ||test.yesadvertising.com^
 ||test1.lmsoft.cz
@@ -19452,7 +19313,6 @@ ws*://video.docfilms.info^
 ||tfn.das.tamedia.ch
 ||tfncdn.thaflynation.com^
 ||tfuyqoxs.com^
-||tg.socdm.com^
 ||tg2016.net^
 ||tga.csbew.com^
 ||tgdaudience.com^
@@ -19678,7 +19538,6 @@ ws*://video.docfilms.info^
 ||tmpopenclose.click^
 ||tmqhw.us^
 ||tms-st.cdn.ngenix.net^
-||tmscdn.coremetrics.com^
 ||tmserver-2.net
 ||tmstrack.com^
 ||tmtrck.com^
@@ -19744,7 +19603,6 @@ ws*://video.docfilms.info^
 ||top.lv^
 ||top.myfilms.su^
 ||top.nydus.org^
-||top.proext.com^
 ||top.sec.uz^
 ||top.skyzone.ro^
 ||top.topua.net^
@@ -20205,7 +20063,6 @@ ws*://video.docfilms.info^
 ||trk.sele.co^
 ||trk.stroeermediabrands.de^
 ||trk.trafficposse.com^
-||trk.vindicosuite.com^
 ||trk.wdacashtrk.com^
 ||trk1.opanw.com^
 ||trk2it4.com^
@@ -20351,7 +20208,6 @@ ws*://video.docfilms.info^
 ||tw.i.hulu.com^
 ||twalm.com^
 ||twap.eu^
-||twci.coremetrics.com^
 ||twcount.com^
 ||tweard.com^
 ||tweightment.pro^
@@ -20495,7 +20351,6 @@ ws*://video.docfilms.info^
 ||unanimis.co.uk^
 ||unaturing.info^
 ||uncyane.com^
-||undefined.vindicosuite.com^
 ||under-click.
 ||underclick.
 ||underdog.media^
@@ -21129,7 +20984,6 @@ ws*://video.docfilms.info^
 ||vpbyl.com^
 ||vpdsd.top^
 ||vpico.com^
-||vpos.bnex.com^
 ||vppst.iltrovatore.it^
 ||vps.zeptolab.com^
 ||vpvsy.com^
@@ -21283,8 +21137,6 @@ ws*://video.docfilms.info^
 ||watrz.com^
 ||watson.live.com^
 ||watson.microsoft.com^
-||watson.ppe.telemetry.microsoft.com^
-||watson.telemetry.microsoft.com^
 ||waudeesestew.com^
 ||waudit.cz^
 ||waust.at^
@@ -21530,12 +21382,10 @@ ws*://video.docfilms.info^
 ||werbeflut.net^
 ||werbemittelgenerator.com^
 ||werbenetzwerk.tk^
-||wes.df.telemetry.microsoft.com^
 ||wesell.co.il
 ||wetrack.it
 ||weuigcsch31.com^
 ||wfnetwork.com^
-||wfpscripts.webspectator.com^
 ||wfs01.wapka.mobi^
 ||wgreatdream.com^
 ||wguke.com^
@@ -21773,7 +21623,6 @@ ws*://video.docfilms.info^
 ||wsb.aracert.com^
 ||wsback*.presage.io^
 ||wsc.ehost-services.com^
-||wsc1.webspectator.com^
 ||wshp1rbq.website^
 ||wsod.com^
 ||wsp.adskeeper.co.uk^
@@ -21857,12 +21706,10 @@ ws*://video.docfilms.info^
 ||x.mochiads.com^
 ||x.myspace.com^
 ||x.myspace.edgesuite.net^
-||x.vindicosuite.com^
 ||x.weather.com^
 ||x10.com^
 ||x107nqa.com^
 ||x19network.com^
-||x2.vindicosuite.com^
 ||x3.xclicks.net^
 ||x4300tiz.com^
 ||x4x4x.org^
@@ -22314,7 +22161,6 @@ ws*://video.docfilms.info^
 ||zidae.com^
 ||zieltracker.de^
 ||ziffdavis.com^
-||ziflx.trackvoluum.com^
 ||zilzolachi.com^
 ||zim-zim-zam.com^
 ||zinhavnpak.com^
@@ -22376,7 +22222,7 @@ ws*://video.docfilms.info^
 ||zreluo.com^
 ||zroitracker.com^
 ||zs.dhl.de^
-||zs.ffshrine.org
+||zs.ffshrine.org^
 ||zs0s5xfe.com^
 ||zt-dst.com^
 ||ztcadx.com^
