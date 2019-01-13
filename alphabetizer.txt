@@ -1155,8 +1155,8 @@ ws*://video.docfilms.info^
 ||acxtrk.com^
 ||ad*.nexage.com^
 ||ad*.tmgrup.com.tr^
-||ad-*
-||ad.*
+||ad-*^
+||ad.*^
 ||ad0.haynet.com^
 ||ad01.adonspot.com^
 ||ad01.mediacorpsingapore.com^
@@ -1334,10 +1334,7 @@ ws*://video.docfilms.info^
 ||adclear.net^
 ||adclear.teufel.de^
 ||adclerks.com^
-||adclick.com^
-||adclick.lv^
-||adclick.nl^
-||adclick.pk^
+||adclick.*^
 ||adclickafrica.com^
 ||adclickmedia.com^
 ||adclicks.io^
@@ -1349,8 +1346,7 @@ ws*://video.docfilms.info^
 ||adclient.detelefoongids.nl
 ||adclient.uimserv.net^
 ||adclient1.tucows.com^
-||adclix.com^
-||adclix.org^
+||adclix.*^
 ||adcloud.net^
 ||adclub.net^
 ||adcmps.com^
@@ -2612,7 +2608,6 @@ ws*://video.docfilms.info^
 ||aff.lmgtfy.com^
 ||aff.marathonbet.com^
 ||aff.mclick.mobi
-||aff.nextdating.com^
 ||aff.nscash.com^
 ||aff.optionbit.com^
 ||aff.optionyard.com^
@@ -2800,8 +2795,6 @@ ws*://video.docfilms.info^
 ||airserve.net^
 ||ais.abacast.com^
 ||aixcdn.com^
-||aj.600z.com^
-||aj.adjungle.com^
 ||aj1052.online^
 ||ajangiklangratis.com^
 ||ajansreklam.net^
@@ -2828,7 +2821,6 @@ ws*://video.docfilms.info^
 ||akamhd.com^
 ||akanoo.com^
 ||akavita.com^
-||akillimeyveler.reklamagaci.com^
 ||akm.playnow.guru^
 ||akmnetwork.com^
 ||akmota.info^
@@ -2966,9 +2958,6 @@ ws*://video.docfilms.info^
 ||ampush.io^
 ||ampxchange.com^
 ||ampya01.wt-eu02.net^
-||ams2.100tb.heyzap.com^
-||ams3.100tb.heyzap.com^
-||ams4.100tb.heyzap.com^
 ||amung.us^
 ||amunx.de^
 ||amusive.com^
@@ -3051,9 +3040,7 @@ ws*://video.docfilms.info^
 ||andohs.net^
 ||andomedia.com^
 ||andomediagroup.com^
-||android.bcfads.com^
 ||android.bugly.qq.com^
-||android.heyzap.com^
 ||androidquery.appspot.com^
 ||androtify.com^
 ||andsedrit.com^
@@ -16524,6 +16511,7 @@ ws*://video.docfilms.info^
 ||realssp.co.kr^
 ||realtechnetwork.com^
 ||realtimeplease.com^
+||realtime.services.disqus.com^
 ||realtimewebstats.net^
 ||realtracker.com^
 ||realtracking.ninja^
