@@ -8529,7 +8529,6 @@ ws*://video.docfilms.info^
 ||expresided.info^
 ||expresswebtraffic.com^
 ||ext.affaire.com^
-||ext.host-tracker.com^
 ||ext.movixhub.com^
 ||ext1.engageya.com^
 ||extad.org^
@@ -16467,7 +16466,7 @@ ws*://video.docfilms.info^
 ||redirect.fairfax.com.au^
 ||redirect.la.idealab.com^
 ||redirect.linksummary.com^
-||redirect.wister.biz
+||redirect.wister.biz^
 ||redirect1.vip.store.yahoo.com^
 ||redirect18systemsg.com^
 ||redirect2719.ws
@@ -20178,7 +20177,6 @@ ws*://video.docfilms.info^
 ||uldmare.com^
 ||ulenr.top^
 ||ulife17yeter.com^
-||ulink.adjust.com^
 ||ulock.it
 ||ulogs.umengcloud.com^
 ||ulosmuynstes.ml^
