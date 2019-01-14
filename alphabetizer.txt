@@ -2021,10 +2021,10 @@ ws*://video.docfilms.info^
 ||adserversolutions.com^
 ||adservhere.com^
 ||adservi.com^
-||adservice.everyone.*
-||adservice.google.*
-||adservice.google.co.*
-||adservice.google.com.*
+||adservice.everyone.*^
+||adservice.google.*^
+||adservice.google.co.*^
+||adservice.google.com.*^
 ||adservicemedia.dk^
 ||adserving.*
 ||adservingfactory.com^
@@ -5211,7 +5211,6 @@ ws*://video.docfilms.info^
 ||cdn.creative.medialytics.com^
 ||cdn.devolapgt.com^
 ||cdn.digitalcity.com^
-||cdn.directrev.com^
 ||cdn.directtrk.com^
 ||cdn.dirjournal.com^
 ||cdn.doubleverify.com^
@@ -5660,7 +5659,6 @@ ws*://video.docfilms.info^
 ||click.safe-sender.co.uk
 ||click.scour.com^
 ||click.silvercash.com^
-||click.startappexchange.com^
 ||click.topica.com^
 ||click.trklinklog.com^
 ||click.tv.repubblica.it
@@ -5867,8 +5865,7 @@ ws*://video.docfilms.info^
 ||clifftopper.com^
 ||clixco.in^
 ||clixcount.com^
-||clixgalore.co.uk
-||clixgalore.com^
+||clixgalore.*^
 ||cliximages.com^
 ||clixpy.com^
 ||clixsense.com^
@@ -5876,8 +5873,7 @@ ws*://video.docfilms.info^
 ||clk.77978.xn--q9jyb4c
 ||clk.8mm.shiksha
 ||clk.about.com^
-||clk.boulanger.fr
-||clk.directrev.com^
+||clk.boulanger.fr^
 ||clk.flmsecure.com^
 ||clk.im
 ||clk.members.fling.com^
@@ -6634,7 +6630,6 @@ ws*://video.docfilms.info^
 ||ctasnet.com^
 ||ctenetwork.com^
 ||ctl.buyt.in^
-||ctl.mobitrack.co.kr^
 ||ctm-media.com^
 ||ctmconnect.com^
 ||ctnet2.in^
@@ -7821,7 +7816,6 @@ ws*://video.docfilms.info^
 ||dtmpub.com^
 ||dtprofit.com^
 ||dtrck.xyz
-||dts.akamai.startappexchange.com^
 ||dtscout.com^
 ||dtto8zfzskfoa.cloudfront.net^
 ||dtxngr.com^
@@ -8383,8 +8377,7 @@ ws*://video.docfilms.info^
 ||etology.com^
 ||etonovosti.biz
 ||etonovosti.net^
-||etracker.com^
-||etracker.de^
+||etracker.*^
 ||etracking24.de^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
@@ -9478,7 +9471,6 @@ ws*://video.docfilms.info^
 ||gfxa.sheetmusicplus.com^
 ||gg.mob.vendimob.pl^
 ||ggncpm.com^
-||ggo.directrev.com^
 ||ggsaffiliates.com^
 ||ggxt.net^
 ||gh.ffshrine.org^
@@ -10614,7 +10606,6 @@ ws*://video.docfilms.info^
 ||images-aud.freshmeat.net^
 ||images-aud.slashdot.org
 ||images-aud.sourceforge.net^
-||images-mcdn.startappexchange.com^
 ||images.adprofile.net^
 ||images.ads.fairfax.com.au^
 ||images.ads.whaleads.com^
@@ -10655,7 +10646,6 @@ ws*://video.docfilms.info^
 ||images.quitnet.com^
 ||images.resellerratings.com^
 ||images.revtrax.com^
-||images.startappexchange.com^
 ||images.streamray.com^
 ||images.tigerdirect.com^.edgesuite.net^
 ||images.v3.com^
@@ -10760,7 +10750,6 @@ ws*://video.docfilms.info^
 ||imp.go.sohu.com^
 ||imp.optaim.com^
 ||imp.pix.com^
-||imp.startappexchange.com^
 ||impactmobile.com^
 ||impactradius-event.com^
 ||impactradius-go.com^
@@ -10789,17 +10778,15 @@ ws*://video.docfilms.info^
 ||imrworldwide.com^
 ||ims.cz
 ||ims.nl
-||imstore.bet365affiliates.com^
 ||imtrck.com^
 ||imtrk.trktoo.com^
 ||imu.com.cn^
 ||imupdate.3g.cn
-||imx.com^edycentral.com^
+||imx.comedycentral.com^
 ||imzhv.xyz^
 ||in-appadvertising.com^
 ||in.cuebiq.com^
 ||in.cybererotica.com^
-||in.getclicky.com^
 ||in.mainentrypoint.com^
 ||in.mstrckinam.com^
 ||in.mydirtyhobby.com^
@@ -10808,7 +10795,6 @@ ws*://video.docfilms.info^
 ||inadequal.com^
 ||inaudium.com^
 ||inb.csrvrgroup.com^
-||inb.genorithm.com^
 ||inboxdollars.com^
 ||inboxpounds.co.uk
 ||inboxpounds.com^
@@ -13334,8 +13320,7 @@ ws*://video.docfilms.info^
 ||mobisla.com^
 ||mobisway.info^
 ||mobisystems.com^
-||mobitracker.info
-||mobitracker.info^
+||mobitracker.*^
 ||mobivity.com^
 ||mobix.a.bukugames.net^
 ||mobixell.com^
@@ -13345,8 +13330,7 @@ ws*://video.docfilms.info^
 ||moboland.net^
 ||mobon.com^
 ||moborobot.com^
-||mobpartner.com^
-||mobpartner.mobi^
+||mobpartner.*^
 ||mobpowertech.com^
 ||mobprofitxxl.com^
 ||mobpushup.com^
@@ -14126,8 +14110,7 @@ ws*://video.docfilms.info^
 ||nomalleadzuaff.com^
 ||nonames.tk^
 ||nonmoves.date^
-||nonstoppartner.de^
-||nonstoppartner.net^
+||nonstoppartner.*^
 ||nontonbokep.mobi^
 ||nonxt1.c.youtube.com^
 ||noowho.com^
@@ -14183,14 +14166,13 @@ ws*://video.docfilms.info^
 ||ns.rvmkitt.com^
 ||ns1.123go.net^
 ||ns1.datapipe.net^
-||ns1.hitx.net^
 ||ns1.iad.cimedia.net^
 ||ns1.lighthost.com^
 ||ns1.maximumhost.com^
 ||ns1.netster.net^
 ||ns1.phorm.com^
 ||ns1.sfj.pnap.net^
-||ns1.sunrise.ch
+||ns1.sunrise.ch^
 ||ns106.ehostpros.com^
 ||ns1p.net^
 ||ns2.123go.net^
@@ -16434,7 +16416,6 @@ ws*://video.docfilms.info^
 ||rd.apmebf.com^
 ||rd.jersey.ads.juno.com^
 ||rd.mobiteasy.com^
-||rd.rakuten.co.jp
 ||rd.rakuten.co.jp^
 ||rd.sslmediaserver.com^
 ||rd.yahoo.co.jp^
@@ -16446,7 +16427,6 @@ ws*://video.docfilms.info^
 ||rdsa2012.com^
 ||rdstation.com.br^
 ||rdstation.com^
-||re.directrev.com^
 ||re.try9.com^
 ||reachandrich.antevenio.com^
 ||reachforce.com^
@@ -16499,7 +16479,7 @@ ws*://video.docfilms.info^
 ||rebevengwas.com^
 ||rebill.me
 ||reborko.com^
-||rec.quartic.pl
+||rec.quartic.pl^
 ||rec.x-lift.jp^
 ||rec2000.at.ua^
 ||rec3re23.com^
@@ -17157,7 +17137,6 @@ ws*://video.docfilms.info^
 ||s.youtube.com^
 ||s.zkcdn.net^
 ||s0.2mdn.net^
-||s01-delivery.addynamo.net^
 ||s02.optimix.asia
 ||s1.2mdn.net^
 ||s1.freehostedscripts.net^
@@ -18464,7 +18443,6 @@ ws*://video.docfilms.info^
 ||static.3-mobiappu.com^
 ||static.acs86.com^
 ||static.addinto.com^
-||static.addynamo.net^
 ||static.adtidy.net^
 ||static.analytics-site.com^
 ||static.apester.com^
@@ -18473,24 +18451,17 @@ ws*://video.docfilms.info^
 ||static.appwatch.com^
 ||static.atomload.at^
 ||static.beintoo.com^
-||static.clickpapa.com^
 ||static.clickscloud.net^
-||static.clixsense.com^
-||static.clmbtech.com^
 ||static.contactme.com^
 ||static.crakbanner.com^
-||static.csbew.com^
 ||static.dcoengine.com^
 ||static.digidip.net^
 ||static.eplayer.performgroup.com^
 ||static.estebull.com^
-||static.etracker.com^
 ||static.everyone.net^
 ||static.everyplay.com^
 ||static.firstmobilecash.com^
 ||static.fragbite.com^
-||static.freewebs.getclicky.com^
-||static.getclicky.com^
 ||static.getkudos.me
 ||static.groupon.co.uk^
 ||static.hoptopboy.com^
@@ -19265,7 +19236,6 @@ ws*://video.docfilms.info^
 ||tfncdn.thaflynation.com^
 ||tfuyqoxs.com^
 ||tg2016.net^
-||tga.csbew.com^
 ||tgdaudience.com^
 ||tget.me^
 ||tgknt.com^
@@ -19478,7 +19448,6 @@ ws*://video.docfilms.info^
 ||tmdn2015x9.com^
 ||tmearn.com^
 ||tmgr.ccmbg.com^
-||tml.clmbtech.com^
 ||tmobile-us.inq.com^
 ||tmozs.com^
 ||tmp.dt00.net^
@@ -19993,7 +19962,6 @@ ws*://video.docfilms.info^
 ||trk.apperol.com^
 ||trk.bhs4.com^
 ||trk.bluetrackmedia.com^
-||trk.clmbtech.com^
 ||trk.cpaoptimizer.com^
 ||trk.dsllgal.com^
 ||trk.dsv2trk.com^
