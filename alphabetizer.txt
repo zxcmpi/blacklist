@@ -1010,7 +1010,6 @@ ws*://video.docfilms.info^
 ||aaotr.com^
 ||aarki.com^
 ||aastob.com^
-||ab.airpush.com^
 ||ab.auone-net.jp^
 ||ab1eo0rx.stream^
 ||ab8ce655c175b0d.com^
@@ -2808,7 +2807,6 @@ ws*://video.docfilms.info^
 ||ak-ns.sascdn.com^
 ||ak.imgaft.com^
 ||ak.pipoffers.apnpartners.com^
-||ak.sail-horizon.com^
 ||ak.toolbar.mywebsearch.com^
 ||ak.webfetti.com^
 ||ak0gsh40.com^
@@ -3124,23 +3122,19 @@ ws*://video.docfilms.info^
 ||api.adintext.net^
 ||api.adlure.net^
 ||api.ads.watchabc.go.com^
-||api.adyoulike.com^
-||api.airpush.com^
 ||api.ampiri.com^
 ||api.analytics.omgpop.com^
 ||api.appfireworks.com^
 ||api.appoxee.com^
-||api.apptap.com^
 ||api.asiatone.net^
 ||api.autocompleteplus.com^
-||api.bee7.com^
-||api.bitp.it
+||api.bitp.it^
 ||api.calq.io^
 ||api.citygridmedia.com^
 ||api.cloudmobi.net^
 ||api.conduit.com^
 ||api.digitalbees.it^
-||api.domob.cn
+||api.domob.cn^
 ||api.elasticemail.com^
 ||api.exc.mob.com^
 ||api.flicktweets.com^
@@ -3345,8 +3339,7 @@ ws*://video.docfilms.info^
 ||arads.0fees.us
 ||aralego.com^
 ||arancefy.com^
-||arcadebannerexchange.net^
-||arcadebannerexchange.org^
+||arcadebannerexchange.*^
 ||arcadebanners.com^
 ||arcadebe.com^
 ||arcadechain.com^
@@ -3394,8 +3387,7 @@ ws*://video.docfilms.info^
 ||as.gamebox.com^
 ||as.gettyservices.com^
 ||as.inbox.com^
-||as.it.impact-ad.jp^
-||as.mv.impact-ad.jp^
+||as.*.impact-ad.jp^
 ||as.sinahk.net^
 ||as.stat.su^
 ||as.wiley.com^
@@ -3426,12 +3418,10 @@ ws*://video.docfilms.info^
 ||asklots.com^
 ||askmarket.net^
 ||asldkjflajsdfasdf.com^
-||asmedia.adsupplyssl.com^
 ||asmosi.info^
 ||asnetworks.de^
 ||aso1.net^
 ||asooda.com^
-||asotrack1.fluentmobile.com^
 ||asowp.com^
 ||aspair3.fingta.com^
 ||aspgfx.org^
@@ -3521,7 +3511,6 @@ ws*://video.docfilms.info^
 ||auctionnudge.com^
 ||audience.acpm.fr^
 ||audience.atex.com^
-||audience.visiblemeasures.com^
 ||audience2media.com^
 ||audienceamplify.com^
 ||audienceapi.newsdiscover.com.au^
@@ -3823,7 +3812,6 @@ ws*://video.docfilms.info^
 ||baliadv.com^
 ||balloontexture.com^
 ||baltchd.net^
-||bam-*.nr-data.net^
 ||bam-bam-slam.com^
 ||bam-x.com^
 ||bambar.net^
@@ -11807,7 +11795,6 @@ ws*://video.docfilms.info^
 ||l.ooyala.com^
 ||l.player.ooyala.com^
 ||l0-secure.videohub.tv^
-||l2.visiblemeasures.com^
 ||l33tsite.info^
 ||l3op.info^
 ||l9tdhe6.com^
@@ -13348,7 +13335,6 @@ ws*://video.docfilms.info^
 ||mobileposse.com^
 ||mobilestorm.com^
 ||mobiletheory.com^
-||mobileweb.api.airpush.com^
 ||mobilpop.com^
 ||mobilup.com^
 ||mobilure.com^
@@ -14391,7 +14377,6 @@ ws*://video.docfilms.info^
 ||octopart-analytics.com^
 ||octopuspop.com^
 ||octozoon.org^
-||od.visiblemeasures.com^
 ||odbabo.info^
 ||oddomane.com^
 ||oddsring555.com
@@ -19441,10 +19426,7 @@ ws*://video.docfilms.info^
 ||tisref.com^
 ||tissage-extension.com^
 ||titag.com^
-||titanads1.com^
-||titanads3.com^
-||titanads4.com^
-||titanads5.com^
+||titanads*.com^
 ||titanpoker.com^
 ||titranco.info^
 ||titsbro.org
@@ -21412,7 +21394,6 @@ ws*://video.docfilms.info^
 ||wicktrown.co^
 ||widerplanet.com^
 ||widespace.com^
-||widget.apptap.com^
 ||widget.breakingburner.com^
 ||widget.cheki.com^.ng
 ||widget.convertiser.com^
@@ -22222,3 +22203,4 @@ ws*://video.docfilms.info^
 ||zypenetwork.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||zzhengre.com^
+||gstaticadssl.l.google.com^
