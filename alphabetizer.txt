@@ -10124,7 +10124,7 @@ ws*://video.docfilms.info^
 ||hits.theguardian.com^
 ||hits.top.lv^
 ||hits.webstat.com^
-||hits.zdnet.co.kr
+||hits.zdnet.co.kr^
 ||hits2u.com^
 ||hitserver.ibope.com.br^
 ||hitslink.com^
@@ -10214,7 +10214,6 @@ ws*://video.docfilms.info^
 ||hopfeed.com^
 ||hopinionse.com^
 ||hoptopboy.com^
-||hopurl.org
 ||hopurl.org^
 ||horedi.com^
 ||horheloopo.com^
@@ -12085,11 +12084,7 @@ ws*://video.docfilms.info^
 ||linkcounter.com^
 ||linkedads.de^
 ||linkelevator.com^
-||linkexchange.com^
-||linkexchange.lk.net^
-||linkexchange.net^
-||linkexchange.nl^
-||linkexchange.org^
+||linkexchange.*^
 ||linkexchangers.net^
 ||linkforyoud.com^
 ||linkgrand.com^
@@ -12250,8 +12245,8 @@ ws*://video.docfilms.info^
 ||lockscalecompare.com^
 ||lockview.cn^
 ||locotrack.net^
-||log-*.*
-||log.*
+||log-*.*^
+||log.*^
 ||log000.goo.ne.jp^
 ||log1.24liveplus.com^
 ||log1.survey.io^
@@ -12266,9 +12261,9 @@ ws*://video.docfilms.info^
 ||logdy.com^
 ||logentries.com^
 ||logethy.com^
-||logger-*.*
-||logger.*
-||logging.*
+||logger-*.*^
+||logger.*^
+||logging.*^
 ||logging03.wxs.nl
 ||loggingapi.spingo.com^
 ||loggingservices.tribune.com^
@@ -12289,7 +12284,7 @@ ws*://video.docfilms.info^
 ||logql.yahoo.co.jp^
 ||logrocket.com^
 ||logs-01.loggly.com^
-||logs.*
+||logs.*^
 ||logsss.com^
 ||logstat.caixin.com^
 ||logua.com^
@@ -12388,8 +12383,7 @@ ws*://video.docfilms.info^
 ||lucidel.com^
 ||lucidmedia.com^
 ||lucklayed.info^
-||luckyorange.com^
-||luckyorange.net^
+||luckyorange.*^
 ||luckysearch123.com^
 ||luisardo.com^
 ||luke-forelegs0.asia^
@@ -13794,7 +13788,6 @@ ws*://video.docfilms.info^
 ||naganaga.lol^
 ||nagrande.com^
 ||nahnoji.cz^
-||naj.sk
 ||naj.sk^
 ||najsiejfnc.win^
 ||nakanohito.jp^
