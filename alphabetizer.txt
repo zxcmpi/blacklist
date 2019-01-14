@@ -4908,7 +4908,6 @@ ws*://video.docfilms.info^
 ||c.t-online.de^
 ||c.vrvm.com^
 ||c.vserv.mobi^
-||c.webengage.com^
 ||c.woopic.com^
 ||c.wort-suche.com^
 ||c.x.oanda.com^
@@ -5241,31 +5240,20 @@ ws*://video.docfilms.info^
 ||cdn.theturboforums.com^
 ||cdn.tomekas.com^
 ||cdn.trafficexchangelist.com^
-||cdn.trafficforce.com^
-||cdn.trafficposse.com^
-||cdn.trafficstars.com^
 ||cdn.unityads.unity3d.com^
 ||cdn.vaguntrader.com^
-||cdn.vipboxoc.co
+||cdn.vipboxoc.co^
 ||cdn.viralmint.com^
-||cdn.vlexokrako.com^
 ||cdn.voscast.com^
-||cdn.w55c.net^
 ||cdn.welcome.pussysaga.com^
-||cdn.widgets.webengage.com^
-||cdn.wigetmedia.com^
 ||cdn.wonderfulengineering.com^
-||cdn.www1.oratosaeron.com^
 ||cdn.x-lift.jp^
-||cdn.yb0t.com^
-||cdn.yldbt.com^
 ||cdn.yourtopoffers.info^
 ||cdn.zeusclicks.com^
 ||cdn.ziffstatic.com^
 ||cdn.zopim.com^
-||cdn1-ref.landing.com^content.net^
+||cdn1-ref.landing.comcontent.net^
 ||cdn1.ad-center.com^
-||cdn1.appia.com^
 ||cdn1.bad-credit-cdn.com^
 ||cdn1.bnmla.com^
 ||cdn1.clkbid.com^
@@ -7114,7 +7102,6 @@ ws*://video.docfilms.info^
 ||dashbida.com^
 ||dashboard.io^
 ||dashboard.qubitproducts.com^
-||dashboard.trafficforce.com^
 ||dashboardad.net^
 ||dashgreen.online^
 ||dasistnews.net^
@@ -7306,7 +7293,6 @@ ws*://video.docfilms.info^
 ||delivery.hornyspots.com^
 ||delivery.porn.com^
 ||delivery.swid.switchads.com^
-||delivery.trafficforce.com^
 ||delivery.uauniverse.com^
 ||delivery.us.myswitchads.com^
 ||delivery.yieldoptimisers.net^
@@ -7499,7 +7485,6 @@ ws*://video.docfilms.info^
 ||dirt.dennis.co.uk^
 ||discountclick.com^
 ||discover-path.com^
-||discoverapps.appia.com^
 ||discoverexactly.com^
 ||discovertrail.net^
 ||diseaseless.com^
@@ -10355,7 +10340,6 @@ ws*://video.docfilms.info^
 ||i.tapit.com^
 ||i.txtsrving.info^
 ||i.verticalresponse.com^
-||i.w55c.net^
 ||i.walla.co.il^
 ||i.wifi-x.co.uk^
 ||i1.likes-media.com^
@@ -11773,7 +11757,6 @@ ws*://video.docfilms.info^
 ||lanchaeanly.pro^
 ||landelcut.com^
 ||landing.adhall.com^
-||landing.appia.com^
 ||landing.meendo.com^
 ||landing.parkplatzkartei.com^
 ||landingpagegenius.com^
@@ -14889,7 +14872,6 @@ ws*://video.docfilms.info^
 ||pageranking-counter.de^
 ||pageranking.li^
 ||pages-stats.rbl.ms^
-||pages.appia.com^
 ||pages.expert-offers.com^
 ||pages05.net^
 ||pagesense.com^
@@ -15466,7 +15448,6 @@ ws*://video.docfilms.info^
 ||pm.sofortficken.com^
 ||pm.swingerdatenbank.com^
 ||pm.tittendating.com^
-||pm.w55c.net^
 ||pm.web.com^
 ||pm0.net^
 ||pm14.com^
@@ -16895,8 +16876,7 @@ ws*://video.docfilms.info^
 ||rotator.
 ||rotator.nbjmp.com^
 ||rotator.offpageads.com^
-||rotator.tradetracker.nl
-||rotator.trafficstars.com^
+||rotator.tradetracker.nl^
 ||rotibald.com^
 ||rotorads.com^
 ||rotrk.com^
@@ -18935,7 +18915,6 @@ ws*://video.docfilms.info^
 ||tag.shopping-flux.com^
 ||tag.sonymusic.com^
 ||tag.triboomedia.it^
-||tag.wigetmedia.com^
 ||tag.yakarouler.com^
 ||tag.zhupiter.com^
 ||tag4arm.com^
@@ -19934,7 +19913,6 @@ ws*://video.docfilms.info^
 ||trk.rrcpm.com^
 ||trk.sele.co^
 ||trk.stroeermediabrands.de^
-||trk.trafficposse.com^
 ||trk.wdacashtrk.com^
 ||trk1.opanw.com^
 ||trk2it4.com^
@@ -20588,7 +20566,6 @@ ws*://video.docfilms.info^
 ||vhmnetwork.com^
 ||vi-serve.com^
 ||vi012.com^
-||via.appia.com^
 ||viaden.com^
 ||vialeads.com^
 ||viamichelin.ss.xxxmyself.com^
