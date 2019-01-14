@@ -1245,6 +1245,7 @@ ws*://video.docfilms.info^
 ||adapex.io^
 ||adapi.gunosy.com^
 ||adapi.inlcorp.com^
+||adasiaholdings.com^
 ||adasist.com^
 ||adatrix.com^
 ||adavz.xyz^
@@ -2416,6 +2417,7 @@ ws*://video.docfilms.info^
 ||advertiseforfree.co.za^
 ||advertisegame.com^
 ||advertiseireland.com^
+||advertisement2.bizedge.com^
 ||advertisementbanners.com^
 ||advertiser.*
 ||advertiserconnection.azurewebsites.net^
@@ -7506,8 +7508,7 @@ ws*://video.docfilms.info^
 ||distiltag.com^
 ||distralytics.com^
 ||distribeo.com^
-||districtm.*
-||districtm.io^
+||districtm.*^
 ||disy2s34euyqm.cloudfront.net^
 ||dit-dit-dot.com^
 ||ditabu.pro^
@@ -9047,6 +9048,7 @@ ws*://video.docfilms.info^
 ||freecounterstat.com^
 ||freecouponbiz.com^
 ||freedownloadsoft.net^
+||freegeoip.app^
 ||freehd.com.ua^
 ||freehitscounter.org^
 ||freelogs.com^
@@ -9701,6 +9703,7 @@ ws*://video.docfilms.info^
 ||granodiorite.com^
 ||grapeshot.co.uk^
 ||graph.facebook.com^
+||graph.instagram.com^
 ||grapheffect.com^
 ||graphics.cams.com^
 ||graphics.friendfinder.com^
@@ -13364,7 +13367,7 @@ ws*://video.docfilms.info^
 ||monsterpops.com^
 ||monu.delivery^
 ||monxserver.com^
-||mookie1.com^
+||mookie1.*^
 ||mooncklick.com^
 ||moonsade.com^
 ||mootermedia.com^
@@ -14623,10 +14626,7 @@ ws*://video.docfilms.info^
 ||optimierung-der-website.de^
 ||optimiser.trafficmansion.com^
 ||optimix.asia^
-||optimize-stats.voxmedia.com^
 ||optimizeadvert.biz^
-||optimized.by.vitalads.net^
-||optimizedby.rmxads.com^
 ||optimizely.appspot.com^
 ||optimizely.com^
 ||optimizely.s3.amazonaws.com^
@@ -15051,6 +15051,7 @@ ws*://video.docfilms.info^
 ||pelicanprogram.com^
 ||pelicansource.com^
 ||pendekarqq.co^
+||pendo.io^
 ||penuma.com^
 ||people-group.su^
 ||pepperjamnetwork.com^
@@ -15885,7 +15886,6 @@ ws*://video.docfilms.info^
 ||protraffic.com^
 ||protrafv2.com^
 ||provenpixel.com^
-||providence.voxmedia.com^
 ||provider-direct.com^
 ||providesupport.com^
 ||proxad.net^
@@ -18778,7 +18778,6 @@ ws*://video.docfilms.info^
 ||synapsys.us^*.gif?
 ||sync.1dmp.io^
 ||sync.mobojoy.baidu.com^
-||sync.mookie1.cn^
 ||synconnector.com^
 ||syndicate.payloadz.com^
 ||syndicate.powerofads.com^
@@ -20574,6 +20573,7 @@ ws*://video.docfilms.info^
 ||vice-ads.s3.amazonaws.com^
 ||vicedata.com^
 ||vicinity-marketing.com^
+||vicomi.com^
 ||victorance.com^
 ||vid7delivery.com^
 ||vidalak.com^
