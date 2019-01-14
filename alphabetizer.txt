@@ -1361,8 +1361,7 @@ ws*://video.docfilms.info^
 ||adconity.com^
 ||adconjure.com^
 ||adconscious.com^
-||adcontent.gamespy.com^
-||adcontent.saymedia.com^
+||adcontent.*.com^
 ||adcount.hollywood.com^
 ||adcount.in^
 ||adcounter.theglobeandmail.com^
@@ -2512,8 +2511,7 @@ ws*://video.docfilms.info^
 ||adwolf.eu^
 ||adwords.immortalnight.com^
 ||adwordsservicapi.com^
-||adworkmedia.com^
-||adworkmedia.net^
+||adworkmedia.*^
 ||adworks.rediff.com^
 ||adworldmedia.com^
 ||adworldmedia.net^
@@ -3175,7 +3173,6 @@ ws*://video.docfilms.info^
 ||api.sharedcount.com^
 ||api.splkmobile.com^
 ||api.testrequest.info^
-||api.traversedlp.com^
 ||api.triver.jp^
 ||api.tweetmeme.com^
 ||api.uca.cloud.unity3d.com^
@@ -5183,7 +5180,6 @@ ws*://video.docfilms.info^
 ||cdn.actiflex.org^
 ||cdn.ad.maist.jp
 ||cdn.adbert.info^
-||cdn.adbrau.com^
 ||cdn.adclerks.com^
 ||cdn.addnow.com^
 ||cdn.adengine.org^
@@ -5192,8 +5188,6 @@ ws*://video.docfilms.info^
 ||cdn.adorikacontentportal.com^
 ||cdn.ads.fotoable.net^
 ||cdn.adultforce.com^
-||cdn.advanseads.com^
-||cdn.adworkmedia.com^
 ||cdn.allegedmedia.com^
 ||cdn.amzuu.com^
 ||cdn.assets.craveonline.com^
@@ -5247,7 +5241,6 @@ ws*://video.docfilms.info^
 ||cdn.vipboxoc.co^
 ||cdn.viralmint.com^
 ||cdn.voscast.com^
-||cdn.welcome.pussysaga.com^
 ||cdn.wonderfulengineering.com^
 ||cdn.x-lift.jp^
 ||cdn.yourtopoffers.info^
@@ -5259,8 +5252,6 @@ ws*://video.docfilms.info^
 ||cdn1.bad-credit-cdn.com^
 ||cdn1.bnmla.com^
 ||cdn1.clkbid.com^
-||cdn1.clkrev.com^
-||cdn1.crispadvertising.com^
 ||cdn1.deals-discounts-codes.com^
 ||cdn1.e5.mydirtyhobby.com^
 ||cdn1.ettoday.net^
@@ -5275,10 +5266,8 @@ ws*://video.docfilms.info^
 ||cdn1now.com^
 ||cdn2-ref.landing.com^content.net^
 ||cdn2.ad-center.com^
-||cdn2.adbrau.com^
 ||cdn2.adsdk.com^
 ||cdn2.bad-credit-cdn.com^
-||cdn2.crispadvertising.com^
 ||cdn2.deals-discounts-codes.com^
 ||cdn2.lockerdome.com^
 ||cdn2.maxiget.com^
@@ -7286,7 +7275,6 @@ ws*://video.docfilms.info^
 ||delivery*.com^
 ||delivery.adscension.com^
 ||delivery.adstheaa.com^
-||delivery.advanseads.com^
 ||delivery.anchorfree.us
 ||delivery.broker.to
 ||delivery.brokerbabe.com^
