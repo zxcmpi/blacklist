@@ -6523,18 +6523,13 @@ ws*://video.docfilms.info^
 ||creative.abestservers.com^
 ||creative.ad***m.com^
 ||creative.ad*m.com^
-||creative.admtpmp127.com^
 ||creative.apn.co.nz^
 ||creative.cpxcenter.com^
 ||creative.digitaltargetmarketing.com^
 ||creative.hatid.com^
-||creative.m2pub.com^
-||creative.metalyzer.com^
-||creative.rev2pub.com^
 ||creative.speednetwork6.com^
 ||creative.stripchat.com^
 ||creative.whi.co.nz^
-||creative.wwwpromoter.com^
 ||creativecdn.com^
 ||creatives.as4x.tmcs.net^
 ||creatives.gunosy.com^
@@ -6624,7 +6619,6 @@ ws*://video.docfilms.info^
 ||css.aliyun.com^
 ||csstatic.com^
 ||cstrk.net^
-||ct.adcenter.net^
 ||ct.buzzfeed.com^
 ||ct.cnet-ssa.cnet.com^
 ||ct.eid.co.nz^
@@ -8402,7 +8396,6 @@ ws*://video.docfilms.info^
 ||ettalhap.com^
 ||etui.fs.ml.com^
 ||etyper.com^
-||eu-adcenter.net^
 ||eu-px.steelhousemedia.com^
 ||eu-survey.com^
 ||eu.a.volvelle.tech
@@ -14468,7 +14461,6 @@ ws*://video.docfilms.info^
 ||oldtiger.net^
 ||oligan.info^
 ||olimpbanners.info^
-||oliver.adcenter.net^
 ||olivka.biz^
 ||olizyr.com^
 ||om.1and1.co.uk^
@@ -17145,14 +17137,12 @@ ws*://video.docfilms.info^
 ||s.ixiaa.com^
 ||s.kma1.biz^
 ||s.luxadv.com^
-||s.m2pub.com^
 ||s.motads.com^
 ||s.ndemiccreations.com^
 ||s.nvrentao8.com^
 ||s.o-clk.com^
 ||s.rankdirectory.org^
 ||s.renren.com^
-||s.rev2pub.com^
 ||s.sniphub.com^
 ||s.ssacdn.com^
 ||s.tagsrvcs.com^
