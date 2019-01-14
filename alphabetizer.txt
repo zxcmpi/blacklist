@@ -3382,12 +3382,12 @@ ws*://video.docfilms.info^
 ||artwork.aim4media.com^
 ||aru.index.hu
 ||as-farm.com^
+||as.*.impact-ad.jp^
 ||as.adfonic.net^
 ||as.ebz.io
 ||as.gamebox.com^
 ||as.gettyservices.com^
 ||as.inbox.com^
-||as.*.impact-ad.jp^
 ||as.sinahk.net^
 ||as.stat.su^
 ||as.wiley.com^
@@ -6298,6 +6298,7 @@ ws*://video.docfilms.info^
 ||cookie.fuel451.com^
 ||cookie.monster.com^
 ||cookieanalyze.info
+||cookielaw.org^
 ||cookies.cmpnet.com^
 ||cookies.livepartners.com^
 ||cookies.reedbusiness.nl^
@@ -6520,8 +6521,8 @@ ws*://video.docfilms.info^
 ||creative-serving.com^
 ||creative.360yield.com^
 ||creative.abestservers.com^
-||creative.ad*m.com^
 ||creative.ad***m.com^
+||creative.ad*m.com^
 ||creative.admtpmp127.com^
 ||creative.apn.co.nz^
 ||creative.cpxcenter.com^
@@ -9840,6 +9841,7 @@ ws*://video.docfilms.info^
 ||gsp1.baidu.com^
 ||gsspat.jp^
 ||gssprt.jp^
+||gstaticadssl.l.google.com^
 ||gstats.cn^
 ||gt.lazyengines.com^
 ||gtags.net^
@@ -10086,8 +10088,8 @@ ws*://video.docfilms.info^
 ||hit.skrz.cz^
 ||hit.stat24.com^
 ||hit.sunnydollars.net^
-||hit.tripod.lycos.co.uk^
 ||hit.tripod.lycos.*^
+||hit.tripod.lycos.co.uk^
 ||hit100.ro^
 ||hit2map.com^
 ||hitadsmedia.com^
@@ -12178,8 +12180,8 @@ ws*://video.docfilms.info^
 ||liveprivates.com^
 ||liverail.com^
 ||liverank.org^
-||livere.co.kr^
 ||livere.co.kr.cizion.ixcloud.net^
+||livere.co.kr^
 ||liversely.com^
 ||liversely.net^
 ||livesearchnow.com^
@@ -12581,6 +12583,7 @@ ws*://video.docfilms.info^
 ||manfys.com^
 ||mangoads.net^
 ||mangoforex.com^
+||manifest.googlevideo.com^
 ||mansiontheologysoon.xyz^
 ||manuelu.com^
 ||manughl.de^
@@ -16495,8 +16498,8 @@ ws*://video.docfilms.info^
 ||realsecuredredirect.com^
 ||realssp.co.kr^
 ||realtechnetwork.com^
-||realtimeplease.com^
 ||realtime.services.disqus.com^
+||realtimeplease.com^
 ||realtimewebstats.net^
 ||realtracker.com^
 ||realtracking.ninja^
@@ -17263,8 +17266,8 @@ ws*://video.docfilms.info^
 ||samsungads.com^
 ||samvaulter.com^
 ||samvinva.info^
-||sana.newsinc.com^
 ||sana.newsinc.com.s3.amazonaws.com^
+||sana.newsinc.com^
 ||sandsoftors.com^
 ||sanglah.com^
 ||saoboo.com^
@@ -17705,8 +17708,8 @@ ws*://video.docfilms.info^
 ||shiloso.info^
 ||shiltirs.com^
 ||shinasi.info^
-||shinystat.*^
 ||shinystat.*.*^
+||shinystat.*^
 ||shiokambing2.com^
 ||shiokuda.me^
 ||shiokuda.org^
@@ -22203,4 +22206,3 @@ ws*://video.docfilms.info^
 ||zypenetwork.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||zzhengre.com^
-||gstaticadssl.l.google.com^
