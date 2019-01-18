@@ -5597,7 +5597,6 @@ ws*://video.docfilms.info^
 ||click.mobtimizer.com^
 ||click.monstracking.com^
 ||click.news2.v3.email-publisher.com^
-||click.oxcash.com^
 ||click.pandaapp.com^
 ||click.payserve.com^
 ||click.pdl1tracking.com^
@@ -5732,13 +5731,11 @@ ws*://video.docfilms.info^
 ||clicks.hurriyet.com.tr^
 ||clicks.igg.com^
 ||clicks.net^
-||clicks.oxcash.com^
 ||clicks.stripsaver.com^
 ||clicks.toteme.com^
 ||clicks.virtuagirl.com^
 ||clicks.walla.co.il
 ||clicks.whatifoffers.com^
-||clicks2.oxcash.com^
 ||clicks2count.com^
 ||clicks4ads.com^
 ||clicksagent.com^
@@ -8470,7 +8467,6 @@ ws*://video.docfilms.info^
 ||exdynsrv.com^
 ||exelator.com^
 ||exerciale.com^
-||exit.oxcash2.com^
 ||exit.xpays.com^
 ||exitbee.com^
 ||exitdevil.com^
@@ -10003,21 +9999,17 @@ ws*://video.docfilms.info^
 ||hit.darmoweliczniki.pl^
 ||hit.dogannet.tv^
 ||hit.meta.ua^
-||hit.multimania.com^
-||hit.multimania.lycos.fr^
 ||hit.mynet.com^
 ||hit.skrz.cz^
 ||hit.stat24.com^
 ||hit.sunnydollars.net^
 ||hit.tripod.lycos.*^
-||hit.tripod.lycos.co.uk^
 ||hit100.ro^
 ||hit2map.com^
 ||hitadsmedia.com^
 ||hitbox.com^
 ||hitcents.com^
 ||hitcount.dk^
-||hitcounter.govmetric.com^
 ||hitcounter01.xspp.com^
 ||hitcountersonline.com^
 ||hitcounterstats.com^
@@ -10650,8 +10642,6 @@ ws*://video.docfilms.info^
 ||imgclck.com^
 ||imgfarm.com^
 ||imgfeedget.com^
-||imgg-cdn.adskeeper.co.uk
-||imgg.adskeeper.co.uk
 ||imgg.dt00.net
 ||imgg.steepto.com^
 ||imglt.com^
@@ -11330,11 +11320,7 @@ ws*://video.docfilms.info^
 ||js.users.51.la^
 ||js4386.fujianryt.com^
 ||jsauth.mymovies.net^
-||jsc.adskeeper.co.uk^
-||jsc.dinclinx.com^
 ||jsc.dt07.net^
-||jsc.idealmedia.io^
-||jsc.madisonlogic.com^
 ||jsccnn.com^
 ||jscdndel.com^
 ||jscloud.org^
@@ -13897,7 +13883,6 @@ ws*://video.docfilms.info^
 ||news-super.com^
 ||news-whistleout.s3.amazonaws.com^
 ||news.1ru.tv^
-||news.idealmedia.com^
 ||news.newinform.com^
 ||news.trendovo.com.ua^
 ||newsadst.com^
@@ -14346,7 +14331,6 @@ ws*://video.docfilms.info^
 ||okvari.info^
 ||okvedvo.info^
 ||olark.com^
-||olddata.radarurl.com^
 ||oldership.com^
 ||oldtiger.net^
 ||oligan.info^
@@ -14395,7 +14379,6 @@ ws*://video.docfilms.info^
 ||on-js.herokuapp.com^
 ||on-line.lv^
 ||on-mobi.com^
-||on.maxspeedcdn.com^
 ||onad.eu^
 ||onads.com^
 ||onagida.info^
@@ -17889,7 +17872,6 @@ ws*://video.docfilms.info^
 ||society6.com^
 ||sociocast.com^
 ||sociomantic.com^
-||socitm.govmetric.com^
 ||socketanalytics.com^
 ||soclock.com^
 ||sodoit.com^
@@ -18251,7 +18233,6 @@ ws*://video.docfilms.info^
 ||st.blogads.com^
 ||st.cdnco.us^
 ||st.listrak.com^
-||st.madisonlogic.com^
 ||st.magnify.net^
 ||st.mirror.co.uk^
 ||st.penis-size.net^
@@ -21409,10 +21390,8 @@ ws*://video.docfilms.info^
 ||wsc.ehost-services.com^
 ||wshp1rbq.website^
 ||wsod.com^
-||wsp.adskeeper.co.uk^
 ||wsp.steepto.com^
 ||wssdoo.com^
-||wsstatic.govmetric.com^
 ||wstat.wibiya.com^
 ||wstatslive.com^
 ||wt-eu02.net^
