@@ -6215,7 +6215,6 @@ ws*://video.docfilms.info^
 ||contratellaps.com^
 ||contribusourcesyndication.com^
 ||contried.com^
-||control.123banners.com^
 ||control.cityofcairns.com^
 ||controller.4seeresults.com^
 ||controllis.info^
@@ -8107,10 +8106,7 @@ ws*://video.docfilms.info^
 ||emboba.info^
 ||embraceablemidpointcinnabar.com^
 ||emd10.medianext.com^
-||emediate.apmmedia.net^
-||emediate.ch^
-||emediate.dk^
-||emediate.eu^
+||emediate.*^
 ||emediatrack.com^
 ||emetriq.de^
 ||emjcd.com^
@@ -8853,9 +8849,7 @@ ws*://video.docfilms.info^
 ||flite.com^
 ||flix360.com^
 ||flixcar.com^
-||flixfacts.co.uk
-||flixfacts.co.uk^
-||flixfacts.com^
+||flixfacts.*^
 ||flixlnk.top^
 ||flixsyndication.net^
 ||fllwert.net^
@@ -9000,10 +8994,8 @@ ws*://video.docfilms.info^
 ||fraudmetrix.cn^
 ||freddyman.com^
 ||free-banners.com^
-||free-counter.co.uk^
-||free-counter.com^
-||free-counters.co.uk^
-||free-counters.net^
+||free-counter.*^
+||free-counters.*^
 ||free-domain.net^
 ||free-stats.com^
 ||free-stats.i8.com^
@@ -9017,8 +9009,8 @@ ws*://video.docfilms.info^
 ||freebiesurveys.com^
 ||freebloghitcounter.com^
 ||freecelebvideo.net^
-||freecontent.*
-||freecounter.it^
+||freecontent.*^
+||freecounter.*^
 ||freecountercode.com^
 ||freecountersnow.com^
 ||freecounterstat.com^
@@ -9040,16 +9032,8 @@ ws*://video.docfilms.info^
 ||freesoftwarelive.com^
 ||freesoftwarestation.com^
 ||freestar.io^
-||freestat.pl
-||freestat.ws^
-||freestats.biz^
-||freestats.com^
-||freestats.me^
-||freestats.net^
-||freestats.org^
-||freestats.tk^
-||freestats.tv^
-||freestats.ws^
+||freestat.*^
+||freestats.*^
 ||freetracker.biz^
 ||freetrafficsystem.com^
 ||freeusersonline.com^
@@ -9104,9 +9088,7 @@ ws*://video.docfilms.info^
 ||ft-snappy-02-debate.herokuapp.com^
 ||ftbpro.com^
 ||ftjcfx.com^
-||ftp.123banners.com^
 ||ftp.admex.com^
-||ftp.control.123banners.com^
 ||ftp.track4.com^
 ||ftr2.external.xerox.com^
 ||ftv-publicite.fr^
@@ -21999,6 +21981,7 @@ ws*://video.docfilms.info^
 ||zwaar.org^
 ||zxrtn.com^
 ||zxtrace.com^
+||u5c93.com^
 ||zxwiejfbyr.com^
 ||zxxds.net^
 ||zxypenguin.people-group.su
@@ -22008,3 +21991,4 @@ ws*://video.docfilms.info^
 ||zypenetwork.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||zzhengre.com^
+||marfeelcache.com^
