@@ -1741,10 +1741,7 @@ ws*://video.docfilms.info^
 ||adnet.vn^
 ||adnetinternational.com^
 ||adnetpartner.com^
-||adnetwork.free-h.fr
-||adnetwork.kataweb.it
-||adnetwork.nextgen.net^
-||adnetwork.vn^
+||adnetwork.*^
 ||adnetworkme.com^
 ||adnetworkperformance.com^
 ||adnetworks.co.jp^
@@ -1915,8 +1912,8 @@ ws*://video.docfilms.info^
 ||adrttt.com^
 ||adru.net^
 ||adrunnr.com^
-||ads-*
-||ads.*
+||ads-*^
+||ads.*^
 ||ads01.com^
 ||ads1-adnow.com^
 ||ads1.ami-admin.com^
@@ -1931,7 +1928,6 @@ ws*://video.docfilms.info^
 ||ads1.tripod.com^
 ||ads16811.hotwords.es^
 ||ads2-adnow.com^
-||ads2.adverline.com^
 ||ads2.backads.com^
 ||ads2.brazzers.com^
 ||ads2.clearchannel.com^
@@ -1939,7 +1935,6 @@ ws*://video.docfilms.info^
 ||ads2.delfi.ee
 ||ads2.exhedra.com^
 ||ads2.fingersoft.net^
-||ads2.greystripe.com^
 ||ads2.iwon.com^
 ||ads2.jubii.dk
 ||ads2.oneplace.com^
@@ -2091,10 +2086,7 @@ ws*://video.docfilms.info^
 ||adsmedia.cc^
 ||adsmediapro.net^
 ||adsmile.biz^
-||adsmmgp.com^
-||adsmogo.mobi^
-||adsmogo.net^
-||adsmogo.org^
+||adsmmgp.*^
 ||adsmoloco.com^
 ||adsmoon.com^
 ||adsmws.cloudapp.net^
@@ -2131,7 +2123,7 @@ ws*://video.docfilms.info^
 ||adspirit.de^
 ||adspirit.net^
 ||adsplash.de^
-||adsplay.in
+||adsplay.in^
 ||adsplus.vn^
 ||adspoi.com^
 ||adsppperv.com^
@@ -2204,7 +2196,6 @@ ws*://video.docfilms.info^
 ||adsweb.tiscali.it^
 ||adswizz.com^
 ||adswm.com^
-||adsx.greystripe.com^
 ||adsxgm.com^
 ||adsxxxtraff.com^
 ||adsxyz.com^
@@ -2347,13 +2338,13 @@ ws*://video.docfilms.info^
 ||adv.neto.net.il^
 ||adv.noblepoker.com^
 ||adv.pconline.com.cn^
-||adv.quipo.it
+||adv.quipo.it^
 ||adv.sec.miui.com^
-||adv.tre.it
-||adv.virgilio.it
+||adv.tre.it^
+||adv.virgilio.it^
 ||adv.webmd.com^
-||adv.wp.pl
-||adv.yo.cz
+||adv.wp.pl^
+||adv.yo.cz^
 ||adv01.interfree.it
 ||adv01st.com^
 ||adv2.absoluteagency.com^
@@ -2417,15 +2408,15 @@ ws*://video.docfilms.info^
 ||advertiseireland.com^
 ||advertisement2.bizedge.com^
 ||advertisementbanners.com^
-||advertiser.*
+||advertiser.*^
 ||advertiserconnection.azurewebsites.net^
 ||advertiserjob.com^
 ||advertiserurl.com^
 ||advertisespace.com^
 ||advertiseworld.com^
 ||advertiseyourgame.com^
-||advertising-*
-||advertising.*
+||advertising-*^
+||advertising.*^
 ||advertising365.com^
 ||advertisingbox.com^
 ||advertisingiq.com^
@@ -2444,7 +2435,7 @@ ws*://video.docfilms.info^
 ||advertpay.net^
 ||advertpro.sitepoint.com^
 ||advertrev.com^
-||adverts.*
+||adverts.*^
 ||advertserve.com^
 ||advertstatic.com^
 ||advertstats.com^
@@ -2599,7 +2590,6 @@ ws*://video.docfilms.info^
 ||aff.biz^
 ||aff.bstatic.com^
 ||aff.camplace.com^
-||aff.clickon.co.il
 ||aff.devicebondage.com^
 ||aff.eteachergroup.com^
 ||aff.kinkondemand.com^
@@ -2612,7 +2602,6 @@ ws*://video.docfilms.info^
 ||aff.optionyard.com^
 ||aff.publicdisgrace.com^
 ||aff.putncall.com^
-||aff.ringtonepartner.com^
 ||aff.trafficjmp.com^
 ||aff.utrader.com^
 ||aff.zoomtrader.com^
@@ -2654,12 +2643,10 @@ ws*://video.docfilms.info^
 ||affiliatehub.skybet.com^
 ||affiliatekeeper.com^
 ||affiliatelounge.com^
-||affiliatemarketing.directtrack.com^
 ||affiliatematch.com^
 ||affiliatemembership.com^
 ||affiliatemg.com^
-||affiliatenetwork.co.za^
-||affiliatenetwork.com^
+||affiliatenetwork.*^
 ||affiliateprogram.keywordspy.com^
 ||affiliatequality.com^
 ||affiliates-pro.com^
@@ -2669,8 +2656,7 @@ ws*://video.docfilms.info^
 ||affiliateshop.com^
 ||affiliatesuccess.net^
 ||affiliatetarget.com^
-||affiliatetracking.com^
-||affiliatetracking.net^
+||affiliatetracking.*^
 ||affiliatetrackingsetup.com^
 ||affiliatetrading.net^
 ||affiliatezone.com^
@@ -2702,7 +2688,6 @@ ws*://video.docfilms.info^
 ||affistats.com^
 ||affiz.net^
 ||affl.sucuri.net^
-||afflow.18-plus.net^
 ||affplanet.com^
 ||affroba.net^
 ||affsharkoffer.com^
@@ -4874,7 +4859,6 @@ ws*://video.docfilms.info^
 ||c.coolshader.com^
 ||c.domob.cn
 ||c.gdt.qq.com^
-||c.greystripe.com^
 ||c.hit.ua
 ||c.hit.ua^
 ||c.homestore.com^
@@ -10527,7 +10511,6 @@ ws*://video.docfilms.info^
 ||images.cloudassets.mobi^
 ||images.cybereps.com^
 ||images.dentalplans.com^
-||images.directtrack.com^
 ||images.dmca.com^
 ||images.dreamhost.com^
 ||images.drivelinemedia.com^
@@ -10595,7 +10578,6 @@ ws*://video.docfilms.info^
 ||img.centrum.sk
 ||img.cmpnet.com^
 ||img.df-stream.net^
-||img.directtrack.com^
 ||img.dt00.net^
 ||img.espngp.com^
 ||img.filefactscdn.com^
@@ -14257,7 +14239,6 @@ ws*://video.docfilms.info^
 ||offers.keynote.com^
 ||offerserve.com^
 ||offersquared.com^
-||offersquest.directtrack.com^
 ||offerssyndication.appspot.com^
 ||offerstrategy.com^
 ||offerx.co.uk
@@ -20387,7 +20368,6 @@ ws*://video.docfilms.info^
 ||vareza.net^
 ||variablefitness.com^
 ||variti.net^
-||varsityads.directtrack.com^
 ||varsloqt.name^
 ||vartoken.com^
 ||vashoot.com^
