@@ -2804,7 +2804,6 @@ ws*://video.docfilms.info^
 ||akamhd.com^
 ||akanoo.com^
 ||akavita.com^
-||akm.playnow.guru^
 ||akmnetwork.com^
 ||akmota.info^
 ||aknice.info^
@@ -4420,8 +4419,7 @@ ws*://video.docfilms.info^
 ||blog.livelog.biz^
 ||blog.mobpartner.com^
 ||blog104.com^
-||blogads.com^
-||blogads.de^
+||blogads.*^
 ||blogbannerexchange.com^
 ||blogclans.com^
 ||blogcounter.com^
@@ -7013,7 +7011,6 @@ ws*://video.docfilms.info^
 ||daftarqq.net^
 ||daftarqqonline.com^
 ||dagasaka.com^
-||daggr.adsxgm.com^
 ||daghashmal.com^
 ||dagnar.com^
 ||daidalos.twyn.com^
@@ -7072,10 +7069,7 @@ ws*://video.docfilms.info^
 ||data.mob.com^
 ||data.neuroxmedia.com^
 ||data.ninemsn.com.au^
-||data.perion.com^
 ||data.permittingnorthlandseamen.info^
-||data.ppn-ad-cdn.populis.com^
-||data.publishflow.com^
 ||data.queryly.com^
 ||data.replacingobservedlose.info^
 ||data.sec.miui.com^
@@ -7229,8 +7223,8 @@ ws*://video.docfilms.info^
 ||delivery*.com^
 ||delivery.adscension.com^
 ||delivery.adstheaa.com^
-||delivery.anchorfree.us
-||delivery.broker.to
+||delivery.anchorfree.us^
+||delivery.broker.to^
 ||delivery.brokerbabe.com^
 ||delivery.content-recommendation.net^
 ||delivery.first-impression.com^
@@ -7875,7 +7869,6 @@ ws*://video.docfilms.info^
 ||eas4.emediate.eu
 ||easilyask.com^
 ||easilytrack.com^
-||east.ads.simpli.fi
 ||easy-adserver.com^
 ||easy-hit-counters.com^
 ||easy.lv^
@@ -8046,7 +8039,6 @@ ws*://video.docfilms.info^
 ||eluxer.net^
 ||elvate.net^
 ||elwarvi.info^
-||em.offerx.co.uk
 ||email-match.com^
 ||email-newsletters.com^
 ||email-reflex.com^
@@ -8469,7 +8461,6 @@ ws*://video.docfilms.info^
 ||f-4560.com^
 ||f.aduwant.com^
 ||f.asdfzxcv1312.com^
-||f.blogads.com^
 ||f.iaftjs.info^
 ||f.mol.im
 ||f.pinid.com^
@@ -10207,22 +10198,14 @@ ws*://video.docfilms.info^
 ||i.1cat.com^
 ||i.bigbn.com^.ua
 ||i.bkatjs.info
-||i.blogads.com^
-||i.bongacash.com^
 ||i.cdnpark.com^
 ||i.exclusivegiftcards.com^
-||i.flowgo.com^
-||i.idownloadgalore.com^
 ||i.imedia.cz^
-||i.isohunt.to
+||i.isohunt.to^
 ||i.mxplayer.j2inter.com^
-||i.offerx.co.uk
-||i.playnow.guru
 ||i.plug.it^
 ||i.r1-cdn.net^
 ||i.sahcdn.com^
-||i.simpli.fi
-||i.tapit.com^
 ||i.txtsrving.info^
 ||i.verticalresponse.com^
 ||i.walla.co.il^
@@ -10246,7 +10229,7 @@ ws*://video.docfilms.info^
 ||iadctest.qwapi.com^
 ||iadfeed.qwapi.com^
 ||iadfeedtest.qwapi.com^
-||iads.com^.np
+||iads.com.np^
 ||iadsdk.apple.com^
 ||iadv.biz^
 ||iadvert.net^
@@ -14187,7 +14170,7 @@ ws*://video.docfilms.info^
 ||offersquared.com^
 ||offerssyndication.appspot.com^
 ||offerstrategy.com^
-||offerx.co.uk
+||offerx.co.uk^
 ||office.partnerearning.com^
 ||officerrecordscale.info^
 ||offline.adsoftware.com^
@@ -15228,7 +15211,7 @@ ws*://video.docfilms.info^
 ||playertraffic.com^
 ||playhaven.com^
 ||playminigolf.com^
-||playnow.guru
+||playnow.guru^
 ||playtem.com^
 ||playtomic.com^
 ||playukinternet.com^
@@ -15658,7 +15641,6 @@ ws*://video.docfilms.info^
 ||promo.adult-torrent.com^
 ||promo.blackcrush.com^
 ||promo.bluesq.com^
-||promo.bongacash.com^
 ||promo.easy-dating.org
 ||promo.ezstatic.com^
 ||promo.fileforum.com^
@@ -17342,7 +17324,6 @@ ws*://video.docfilms.info^
 ||serve-sys.com^
 ||serve.5visions.com^
 ||serve.ads.chaturbate.com^
-||serve.adsxgm.com^
 ||serve.joylandcasino.com^
 ||serve.traffic-orgy.com^
 ||serve.williamhill.com^
@@ -18139,7 +18120,6 @@ ws*://video.docfilms.info^
 ||st.a-link.co.kr^
 ||st.astraone.io^
 ||st.bebi.com^
-||st.blogads.com^
 ||st.cdnco.us^
 ||st.listrak.com^
 ||st.magnify.net^
@@ -19266,7 +19246,6 @@ ws*://video.docfilms.info^
 ||toolbarmodal.medialeopard.com^
 ||toolbox.contentspread.net^
 ||tools.bongacams.com^
-||tools.bongacash.com^
 ||tools.gfcash.com^
 ||tools.quicksprout.com^
 ||tools.ranker.com^
@@ -19420,7 +19399,6 @@ ws*://video.docfilms.info^
 ||tracelog.www.alibaba.com^
 ||tracelytics.com^
 ||tracemyip.org^
-||tracer.blogads.com^
 ||tracer.jp^
 ||tracer.perezhilton.com^
 ||tracetracking.net^
@@ -20021,7 +19999,6 @@ ws*://video.docfilms.info^
 ||ultrastats.it^
 ||ultratokensx.com^
 ||um-public-panel-prod.s3.amazonaws.com^
-||um.simpli.fi
 ||umamdmo.com^
 ||umbel.com^
 ||umeng.com^
@@ -20847,11 +20824,9 @@ ws*://video.docfilms.info^
 ||web-counter.net^
 ||web-jp.ad-v.jp^
 ||web-rotation.net
-||web-stat.com^
-||web-stat.net^
+||web-stat.*^
 ||web-t.9gag.com^
-||web-visor.*
-||web.blogads.com^
+||web-visor.*^
 ||web.mobpartner.com^
 ||web.mxradon.com^
 ||web.softonic-analytics.net^
@@ -20913,9 +20888,8 @@ ws*://video.docfilms.info^
 ||webiqonline.com^
 ||webkatalog.li^
 ||webleads-tracker.com^
-||weblemon.pl
+||weblemon.pl^
 ||weblist.de^
-||weblog.blogads.com^
 ||weblog.com.ua^
 ||weblog.livesport.eu^
 ||weblog.strawberrynet.com^
@@ -21749,7 +21723,6 @@ ws*://video.docfilms.info^
 ||z-defense.com^
 ||z-gbtlfibnw.co^
 ||z.adcpm.com^
-||z.blogads.com^
 ||z.on.aol.com^
 ||z0a.de^
 ||z444o.com^
